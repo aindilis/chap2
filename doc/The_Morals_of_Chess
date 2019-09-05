@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>The Morals of Chess - Wikisource, the free online library</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Morals_of_Chess","wgTitle":"The Morals of Chess","wgCurRevisionId":7298135,"wgRevisionId":7298135,"wgArticleId":2429525,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["1786 works","PD-old"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Morals_of_Chess","wgRelevantArticleId":2429525,"wgRequestId":"XH9kSQpAICIAAI5W4OcAAABG","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":false,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikisource","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.gadget.Site":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.charinsert","ext.gadget.Easy_LST","ext.gadget.dynamicLayoutOverrides","ext.gadget.collapsibleTables","ext.gadget.WSexport","ext.gadget.PurgeTab","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.Site&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.19"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=The_Morals_of_Chess&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=The_Morals_of_Chess&amp;action=edit"/>
+<link rel="shortcut icon" href="/static/favicon/wikisource.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikisource (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikisource.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikisource Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikisource.org/wiki/The_Morals_of_Chess"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-The_Morals_of_Chess rootpage-The_Morals_of_Chess skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">The Morals of Chess</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikisource</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="headerContainer" class="ws-noexport noprint">
+<div id="navigationHeader" class="headertemplate" style="display:table; border-collapse:collapse; border-spacing:0px 0px; empty-cells:hide; border:1px solid #ACA; margin:0px auto 4px auto; width:100%;">
+<div style="display:table-row-group; background-color:#E6F2E6;">
+<div style="display:table-row;">
+<div class="gen_header_backlink searchaux" style="display:table-cell; text-align:left; vertical-align:middle; width:20%;">
+</div>
+<div class="gen_header_title" style="display:table-cell; text-align:center; width:60%;"><b><span id="header_title_text">The Morals of Chess</span></b> &#160;(1786)&#160;<br /><i>by <a href="/wiki/Author:Benjamin_Franklin" title="Author:Benjamin Franklin"><span id="header_author_text" class="vcard"><span class="fn">Benjamin Franklin</span></span></a></i>
+</div>
+<div class="gen_header_forelink searchaux" style="display:table-cell; text-align:right; vertical-align:middle; width:20%;">
+</div>
+</div>
+</div>
+</div>
+<div id="navigationNotes" class="header_notes searchaux" style="display:table; border-collapse:collapse; border-spacing:0px 0px; empty-cells:hide; border-bottom:1px solid #A0A0A0; font-size:0.90em; line-height:1.4; margin:0px auto 4px auto; width:100%;">
+<div style="display:table-row-group; background-color:#FAFAFF;">
+<div style="display:table-row;">
+<div class="searchaux" style="display:table-cell;"><ul id="plainSister" style="display:inline-block; font-size:93%; line-height:normal; list-style-type:none; list-style-image:none; list-style-position:outside; border:1px solid #AAA; float:right; clear:right; margin:0.5ex 0.5ex 0.5ex 0.5ex; padding:0.0ex 0.0ex 0.0ex 0.0ex; background:#FFFFFF; background-color:#FFFFFF;"><li class="sisitem"><span class="sisicon" style="padding-right:1ex;"><a href="/wiki/Template:Textinfo" title="Template:Textinfo"><img alt="Documentation for the TextInfo template." src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/18px-Information_icon.svg.png" decoding="async" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/27px-Information_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/36px-Information_icon.svg.png 2x" data-file-width="620" data-file-height="620" /></a></span><a href="/wiki/Talk:The_Morals_of_Chess" title="Talk:The Morals of Chess">information&#160;about&#160;this&#160;edition</a>.&#160;</li></ul>an essay on chess; first published in <i>The Columbian Magazine</i> in December 1786
+</div>
+</div>
+</div>
+</div>
+<div id="ws-data" class="ws-noexport" style="display:none; speak:none;"><span id="ws-article-id">2429525</span><span id="ws-title">The Morals of Chess</span><span id="ws-author">Benjamin Franklin</span><span id="ws-year">1786</span>
+</div>
+</div>
+<p>Playing at Chess, is the most ancient and universal game known among men; for its original is beyond the memory of history, and it has, for numberless ages, been the amusement of all the civilized nations of Asia, the Persians, the Indians, and the Chinese. Europe has had it above 1,000 years; the Spaniards have spread it over their part of America, and it begins lately to make its appearance in these northern states. It is so interesting in itself, as not to need the view of gain to induce engaging in it; and thence it is never played for money. Those, therefore, who have leisure for such diversions, cannot find one that is more innocent; and the following piece, written with a view to correct (among a few young friends) some little improprieties in the practice of it, shows at the same time that it may, in its effects on the mind, be not merely innocent, but advantageous, to the vanquished as well as to the victor.
+</p><p><b>The Morals of Chess</b>
+</p><p>The game of Chess is not merely an idle amusement. Several very valuable qualities of the mind, useful in the course of human life, are to be acquired or strengthened by it, so as to become habits, ready on all occasions. For life is a kind of chess, in which we have often points to gain, and competitors or adversaries to contend with, and in which there is a vast variety of good and ill events, that are, in some degree, the effects of prudence or the want of it.
+</p><p>By playing at chess, then, we may learn:
+</p><p>1. Foresight, which looks a little into futurity, and considers the consequences that may attend an action: for it is continually occurring to the player, "If I move this piece, what will be the advantages of my new situation? What use can my adversary make of it to annoy me? What other moves can I make to support it, and to defend myself from his attacks?"
+</p><p>2. Circumspection, which surveys the whole chess-board, or scene of action, the relations of the several pieces and situations, the dangers they are respectively exposed to, the several possibilities of their aiding each other, the probabilities that the opponent may make this or that move, and attack this or the other piece; and what different means can be used to avoid his stroke, or turn its consequences against him.
+</p><p>3. Caution, not to make our moves too hastily. This habit is best acquired by observing strictly the laws of the game, such as, "If you touch a piece, you must move it somewhere; if you set it down, you must let it stand." And it is therefore best that these rules should be observed, as the game thereby becomes more the image of human life, and particularly of war; in which, if you have incautiously put yourself into a bad and dangerous position, you cannot obtain your enemy's leave to withdraw your troops, and place them more securely; but you must abide all the consequences of your rashness.
+</p><p>And lastly, we learn by chess the habit of not being discouraged by present bad appearances in the state of our affairs, the habit of hoping for a favorable change, and that of persevering in the search of resources. The game is so full of events, there is such a variety of turns in it, the fortune of it is so subject to sudden vicissitudes, and one so frequently, after long contemplation, discovers the means of extricating one's self from a supposed insurmountable difficulty, that one is encouraged to continue the contest to the last, in hopes of victory by our own skill, or, at least, of giving a stalemate, by the negligence of our adversary. And whoever considers, what in chess he often sees instances of, that particular pieces of success are apt to produce presumption, and its consequent, inattention, by which more is afterwards lost than was gained by the preceding advantage; while misfortunes produce more care and attention, by which the loss may be recovered, will learn not to be too much discouraged by the present success of his adversary, nor to despair of final good fortune, upon every little check he receives in the pursuit of it.
+</p><p>That we may, therefore, be induced more frequently to choose this beneficial amusement, in preference to others which are not attended with the same advantages, every circumstance, that may encrease the pleasure of it, should be regarded; and every action or word that is unfair, disrespectful, or that in any way may give uneasiness, should be avoided, as contrary to the immediate intention of both the players, which is, to pass the time agreeably.
+</p><p>Therefore, 1st. If it is agreed to play according to the strict rules, then those rules are to be exactly observed by both parties; and should not be insisted on for one side, while deviated from by the other: for this is not equitable.
+</p><p>2. If it is agreed not to observe the rules exactly, but one party demands indulgencies, he should then be as willing to allow them to the other.
+</p><p>3. No false move should ever be made to extricate yourself out of a difficulty, or to gain an advantage. There can be no pleasure in playing with a person once detected in such unfair practice.
+</p><p>4. If your adversary is long in playing, you ought not to hurry him, or express any uneasiness at his delay. You should not sing, nor whistle, nor look at your watch, nor take up a book to read, nor make a tapping with your feet on the floor, or with your fingers on the table, nor do any thing that may disturb his attention. For all these things displease. And they do not show your skill in playing, but your craftiness or your rudeness.
+</p><p>5. You ought not to endeavour to amuse and deceive your adversary, by pretending to have made bad moves, and saying you have now lost the game, in order to make him secure and careless, and inattentive to your schemes; for this is fraud, and deceit, not skill in the game.
+</p><p>6. You must not, when you have gained a victory, use any triumphing or insulting expression, nor show too much pleasure; but endeavour to console your adversary, and make him less dissatisfied with himself by every kind and civil expression, that may be used with truth; such as, You understand the game better than I, but you are a little inattentive; or, You play too fast; or, You had the best of the game, but something happened to divert your thoughts, and that turned it in my favour."
+</p><p>7. If you are a spectator, while others play, observe the most perfect silence. For if you give advice, you offend both parties; him, against whom you give it, because it may cause the loss of his game; him, in whose favour you give it; because, tho' it be good, and he follows it, he loses the pleasure he might have had, if you had permitted him to think till it occurred to himself. Even after a move or moves, you must not, by replacing the pieces, show how it might have been played better: for that displeases, and may occasion disputes or doubts about their true situation. All talking to the players, lessens or diverts their attention, and is therefore unpleasing; nor should you give the least hint to either party, by any kind of noise or motion.—If you do, you are unworthy to be a spectator.—If you have a mind to exercise or show your judgment, do it in playing your own game when you have an opportunity, not in criticising or meddling with, or counselling, the play of others.
+</p><p>Lastly. If the game is not to be played rigorously, according to the rules above mentioned, then moderate your desire of victory over your adversary, and be pleased with one over yourself. Snatch not eagerly at every advantage offered by his unskilfulness or inattention; but point out to him kindly that by such a move he places or leaves a piece in danger and unsupported; that by another he will put his king in a dangerous situation, &amp;c. By this generous civility (so opposite to the unfairness above forbidden) you may indeed happen to lose the game to your opponent, but you will win what is better, his esteem, his respect, and his affection; together with the silent approbation and good will of impartial spectators.
+</p><p><br />
+</p>
+<div class="licenseContainer licenseBanner" style="box-sizing:border-box; margin-top:0.25em; margin-bottom:0.25em; clear:both; width:auto;">
+<div class="licFrame-top" style="display:table; border-collapse:collapse; border-spacing:0px 0px; empty-cells:hide; border:2px solid #88A; box-sizing:border-box; margin:0 auto 0 auto; width:100%;">
+<div style="display:table-row-group; background-color:#F7F8FF;">
+<div style="display:table-row;">
+<div class="licFrame-leftfield" style="display:table-cell; padding:5px 5px 5px 5px; text-align:left; vertical-align:middle; width:auto;"><span id="imageLeft"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/48px-PD-icon.svg.png" decoding="async" width="48" height="48" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/72px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span>
+</div>
+<div class="licFrame-centerfield" style="display:table-cell; padding:5px 5px 5px 5px; text-align:center; vertical-align:middle; width:auto;"><div id="licFrame-centertext" class="reduP" style="display:block; margin:0 auto 0 auto; text-align:left; width:100%;">
+<p>This work was published before January 1, 1924, and is in the <b><a href="https://en.wikipedia.org/wiki/Public_domain" class="extiw" title="w:Public domain">public domain</a></b> worldwide because the author died at least 100 years ago.
+</p>
+</div>
+</div>
+<div class="licFrame-rightfield" style="display:table-cell; padding:5px 5px 5px 5px; text-align:right; vertical-align:middle; width:auto;"><span id="noimageRight">&#160;</span>
+</div>
+</div>
+</div>
+</div>
+<div class="licensetpl" style="display:none"><span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</div>
+</div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20190306060956
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.064 seconds
+Real time usage: 0.091 seconds
+Preprocessor visited node count: 367/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 8657/2097152 bytes
+Template argument size: 627/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.005/10.000 seconds
+Lua memory usage: 602 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   59.312      1 -total
+ 87.17%   51.700      1 Template:Header
+ 21.77%   12.914      1 Template:Header/year
+ 16.58%    9.837      1 Template:Plain_sister
+ 12.69%    7.525      1 Template:PD-old
+  7.15%    4.242      1 Template:License
+  5.52%    3.276      1 Template:Is_number
+  5.30%    3.144      1 Template:Is_subpage
+-->
+
+<!-- Saved in parser cache with key enwikisource:pcache:idhash:2429525-0!canonical and timestamp 20190306060956 and revision id 7298135
+ -->
+</div><noscript><img src="//en.wikisource.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikisource.org/w/index.php?title=The_Morals_of_Chess&amp;oldid=7298135">https://en.wikisource.org/w/index.php?title=The_Morals_of_Chess&amp;oldid=7298135</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:1786_works" title="Category:1786 works">1786 works</a></li><li><a href="/wiki/Category:PD-old" title="Category:PD-old">PD-old</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Morals+of+Chess" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Morals+of+Chess" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/The_Morals_of_Chess" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:The_Morals_of_Chess" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/The_Morals_of_Chess">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=The_Morals_of_Chess&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=The_Morals_of_Chess&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikisource" title="Search Wikisource [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-portal"><a href="/wiki/Wikisource:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-scriptorium"><a href="/wiki/Wikisource:Scriptorium">Central discussion</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-subjectindex"><a href="/wiki/Portal:Portals">Subject index</a></li><li id="n-categoryauthors"><a href="/wiki/Category:Authors_by_alphabetical_order">Authors</a></li><li id="n-randomwork"><a href="/wiki/Special:RandomRootpage/Main">Random work</a></li><li id="n-randomauthor"><a href="/wiki/Special:Random/Author">Random author</a></li><li id="n-randomindex"><a href="/wiki/Special:Random/Index">Random transcription</a></li><li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikisource.org&amp;uselang=en" title="Support us">Donate</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-do" aria-labelledby="p-do-label">
+			<h3 id="p-do-label">Display Options</h3>
+			<div class="body">
+								<ul>
+									</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Morals_of_Chess" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Morals_of_Chess" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=The_Morals_of_Chess&amp;oldid=7298135" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=The_Morals_of_Chess&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Morals_of_Chess&amp;id=7298135" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Download/print</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Morals+of+Chess">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=The+Morals+of+Chess&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=The_Morals_of_Chess&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">In other languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=enwikisource&amp;page=The+Morals+of+Chess" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 March 2018, at 00:17.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a><br style="clear:both;" /></li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikisource:About" title="Wikisource:About">About Wikisource</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikisource:General_disclaimer" title="Wikisource:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikisource.org/w/index.php?title=The_Morals_of_Chess&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.064","walltime":"0.091","ppvisitednodes":{"value":367,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8657,"limit":2097152},"templateargumentsize":{"value":627,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   59.312      1 -total"," 87.17%   51.700      1 Template:Header"," 21.77%   12.914      1 Template:Header/year"," 16.58%    9.837      1 Template:Plain_sister"," 12.69%    7.525      1 Template:PD-old","  7.15%    4.242      1 Template:License","  5.52%    3.276      1 Template:Is_number","  5.30%    3.144      1 Template:Is_subpage"]},"scribunto":{"limitreport-timeusage":{"value":"0.005","limit":"10.000"},"limitreport-memusage":{"value":616103,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20190306060956","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1332"});});</script>
+	</body>
+</html>

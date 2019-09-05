@@ -1,0 +1,590 @@
+absolute pin
+active
+adjournment
+adjudication
+adjust 
+advanced pawn
+advantage
+Alekhine's gun
+algebraic notation
+amateur
+analysis
+annotation
+announced mate
+antipositional
+Anti-Sicilian
+Arabian mate
+arbiter
+Armageddon game
+artificial castling
+attack
+attraction
+automaton
+back rank
+back-rank mate
+back-rank weakness
+backward pawn
+bad bishop
+bare king
+Basque chess
+battery
+BCF
+BCM
+BCO
+best play
+big pawn
+bind
+bishop
+bishop pair
+bishop pawn
+bishops on opposite colors 
+black
+Black
+blind chess
+blindfold chess
+blind pigs
+blitz chess
+blockade
+blocked position
+blunder
+board
+board one
+Boden's Mate
+book draw
+book move
+book win
+break
+breakthrough
+brevity
+brilliancy
+brilliancy prize
+Bronstein delay
+bughouse chess
+building a bridge
+bullet chess
+bust
+bye
+[180px-Caissa]
+Caïssa
+calculate
+candidate move
+Candidates Match
+Candidates Tournament
+can-opener
+capped piece
+capture
+castling
+castling into it
+castling long
+castling short
+casual game
+category of a tournament
+center
+center file 
+center pawn 
+central file
+centralization
+central pawn
+cheapo
+check
+checkmate
+chess blindness
+chessboard
+chess clock
+chessmen
+chess notation
+chess opening
+chess problem
+chess set
+chess variant
+Chess960
+chop wood
+classical
+classical bishop sacrifice
+clearance
+clock move
+clock time
+closed file
+closed game
+Closed Game
+closed tournament
+coffeehouse
+color
+combination
+compensation
+computer move
+confirmation bias
+connected passed pawns
+connected pawns
+connected rooks
+consolidation
+continuation
+control
+control of the center
+cook
+corr.
+correspondence chess
+corresponding squares
+counterattack
+countergambit
+counterplay
+country move
+cover
+cramped
+critical position
+critical square
+cross-check
+crosstable
+crush
+dark-square bishop 
+dark squares
+dead draw
+decoy
+defense 
+deflect
+demonstration board
+descriptive notation
+desperado
+development 
+diagonal
+discovered attack
+discovered check
+domination
+double attack
+double check
+doubled pawns
+doubled rooks
+draw
+draw by agreement
+draw death
+drawing line
+drawing weapon
+drawish
+draw odds
+draw offer
+dynamism
+eat
+ECF
+ECO
+edge
+Elo rating system
+endgame
+endgame tablebase
+en passant
+en prise
+epaulette mate
+EPD
+equalize 
+escape square
+evaluation 
+exchange
+exchange, the
+exchange variation
+exhibition
+expanded center
+exposed king
+Extended Position Description
+family fork
+FAN
+fast chess
+FEN
+FGM
+fianchetto
+FICGS Grandmaster
+FIDE
+FIDE Master
+fifty-move rule
+file
+fingerfehler
+first board
+first-move advantage
+first player
+first rank
+Fischer delay
+Fischer Random Chess 
+five-minute chess
+flag
+flank
+flank opening
+flight square
+FM
+Fool's mate
+forced mate
+forced move
+forced win
+forcing move
+forfeit
+fork
+Forsyth–Edwards Notation
+fortress
+friendly game
+gambit
+game clock
+game score
+gardez
+GM
+God
+good bishop
+Grandmaster 
+grandmaster draw
+Greek gift sacrifice
+half-open file
+handicap
+hanging
+hanging pawns
+Harry
+hauptturnier
+heavy piece
+hole
+home rank
+horizontal line
+Horwitz bishops
+human move
+Hutton pairing
+hypermodernism
+ICCA
+ICCF
+ICS
+IGM
+illegal move
+illegal position
+IM
+imbalance
+inaccuracy
+inactive
+increment
+Indian bishop
+Indian defense 
+initiative
+innovation
+insufficient material
+interference
+intermediate move
+intermezzo
+International Arbiter
+International Correspondence Chess Federation
+International Grandmaster
+International Master
+International Woman Master
+Internet chess server
+interpose
+Interzonal tournament 
+intuition
+IQP
+irregular opening
+isolani
+isolated pawn
+Italian bishop
+j'adoube
+K
+key square
+KGA
+KGD
+KIA
+kibitz
+kick
+KID
+king
+king bishop
+king hunt
+king knight
+king pawn
+king pawn opening
+king rook
+kingside
+king walk
+knight
+knight pawn
+knight's tour
+knockout tournament
+Kotov syndrome
+Kriegspiel
+Kt
+laws of chess
+lightning chess
+light-square bishop 
+light squares
+line
+line piece
+liquidation
+long diagonal
+long-range piece
+loose piece
+loose position
+losing a tempo
+loss
+Lucena position
+luft
+main line
+majority
+major piece
+man
+Maróczy Bind
+master
+match
+mate
+material
+materialism
+mating attack
+mating net
+MCO
+middlegame
+miniature
+minor exchange
+minority attack
+minor piece
+mobile pawn center
+mobility
+mouse slip
+move
+move order
+mysterious rook move
+N
+NCO
+NN
+norm
+notation
+novelty
+occupation
+octopus
+odds
+offhand game
+Olympiad
+O-O
+O-O-O
+open file
+open game
+Open Game
+opening
+opening innovation
+opening preparation
+opening repertoire
+opening system
+open lines
+open tournament
+opposite-colored bishops 
+opposition
+optimal play
+OTB
+outpost
+outside passed pawn
+overextended
+overloaded
+overprotection
+over the board 
+overworked
+P
+pairing
+passed pawn
+passer
+passive
+passive sacrifice
+pattern recognition
+patzer
+pawn
+pawn and move
+pawn break
+pawn center
+pawn chain
+pawn island
+pawn majority
+pawn race
+pawn roller
+pawn skeleton
+pawn storm
+pawn structure
+PCA
+performance rating
+perpetual check
+PGN
+Philidor position
+piece
+pin
+plan
+playable
+play by hand
+ply
+poisoned pawn
+Poisoned Pawn Variation
+Portable Game Notation
+positional play
+positional player
+positional sacrifice
+post mortem
+preparation
+prepared variation
+Principle of two weaknesses
+priyome
+problem-like
+promotion
+prophylaxis
+protected passed pawn
+pseudo sacrifice
+push
+Q
+QGA
+QGD
+QID
+quad
+queen
+queen bishop
+queening
+queen knight
+queen pawn
+queen pawn opening
+queen rook
+queenside
+quickplay finish
+quiet move
+R
+Rabar Classification
+raking bishops
+randomized chess
+rank
+rapid chess
+recapture
+refute
+related squares
+relative pin
+remis
+repertoire
+reserve tempo
+resign 
+resign on time
+Romantic chess
+rook
+rook lift
+rook pawn
+round-robin tournament
+royal fork
+royal piece
+S
+sac
+sacrifice
+SAN
+sans voir
+Scholar's mate
+score
+score sheet 
+sealed move
+second
+second player
+seesaw
+Semi-Closed Game
+semi-open file
+Semi-Open Game
+sham sacrifice
+sharp
+shot
+silent move
+simplification
+simultaneous chess
+sitzfleisch
+skewer
+skittles
+smothered mate
+Sofia rules
+solid
+sortie
+sound
+space
+Spanish bishop
+speed chess
+spite check
+squeeze
+stalemate
+starting square
+Staunton chess set
+stem game
+strategic crush
+strategy
+strong
+stronger side
+strongpoint
+strong square
+sudden death
+support point
+swap
+swindle
+Swiss tournament
+symmetry
+system
+tabia
+tablebase
+tactician
+tactics
+takeback
+Tarrasch rule
+TD
+technique
+tempo
+tension
+text move
+thematic
+theme tournament
+theoretical draw
+theoretical novelty 
+threat
+threefold repetition
+tiebreaks
+time
+time control
+time delay
+time pressure
+TN
+top board
+touched piece rule
+tournament
+tournament book
+tournament director 
+trade
+transposition 
+trap
+trébuchet
+triangulation
+tripled pawns
+Troitsky line
+two bishops
+undermining
+underpromotion
+United States Chess Federation
+unorthodox opening
+unpinning
+unsound
+USCF
+vacating sacrifice
+valve
+vanished center
+variant
+variation
+vertical line
+waiting move
+WCC
+weakness
+weak square
+WFM
+WGM
+white
+White
+WIM
+win
+windmill
+wing
+Wing Gambit
+winning percentage
+winning position
+Woman FIDE Master
+Woman Grandmaster
+Woman International Master
+won game
+wood
+woodpusher
+World Champion
+wrong-colored bishop
+wrong rook pawn
+X-ray
+zeitnot
+Zonal tournaments 
+zugzwang
+zwischenschach
+zwischenzug

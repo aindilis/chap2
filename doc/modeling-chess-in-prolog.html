@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Henri Tuhola" name="author"/>
+<title>boxbase.org: Modeling of Chess in Prolog</title>
+<link href="/style/screen.css" rel="stylesheet"/>
+<link href="//boxbase.org/feed.rss" rel="alternate" title="Boxbase Feed" type="application/rss+xml"/>
+<script async="async" defer="defer" src="//cdn.webglstats.com/stat.js"></script>
+<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css"/>
+<style type="text/css">
+        #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+        /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+    </style>
+</head>
+<body>
+<article><h1>Modeling of Chess in Prolog</h1>
+<p>I started modeling Chess in Prolog this weekend.
+This work was not finished and
+I might be moving to something else before I do that,
+so I'll explain things so far.</p>
+<p>Whole interest into chess isn't about chess at all.
+The intent is to explore interactive logic programming.</p>
+<h2>Describing every game of chess</h2>
+<p>For the purpose it's not sufficient to only describe the
+valid moves in the game.
+We need to logically describe how the game proceeds.
+To do this I have to introduce a concept of channel that
+lets the system to send and receive values.</p>
+<p>I represent it with the <code>A{...}B</code> -construct.</p>
+<ul>
+<li>The <code>A</code> is the channel before the event.</li>
+<li>The <code>B</code> is the channel after the event.</li>
+<li>The sequence in the braces are the actions done to the channel.</li>
+</ul>
+<p>The resulting program for the chess look like this:</p>
+<pre><code>; Players are taking turns.
+</code><code>chess(Game1, Board1) :-
+</code><code>  Game1{send Action, receive Response}Game2,
+</code><code>  move(Board1, white, Action),
+</code><code>  move(Action, black, Response),
+</code><code>  chess(Game2, Response).
+</code><code>
+</code><code>; The white loses to the black player.
+</code><code>chess(Game1, Board) :-
+</code><code>  checkmate(Board, white),
+</code><code>  Game1{},
+</code><code>  fail.
+</code><code>
+</code><code>; The white wins against the black.
+</code><code>chess(Game1, Board) :-
+</code><code>  move(Board, white, Victory),
+</code><code>  checkmate(Victory, black),
+</code><code>  Game1{send Victory}.</code></pre>
+<p>The checkmate and the movement require their implementations.</p>
+<p>The checkmate is conceptually easy:</p>
+<pre><code>checkmate(Board, Player) :-
+</code><code>  \+(move(Board, Player, _)).</code></pre>
+<p>This means that the game is lost when the player can no longer
+do a proper move.</p>
+<p>In the movement we have to describe how you can't do a move
+if it allows the enemy to capture your king on his turn.</p>
+<p>In a naive way you could probably express this like..</p>
+<pre><code>move(A, Player, B) :-
+</code><code>  possible_move(A, Player, B),
+</code><code>  opponent(Player, Other),
+</code><code>  \+(
+</code><code>    possible_move(B, Other, C),
+</code><code>    \+(member(piece(Player, king, _, _), C))).</code></pre>
+<p>This literally means that if there's an opponent move that
+results in the king being captured,
+then this possible movement doesn't count as a valid move.</p>
+<p>To do this better we may have to keep a list of the movements.
+This is necessary anyway because we cannot model the En-passant
+without a list of moves.</p>
+<p>The En-passant is a move which allows you to capture a pawn that
+did the initial two steps instead of one.</p>
+<pre><code>.r.h.b.q.k.b.h.r. imaginary situation
+</code><code>.p.p.p.p.p._.p.p.
+</code><code>._._._._._._._._.
+</code><code>._._._._._._._._.
+</code><code>._._._._._.p._._.
+</code><code>._._._._._._._._.
+</code><code>.p.p.p.p.p.p.p.p.
+</code><code>.r.h.b.q.k.b.h.r.
+</code><code>
+</code><code>.r.h.b.q.k.b.h.r. the black player moves his pawn two steps.
+</code><code>.p.p.p.p.p._.p.p.
+</code><code>._._._._._._._._.
+</code><code>._._._._._._._._.
+</code><code>._._._._.p.p._._.
+</code><code>._._._._.|._._._.
+</code><code>.p.p.p.p.|.p.p.p.
+</code><code>.r.h.b.q.k.b.h.r.
+</code><code>
+</code><code>.r.h.b.q.k.b.h.r. This is the en-passant, you can capture
+</code><code>.p.p.p.p.p._.p.p. the pawn as if it had done just one step.
+</code><code>._._._._._._._._.
+</code><code>._._._._._._._._.
+</code><code>._._._._._./._._.
+</code><code>._._._._.p._._._.
+</code><code>.p.p.p.p._.p.p.p.
+</code><code>.r.h.b.q.k.b.h.r.</code></pre>
+<p>I remember having hit by this at least once.
+Somebody must have thought that the game was way too simple.</p>
+<h2>Initial board configuration</h2>
+<p>The initial board is easily described like this:</p>
+<pre><code>initial(piece(white, rook,   1, 1)).
+</code><code>initial(piece(white, knight, 2, 1)).
+</code><code>initial(piece(white, bishop, 3, 1)).
+</code><code>initial(piece(white, queen,  4, 1)).
+</code><code>initial(piece(white, king,   5, 1)).
+</code><code>initial(piece(white, bishop, 6, 1)).
+</code><code>initial(piece(white, knight, 7, 1)).
+</code><code>initial(piece(white, rook,   8, 1)).
+</code><code>initial(piece(white, pawn,   X, 2)) :-
+</code><code>    between(1, 8, X).
+</code><code>
+</code><code>initial(piece(black, rook,   1, 8)).
+</code><code>initial(piece(black, knight, 2, 8)).
+</code><code>initial(piece(black, bishop, 3, 8)).
+</code><code>initial(piece(black, queen,  4, 8)).
+</code><code>initial(piece(black, king,   5, 8)).
+</code><code>initial(piece(black, bishop, 6, 8)).
+</code><code>initial(piece(black, knight, 7, 8)).
+</code><code>initial(piece(black, rook,   8, 8)).
+</code><code>initial(piece(black, pawn,   X, 7)) :-
+</code><code>    between(1, 8, X).</code></pre>
+<p>To generate it user can use Prolog's 'findall':</p>
+<pre><code>initial_board(Board) :-
+</code><code>    findall(Piece, initial(Piece), Board).</code></pre>
+<p>The board ends up being a list of all the pieces.</p>
+<h2>Opponents</h2>
+<p>This describes that the white is the opponent of the black,
+and the black is the opponent of the white.</p>
+<pre><code>opponent(white, black).
+</code><code>opponent(black, white).</code></pre>
+<h2>Vacancy</h2>
+<p>To describe where a piece can be moved,
+it suffices to tell where the edges of the board are,
+and check that there's not an another piece on the way.</p>
+<pre><code>vacant(X, Y, Board) :-
+</code><code>  between(1, 8, X),
+</code><code>  between(1, 8, Y),
+</code><code>  \+(member(piece(_, _, X, Y), Board)).</code></pre>
+<h2>Capture</h2>
+<p>When describing the capture of individual pieces,
+it has to be told that you can only capture opponent's
+pieces and the piece ends up being replaced by an another.</p>
+<pre><code>capture(piece(Color, Which, X, Y), Motion, End) :-
+</code><code>  opponent(Color, Other),
+</code><code>  select(piece(Other, _, X, Y),     Motion, Motion2),
+</code><code>  End = [piece(Color, Which, X, Y) | Motion2].</code></pre>
+<p>I originally used the same command to remove and introduce a piece.
+Use of a list would seem to be a bad move anyway.
+We would have to be able of describing our board
+as a set instead.</p>
+<pre><code>place(Piece, Motion, End) :-
+</code><code>  End = [Piece | Motion].</code></pre>
+<p>If the placement of a piece was described like
+the removal is described,
+it would mean that the interpreter can permute the board's
+representation to get the same moves structured in different ways.</p>
+<h2>Knight's movements</h2>
+<p>Knight's possible moves are easiest to describe.</p>
+<pre><code>possible_move(Board, Color, End) :-
+</code><code>  select(piece(Color, knight, X, Y), Board, Motion),
+</code><code>  (
+</code><code>    N_X is X + 1, N_Y is Y + 2;
+</code><code>    N_X is X - 1, N_Y is Y + 2;
+</code><code>    N_X is X + 1, N_Y is Y - 2;
+</code><code>    N_X is X - 1, N_Y is Y - 2;
+</code><code>    N_X is X + 2, N_Y is Y + 1;
+</code><code>    N_X is X - 2, N_Y is Y + 1;
+</code><code>    N_X is X + 2, N_Y is Y - 1;
+</code><code>    N_X is X - 2, N_Y is Y - 1
+</code><code>  ),
+</code><code>  (
+</code><code>    vacant(N_X, N_Y, Board),
+</code><code>    place(piece(Color, knight, N_X, N_Y), Motion, End)
+</code><code>    ;
+</code><code>    capture(piece(Color, knight, N_X, N_Y), Motion, End)
+</code><code>  ).</code></pre>
+<p>Prolog's extralogical features are starting to take a toll here.
+I'm planning to use the rules with TAU prolog so I am not willing
+to use a constraint solver on the numerical variables.</p>
+<p>Unfortunately it also means that I cannot ask all the questions
+I could ask from a full chess-model.
+Tinkering with such model could be almost as fun as actually
+playing the game.</p>
+<p>There are six different characters in total and
+some of their movements are similar.
+Also some special moves are present.
+I think those special moves would be
+the easiest to explain through prolog,
+whereas they would probably take most effort in the other languages.</p>
+<h2>Little bit of dirty Prolog for formatting boards.</h2>
+<p>To draw the boards in <code>SWI-Prolog</code> I also wrote a little bit of
+imperative code in Prolog.
+I know that someone else might want to draw chess boards into
+a console as well, so it's inevitable that someone wants this.
+Here it is for you, whoever you are.</p>
+<pre><code>draw_board(Board) :-
+</code><code>  nl, draw_row(1, 1, Board), nl.
+</code><code>
+</code><code>draw_row(X, Y, Board) :-
+</code><code>  X =&lt; 8,
+</code><code>  draw_piece(X, Y, Board),
+</code><code>  X1 is X+1,
+</code><code>  draw_row(X1, Y, Board).
+</code><code>draw_row(9, Y, Board) :-
+</code><code>  Y =&lt; 7,
+</code><code>  nl,
+</code><code>  Y1 is Y+1,
+</code><code>  draw_row(1, Y1, Board).
+</code><code>draw_row(9, 8, _) :-
+</code><code>  nl.
+</code><code>
+</code><code>draw_piece(X, Y, Board) :-
+</code><code>  X == 1,
+</code><code>  write('    .'),
+</code><code>  draw_piece_on_board(X, Y, Board),
+</code><code>  write('.').
+</code><code>
+</code><code>draw_piece(X, Y, Board) :-
+</code><code>  X &gt; 1,
+</code><code>  draw_piece_on_board(X, Y, Board),
+</code><code>  write('.').
+</code><code>
+</code><code>draw_piece_on_board(X, Y, Board) :-
+</code><code>  ( member(piece(_, Which, X, Y), Board) -&gt;
+</code><code>    letter(Which, Letter),
+</code><code>    write(Letter)
+</code><code>    ;
+</code><code>    write('_')
+</code><code>  ).
+</code><code>
+</code><code>letter(bishop, 'b').
+</code><code>letter(king,   'k').
+</code><code>letter(knight, 'h').
+</code><code>letter(pawn,   'p').
+</code><code>letter(queen,  'q').
+</code><code>letter(rook,   'r').</code></pre>
+<p>Enjoy yourselves.
+It's not fast but it does the job,
+well you could say that about all of the Prolog code here.
+You can test it with the initial_board.</p>
+<p>I think that the dirty code shows something about Prolog.
+When you step out and start writing code in the imperative style,
+it becomes convoluted and difficult to follow what is happening there.</p>
+<p>If you're careful with the guards and nondeterminism you can do it.
+This is the problem though.</p>
+<p>Prolog is supposed to be a language that
+doesn't keep you on your toes with its oddball antics,
+yet the imperative operation it requires for side-effects
+is exactly this kind of a feature.</p>
+<h2>Why interactive logic programming?</h2>
+<p>The <code>chess(Game, Board)</code> describes every game where the
+white player wins.
+Also the <code>Game1{send Action, receive Response}Game2</code> is
+from the viewpoint of the white player.</p>
+<p>Note that we describe every possible game here. The
+<code>chess(Game, Board)</code> is a type for describing every
+game of chess ever played and every move made in those games.</p>
+<p>Theoretically this notation would be sufficient for implementing
+a communicating Prolog interpreter.
+It could use minimax and alpha beta pruning to
+decide the next move it does.
+It would know the correct and valid moves and
+probably beat some players in this game.</p>
+<p>You may spot one disrepancy here.
+If the opponent does a wrong move,
+the machine loses.
+That's because we represent the loss with the <code>fail</code> and do not
+describe responsibilities any other way.</p>
+<p>If you could easily describe a system that can play chess,
+would that be something to motivate to look into interactive logic?</p>
+<p>Of course,
+first we would need ways to describe interactions through logic.
+<a href="https://en.wikipedia.org/wiki/Computability_logic">Japaridze</a>
+seems to have done a fitting logic for this purpose.</p>
+<p>I'm sorry that the chess program isn't finished here.
+Maybe I'll get it finished later.</p>
+</article>
+<nav id="article-nav">
+<a href="/">index</a>
+<a href="/entries/2018/nov/12/tools">prev</a>
+<a href="/entries/2018/nov/26/peek-inside-llprover">next</a>
+</nav>
+<nav id="page-nav">
+<a href="feed://boxbase.org/feed.rss">rss</a>
+<a href="//boxbase.org/catalog/">catalog</a>
+<a href="//github.com/cheery/">github</a>
+</nav>
+<footer>
+<p>Blog author: <a href="/entries/2014/jul/28/about-the-author/">Henri Tuhola</a>, a Finnish self-taught programmer and an electronics enthusiast.</p>
+<p>I enjoy Programming, Program design, Algorithms, Steam OS, Game
+        programming, Vulkan, Virtual reality, WebGL, DIY electronics, Internet,
+        Gardening, Fitness training. This blog represents a cross-section of all of my interests.</p>
+<p>I am also the author of <a href="//leverlanguage.com">Lever programming language</a>.</p>
+<p>I usually update the blog every week or two. You may feedback me with an <a href="mailto:henri.tuhola@gmail.com">email</a> or <a href="https://twitter.com/HenriTuhola">twitter</a>.</p>
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="//boxbase.us9.list-manage.com/subscribe/post?u=e44927012fd0f0130b044e91d&amp;id=0e427aed5b" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll">
+<h2>Subscribe to my blog's mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+<input class="required email" id="mce-EMAIL" name="EMAIL" type="email" value=""/>
+</div>
+<div class="clear" id="mce-responses">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;"><input name="b_e44927012fd0f0130b044e91d_0e427aed5b" tabindex="-1" type="text" value=""/></div>
+<div class="clear"><input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe"/></div>
+</div>
+</form>
+</div>
+<script src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js" type="text/javascript"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+</footer>
+<script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-12626354-8', 'boxbase.org');
+      ga('send', 'pageview');
+
+    </script>
+</body>
+</html>

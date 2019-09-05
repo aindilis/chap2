@@ -1,0 +1,4591 @@
+Glossary of chess
+
+From Wikipedia, the free encyclopedia
+Jump to navigation Jump to search
+See also: Glossary of chess problems, Index of chess articles, Outline of chess
+, and Chess tactics
+
+This page explains commonly used terms in chess in alphabetical order. Some of
+these have their own pages, like fork and pin. For a list of unorthodox chess
+pieces, see Fairy chess piece; for a list of terms specific to chess problems,
+see Glossary of chess problems; for a list of chess-related games, see List of
+chess variants.
+
+Directory: 
+
+  • A
+  • B
+  • C
+  • D
+  • E
+  • F
+  • G
+  • H
+  • I
+  • J
+  • K
+  • L
+  • M
+  • N
+  • O
+  • P
+  • Q
+  • R
+  • S
+  • T
+  • U
+  • V
+  • W
+  • X
+  • Z
+  • Notes
+  • References
+
+A[edit]
+
+absolute pin
+    A pin against the king is called absolute since the pinned piece cannot
+    legally move out of the line of attack (as moving it would expose the king
+    to check).^[1] Cf. relative pin.
+active
+    Describes a piece that threatens a number of squares, or that has a number
+    of squares available for its next move. It may also describe an aggressive
+    style of play.^[2] Antonym: passive.
+    [210px-Adjournment]
+     
+    Envelope used for the adjournment of a match game Efim Geller vs. Bent
+    Larsen, Copenhagen 1966
+adjournment
+    Suspension of a chess game with the intention to finish it later. It was
+    once very common in high-level competition, often occurring soon after the
+    first time control, but the practice has been abandoned due to the advent
+    of computer analysis.^[3] See also sealed move.
+adjudication
+    A way to decide the result of an unfinished game. A tournament director, or
+    an impartial and strong player, will evaluate the final position and assign
+    a win, draw, or loss assuming best play by both players.^[4]
+adjust 
+    See Touch-move rule. To adjust the position of a piece on its square
+    without being required to move it. A player may only do this on their turn,
+    and they must first say "I adjust", or the French equivalent J'adoube.^[5]
+advanced pawn
+    A pawn that is on the opponent's side of the board (the fifth rank or
+    higher). An advanced pawn may be weak if it is overextended, lacking
+    support and difficult to defend, or strong if it cramps the enemy by
+    limiting mobility. An advanced passed pawn that threatens to promote can be
+    especially strong.^[6]
+advantage
+    A better position with the chance of winning the game. Evaluation factors
+    can include space, time, material, and threats.^[2]
+    Alekhine vs. Nimzowitsch, 1930
+      a b c d e f g  h
+
+    8                   8
+      Chessboard480.svg
+      b8 black rook
+      f8 black king
+    7 a7 black pawn     7
+      c7 black rook
+      d7 black queen
+      e7 black knight
+    6 g7 black pawn     6
+      a6 white pawn
+      b6 black pawn
+      c6 black knight
+    5 e6 black pawn     5
+      h6 black pawn
+      b5 white bishop
+      d5 black pawn
+    4 e5 white pawn     4
+      f5 black pawn
+      b4 white pawn
+      d4 white pawn
+    3 f4 white pawn     3
+      c3 white rook
+      f3 white knight
+      c2 white rook
+    2 g2 white pawn     2
+      h2 white pawn
+      c1 white queen
+      g1 white king
+    1                   1
+
+
+      a b c d e f g  h
+    Alekhine's gun
+Alekhine's gun
+    A special form of battery in which a queen backs up two rooks on the same
+    file.^[7]
+    [242px-SCD_algebraic_notation]
+    Algebraic notation
+algebraic notation
+    The standard way to record the moves of a chess game, using alphanumeric
+    coordinates for the squares.^[8]
+amateur
+    Any player whose main occupation is not chess.^[9] The distinction between
+    professional and amateur is not very important in chess as amateurs may win
+    prizes, accept appearance fees, and earn any title, including World
+    Champion.^[9]^[10] In the 19th century, "Amateur" was sometimes used in
+    published game scores to conceal the name of the losing player in a Master
+    vs. Amateur contest. It was thought to be impolite to use a player's name
+    without permission, and the professional did not want to risk losing a
+    customer.^[10] See also NN.
+analysis
+    The study of a game or a position, in order to evaluate the quality of the
+    moves and various other aspects of the game or position. At the end of a
+    game, the players will often do an analysis of the game. Cf. post-mortem.^
+    [2]
+annotation
+    Written commentary on a game or a position using words, chess symbols or
+    notation.^[2]
+announced mate
+    A practice, common in the 19th century, whereby a player would announce a
+    sequence of moves, believed by him to constitute best play by both sides,
+    that led to a forced checkmate for the announcing player in a specified
+    number of moves (for example, "mate in five").^[11]
+antipositional
+    A move or a plan that is not in accordance with the principles of
+    positional play.^[12] Antipositional is used to describe moves that are
+    part of an incorrect plan rather than a mistake made when trying to follow
+    a correct plan. Antipositional moves are often pawn moves; since pawns
+    cannot move backwards to return to squares they have left, their advance
+    can create irreparable weaknesses.^[13]
+Anti-Sicilian
+    An opening variation that White uses against the Sicilian Defense (1.e4 c5)
+    other than the most common plan of 2.Nf3 followed by 3.d4 cxd4 4.Nxd4 (the
+    Open Sicilian). Some Anti-Sicilians include the Alapin Variation (2.c3),
+    Moscow Variation (2.Nf3 d6 3.Bb5+), Rossolimo Variation (2.Nf3 Nc6 3.Bb5),
+    Grand Prix Attack (2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7 and now 5.Bc4 or 5.Bb5),
+    Closed Sicilian (2.Nc3 followed by g3 and Bg2), Smith–Morra Gambit (2.d4
+    cxd4 3.c3), and Wing Gambit (2.b4).^[14]
+      a b c d e f g  h
+    8                   8
+    7                   7
+    6 Chessboard480.svg 6
+    5 h8 black king     5
+    4 h7 white rook     4
+    3 f6 white knight   3
+    2                   2
+    1                   1
+      a b c d e f g  h
+    Arabian mate
+Arabian mate
+    A checkmate that occurs when the knight and rook trap the opposing king in
+    a corner.^[15]
+arbiter
+    See International Arbiter.
+Armageddon game
+    A game that is guaranteed to produce a decisive result, because if there is
+    a draw it is ruled a victory for Black. In compensation for this White is
+    given more time on the clock. Often White is given six minutes, and Black
+    five. This format is typically used in playoff tiebreakers when shorter
+    blitz games have not resolved the tie.^[16]
+artificial castling
+    Refers to a maneuver of several separate moves by the king and by a rook
+    where they end up as if they had castled. Also known as castling by hand.^
+    [17]
+attack
+    An aggressive action on a part of the chessboard, or to threaten the
+    capture of a piece or pawn.^[18] See also counterattack, discovered attack,
+    double attack, mating attack, and minority attack. Antonym: defense.
+    Example of attraction
+      a b c d e f g  h
+    8 Chessboard480.svg 8
+    7 g8 black rook     7
+    6 a7 white queen    6
+    5 b7 black queen    5
+    4 c7 black king     4
+    3 c2 white king     3
+    2 d2 white rook     2
+    1                   1
+      a b c d e f g  h
+    White wins with 1.Rd7+! The black king is attracted away from the defense
+    of the black queen with a skewer.
+attraction
+    A type of decoy involving a sacrifice of a minor or major piece on a square
+    next to the enemy king, forcing the king to abandon the defense of another
+    square. For example (see diagram), the black queen has interposed to block
+    a check from the white queen, and White can check the king from the
+    opposite direction to win the queen.^[19]
+automaton
+    An automaton is a self-operating machine. In chess, it refers to
+    chess-playing machines that were in fact hoaxes and under the control of
+    hidden human players. Automatons stirred up great interest in the 18th and
+    19th centuries and inspired early thoughts of the possibility artificial
+    intelligence. By far, the most famous chess-playing "automaton" was The
+    Turk, whose secret of human control was kept for a very long time. The
+    first true automaton El Ajedrecista was created by Leonardo Torres y
+    Quevedo.
+
+B[edit]
+
+B
+    Symbol used for the bishop when recording chess moves in English.^[20]
+back rank
+    A player's first rank (the one on which the pieces stand in the starting
+    position); White's back rank is Black's eighth rank, and vice versa.^[21]
+    Also called first rank or home rank.
+back-rank mate
+    A checkmate delivered by a rook or queen along a back rank from which the
+    mated king is unable to move because it is blocked by friendly pieces
+    (usually pawns) on the second rank.^[21] Also called back-row mate.
+back-rank weakness
+    A situation in which a player is under threat of a back-rank mate and,
+    having no time/option to create an escape for the king, must constantly
+    watch and defend against that threat, for example by keeping a rook on the
+    back rank.^[21]
+backward pawn
+    A pawn that is behind a pawn of the same color on an adjacent file and that
+    cannot be advanced with the support of another pawn.^[22]
+      a b c d e f g  h
+    8 Chessboard480.svg 8
+      f7 black pawn
+    7 g7 black pawn     7
+      d6 black bishop
+    6 e6 black pawn     6
+      h6 black pawn
+    5 b5 black pawn     5
+      d5 black pawn
+    4 b4 white pawn     4
+      d4 white pawn
+    3 c3 white bishop   3
+      e3 white pawn
+    2 h3 white pawn     2
+      f2 white pawn
+    1 g2 white pawn     1
+
+      a b c d e f g  h
+    White has a bad bishop, Black has a good bishop (Evans & 1967:66).
+bad bishop
+    A bishop that is hemmed in by the player's own pawns.^[23] See also good
+    bishop.
+bare king
+    A position in which a king is the only man of its color on the board.^[24]
+Basque chess
+    A chess competition in which the players simultaneously play each other two
+    games on two boards, each playing White on one and Black on the other.
+    There is a clock at both boards. It removes the bonus in mini-matches of
+    playing White first. Basque chess was first played in the 2012 Donostia
+    Chess Festival in the Basque Country, Spain.^[25] Also called Basque System
+    .
+      a b c d e f g  h
+
+    8                   8
+
+      Chessboard480.svg
+    7 a8 black rook     7
+      e8 black rook
+      a7 black pawn
+    6 b7 black king     6
+      g7 black pawn
+      h7 black pawn
+    5 b6 black pawn     5
+      d5 black pawn
+      e5 white rook
+    4 f5 black pawn     4
+      d4 white pawn
+      f4 white pawn
+    3 g3 white pawn     3
+      h2 white pawn
+      e1 white rook
+    2 g1 white king     2
+
+
+    1                   1
+
+      a b c d e f g  h
+    A pair of white rooks are aligned along their battery, ready to do some
+    action.
+battery
+    To double rooks on a file, or to place a bishop and a queen on a diagonal.^
+    [18] In chess problems, battery refers to an arrangement of two pieces in
+    line with the enemy king on a rank, file, or diagonal so that if the middle
+    piece moves a discovered check (or a threat other than a check) will be
+    delivered.^[26]
+BCF
+    British Chess Federation, the former name of the English Chess Federation.^
+    [27] See ECF.
+BCM
+    An abbreviation for the British Chess Magazine.^[28]
+BCO
+    An abbreviation for the 1982 openings reference book Batsford Chess
+    Openings, by Raymond Keene and Garry Kasparov. The second edition (1989) is
+    often called BCO-2.^[29] Cf. ECO and MCO.
+best play
+    The theoretical absolute and ideal best moves from any given position.^[30]
+    Charousek vs. Maroczy, 1895
+      a b c d e f g  h
+      Chessboard480.svg
+    8 g8 black rook     8
+      h8 black king
+      b7 black pawn
+    7 c7 black pawn     7
+      g7 black pawn
+      b6 black rook
+    6 f6 black pawn     6
+      h6 black pawn
+      a5 black pawn
+    5 e5 black knight   5
+      f5 white pawn
+      h5 white pawn
+    4 a4 white pawn     4
+      c4 white pawn
+      d4 black pawn
+    3 e4 white pawn     3
+      b3 white pawn
+      d3 white pawn
+    2 c2 white bishop   2
+      e2 white king
+      g2 white rook
+    1 g1 white rook     1
+
+      a b c d e f g  h
+    The white bishop is doing the work of a pawn and has no bigger prospects.
+big pawn
+    A bad bishop stuck behind its own pawns and defending them—effectively
+    doing the work of a pawn.^[31]
+bind
+    A strong grip or stranglehold on a position that is difficult for the
+    opponent to break. A bind is usually an advantage in space created by
+    advanced pawns. The Maróczy Bind is a well-known example.^[32] See also
+    squeeze.
+bishop
+    Chess bishop icon.png
+bishop pair
+    The player with two bishops is said to have the bishop pair. Two bishops
+    are able to control the diagonals of both colors. In open positions, two
+    bishops are considered to have an advantage over two knights, or a knight
+    and a bishop.^[18] Also called the two bishops.
+bishop pawn
+    Or bishop's pawn. A pawn on the bishop's file, i.e. the c-file or f-file.
+    Sometimes abbreviated "BP".^[33]
+bishops on opposite colors 
+    Or bishops of opposite colors. A situation in which one player has only a
+    light-square bishop remaining while the other has only a dark-square bishop
+    remaining. In endgames, this often results in a draw if there are no other
+    pieces (only pawns), even if one side has a material advantage of one, two
+    or even three pawns, since the bishops control different squares (see
+    Opposite-colored bishops endgame). In the middlegame, however, the presence
+    of opposite-colored bishops imbalances the game and can lead to mating
+    attacks, since each bishop attacks squares that cannot be covered by the
+    other.^[34]
+black
+    The dark-colored squares on the chessboard are often referred to as "the
+    black squares" even though they are often some other dark color. Similarly,
+    "the black pieces" are sometimes actually some other (usually dark) color.^
+    [35] See also white.
+Black
+    The designation for the player who moves second, even though the pieces
+    ("the black pieces") are sometimes actually some other (usually dark)
+    color.^[36] See also White and first-move advantage.
+blind chess
+    See Kriegspiel.
+blindfold chess
+    A form of chess in which one or both players are not allowed to see the
+    board.^[37]
+blind pigs
+    A pair of rooks on the opponent's second rank are referred to as "pigs" as
+    they tend to devour pawns and pieces, and "blind pigs" if they cannot find
+    the mate.^[38]
+blitz chess
+    [from German: Blitz, "lightning"] A fast form of chess with a very short
+    time limit, usually 3 or 5 minutes per player for the entire game. With the
+    advent of electronic chess clocks, the time remaining is often incremented
+    by 1 or 2 seconds per move.^[39]
+      a b c d e f g  h
+
+    8 Chessboard480.svg 8
+      a8 black rook
+      d7 black pawn
+    7 g7 black pawn     7
+      h7 black king
+      a6 black pawn
+    6 c6 black bishop   6
+      e6 black pawn
+      b5 black pawn
+    5 d5 black knight   5
+      e5 white pawn
+      f5 black pawn
+    4 g5 white bishop   4
+      a2 white pawn
+      b2 white pawn
+    3 f2 white pawn     3
+      g2 white pawn
+      h2 white pawn
+    2 a1 white rook     2
+      d1 white rook
+      g1 white king
+    1                   1
+
+      a b c d e f g  h
+    Black has a solid light-square blockade. White's bishop cannot challenge
+    Black's minor pieces.
+blockade
+    The placement of a piece directly in front of an enemy pawn, where it
+    obstructs the pawn's advance, and hinders the movements of the other enemy
+    pieces. The enemy pawn provides some shelter to the piece that is blocking
+    it, thereby protecting it from attacks by enemy pieces. A blockade is most
+    effective against passed or isolated pawns. The ideal piece to use as a
+    blockader is the knight. This strategy was famously formulated by Aron
+    Nimzowitsch in 1924.^[40]^[41]
+blocked position
+    A position where both sides are constrained from making progress, typically
+    by interlocking pawn chain(s) dividing the available space into two camps.^
+    [42] See also closed game.
+blunder
+    A very bad move, an oversight (indicated by "??" in notation).^[18]
+board
+    1.  See chessboard.
+    2.  An assignment in team chess, e.g. first board, second board, etc.
+board one
+    See first board.
+    Schulder vs. Boden, London 1853
+      a b c d e f g  h
+      Chessboard480.svg
+    8 c8 black king     8
+      e8 black rook
+      h8 black rook
+    7 a7 black pawn     7
+      b7 black pawn
+      c7 black pawn
+    6 g7 black pawn     6
+      h7 black pawn
+      c6 black knight
+    5 d5 white bishop   5
+      f5 black bishop
+      f4 white pawn
+    4 a3 black bishop   4
+      c3 white pawn
+      e3 white bishop
+    3 f3 white queen    3
+      a2 white pawn
+      d2 white knight
+    2 f2 white pawn     2
+      h2 white pawn
+      c1 white king
+    1 d1 white rook     1
+      h1 white rook
+      a b c d e f g  h
+    Boden's Mate
+Boden's Mate
+    Boden's Mate, named for Samuel Boden, is a checkmate pattern in which the
+    king, usually having castled queenside, is checkmated by two crisscrossing
+    bishops. Immediately prior to delivering the mate, the winning side
+    typically plays a queen sacrifice on c3 or c6 to set up the mating
+    position.^[43]
+book draw
+    An endgame position known to be a draw with perfect play. Historically this
+    was established by reference to chess endgame literature, but in simplified
+    positions computer analysis in an endgame tablebase can be used.^[44]
+book move
+    An opening move found in standard reference books on opening theory. A game
+    is said to be "in book" when both players are playing moves found in the
+    opening references. A game is said to be "out of book" when the players
+    have reached the end of the variations analyzed in the opening books, or if
+    one of the players deviates with a novelty (or a blunder).^[45]
+book win
+    An endgame position known to be a win with perfect play. Historically this
+    was established by reference to chess endgame literature, but in simplified
+    positions (currently seven pieces or fewer) computer analysis in an endgame
+    tablebase can be used.^[46]
+break
+    A move that gains space and therefore freedom of movement, or the opening
+    of a blocked position by the advance or capture of a pawn.^[47]
+breakthrough
+    Penetration of the opponent's position, or destruction of the defense,
+    often by means of a sacrifice.^[18]
+brevity
+    [chiefly British] See miniature.
+brilliancy
+    A game that contains a spectacular, deep and beautiful strategic idea,
+    combination, or original plan.^[47]
+brilliancy prize
+    A prize awarded at some tournaments for the best brilliancy played in the
+    tournament.^[48]
+Bronstein delay
+    A time control method with time delay, invented by David Bronstein. When it
+    becomes a player's turn to move, the clock waits for the delay period
+    before starting to subtract from the player's remaining time.^[49]
+    [Bughouse_game_animation]
+     
+    Bughouse chess
+bughouse chess
+    A popular chess variant played with teams of two or more.^[50]
+building a bridge
+    Making a path for a king in the endgame by providing protective cover
+    against checks from line pieces. A well-known example is the Lucena
+    position.^[51]
+bullet chess
+    Each side has 1 minute to make all their moves.^[52]
+bust
+    A refutation of an opening, an opening line, a tactic, or a previously
+    published analysis.^[53]^[54]
+bye
+    A tournament round in which a player does not have a game, usually because
+    there are an odd number of players. A bye is normally scored as a win (1
+    point), although in some tournaments a player is permitted to choose to
+    take a bye (usually in the first or last round) and score it as a draw (½
+    point).^[54]
+
+C[edit]
+
+[180px-Caissa]
+     
+    Caïssa, the patron goddess of chess (Fratta, 18th century)
+Caïssa
+    Known as the goddess or muse of chess, whose name is taken from a nymph in
+    a 1763 poem, Caïssa or The Game at Chess, by Sir William Jones.^[55]
+calculate
+    To plan a series of moves and considering possible responses, without
+    actually moving the pieces.^[18]
+candidate move
+    A move that seems good upon initial observation of the position, and that
+    warrants further analysis.^[56]
+Candidates Match
+    A knockout match in the Candidates Tournament.^[57]
+Candidates Tournament
+    A tournament organised by the FIDE, the third and last qualifying cycle of
+    the World Chess Championship. The participants are the top players of the
+    Interzonal tournament plus possibly other players selected on the basis of
+    rating or performance in the previous candidates tournament. The top
+    ranking player(s) qualify(ies) for the world championship.^[58]
+can-opener
+    The plan of attacking a kingside, sometimes a fianchetto position, by
+    advancing the h-pawn with the intention of opening a file near the
+    defender’s king.^[59]
+capped piece
+    A particular piece with which one player attempts to deliver checkmate.
+    Agreeing to play with a capped piece provides the stronger player an extra
+    challenge, thereby conferring upon himself a handicap. When the capped
+    piece is a pawn, it is called a pion coiffé [from French, "capped pawn"].^
+    [60]
+capture
+    A move by a pawn or piece that removes from the board the opponent’s pawn
+    or piece. The capturing piece then occupies the square of the captured
+    piece (except in the case of a capture that is done en passant).^[61]
+castling
+    A move in which the king and a rook are moved at the same time. It moves
+    the king from the center to a flank where it usually is safer, and it
+    develops the rook. It is the only time two pieces are moved in a turn.
+    Castling can be done on either the kingside (notated 0-0) or the queenside
+    (0-0-0). Castling cannot be done in reply to a check, nor if either the
+    king or rook has already moved.^[62]^[63]
+castling into it
+    A situation where one side castles and a result is that the king is in more
+    danger at the destination than on the initial square, either immediately or
+    because lines and diagonals can be more readily opened against it.^[64]
+castling long
+    Castling queenside; in chess notation: 0-0-0.^[62]
+castling short
+    Castling kingside; in chess notation: 0-0.^[62]
+casual game
+    See friendly game.
+category of a tournament
+    The category of a tournament is a measure of its strength based on the
+    average FIDE rating of the participants. The category is calculated by
+    rounding up the number: (average rating − 2250) ÷ 25. So each category
+    covers a 25-point rating range, starting with Category 1 which spans
+    ratings between 2251 and 2275. A Category 18 tournament has an average
+    rating between 2676 and 2700.^[65]
+CC
+    An abbreviation sometimes used for correspondence chess.
+      a b c d e f g  h
+
+      Chessboard480.svg
+    8 a8 black rook     8
+      b8 black knight
+      c8 black bishop
+      d8 black queen
+      e8 black king
+    7 f8 black bishop   7
+      g8 black knight
+      h8 black rook
+      a7 black pawn
+      b7 black pawn
+    6 c7 black pawn     6
+      d7 black pawn
+      e7 black pawn
+      f7 black pawn
+      g7 black pawn
+    5 h7 black pawn     5
+      d5 black cross
+      e5 black cross
+      d4 black cross
+      e4 black cross
+    4 a2 white pawn     4
+      b2 white pawn
+      c2 white pawn
+      d2 white pawn
+      e2 white pawn
+    3 f2 white pawn     3
+      g2 white pawn
+      h2 white pawn
+      a1 white rook
+      b1 white knight
+    2 c1 white bishop   2
+      d1 white queen
+      e1 white king
+      f1 white bishop
+      g1 white knight
+    1 h1 white rook     1
+
+
+      a b c d e f g  h
+    The center squares are marked "×".
+center
+    Or centre. The four squares in the middle of the board.^[66] See also
+    expanded center. Sometimes short for pawn center. A king "in the center"
+    can refer to an uncastled king on a center file.
+center file 
+    Or centre file. The king's file (e-file) or queen's file (d-file).
+center pawn 
+    Or centre pawn. A pawn on the king's file (e-file) or queen's file
+    (d-file).^[67]
+central file
+    See center file.
+centralization
+    Moving a piece or pieces toward the center of the board, where they will
+    not only control the center, but their influence will extend to other
+    areas. Pieces are best placed near the center of the board, because they
+    increase their power and maneuverability. Knights in particular benefit
+    from being centralized.^[68] Antonym: decentralization.^[69]
+central pawn
+    See center pawn.
+cheapo
+    Slang for a primitive trap, often set in the hope of swindling a win or a
+    draw from a lost position.^[70] Also called cheap shot.
+check
+    A direct attack on the king by an enemy man. The attacked king is said to
+    be in check. There are only three possible immediate responses to a check:
+    capturing the attacking piece, moving the king to an unattacked square, or
+    interposing a piece between the attacker and the king. In casual games a
+    player usually announces "check", however this is not a requirement in
+    tournament games.^[71]
+checkmate
+    A position in which a player's king is in check and the player has no legal
+    move (i.e. cannot move out of or escape the check). A player whose king is
+    checkmated loses the game.^[72] Often shortened to mate.
+chess blindness
+    The failure of a player to see a good move or danger that should normally
+    be considered obvious. The term was coined by Siegbert Tarrasch. Similar to
+    Kotov syndrome.^[73]
+chessboard
+    The chequered board used in chess, consisting of 64 squares (eight rows by
+    eight columns) arranged in two alternating colors, light and dark.^[74]
+    [210px-Sah_sahovska_ura]
+     
+    A chess clock
+chess clock
+    A device made up of two adjacent clocks and buttons, keeping track of the
+    total time each player takes for their moves. Immediately after moving, the
+    player hits their button, which simultaneously stops their clock and starts
+    their opponent's. The picture shown displays an analogue clock where the
+    term flag fall originates. Modern clocks are digital.^[75]
+chessmen
+    The movable figures placed on the board in a game of chess. Includes both
+    pieces and pawns.^[76] Singular: chessman.
+chess notation
+    See notation.
+chess opening
+    See opening.
+chess problem
+    Also called composition.
+    [210px-ChessStartingPosition]
+     
+    A wooden chess set and board
+chess set
+    The thirty-two pieces required for a game, plus a chessboard.
+chess variant
+    A chess-like game played using a board, pieces, or rules different from
+    standard chess.^[77]
+Chess960
+    Chess960 (also known as Fischer Random Chess) is a variation of the game
+    invented and advocated by Bobby Fischer. The pieces and pawns have their
+    normal moves, but the setup of pieces on the first rank is random, except
+    that two rules must be followed: the king must be placed on a square
+    between the rooks, and the bishops are placed on squares of opposite color.
+    Black's pieces are placed opposite White's. The random setup can be
+    established by dice toss, computer program, playing cards, or other
+    methods. Castling may be done; the special Chess960 rules governing
+    castling incorporate the normal castling in classic chess.^[78]^[79]
+chop wood
+    Slang for capturing or exchanging pieces.^[80] See also wood.
+classical
+    1.  An opening system geared towards forming a full pawn center. Classical
+    ideas were challenged by hypermodern ideas.^[66]
+    2.  A game using a longer time control such as 40/2; the opposite of fast
+    chess categories such as rapid, blitz or bullet.^[81]
+classical bishop sacrifice
+    See Greek gift sacrifice.
+clearance
+    Removal of piece from a square, rank, file or diagonal so that another
+    piece may use it. It often involves sacrificing the piece that unblocked
+    the position.^[82]
+clock move
+    In a game played clock move, a move is considered completed only after the
+    clock is pressed. For example, one could touch a piece, then move a
+    different piece—as long as the player has not pressed their clock button.
+    This way of playing is uncommon but can be seen in casual games or blitz
+    games.^[83]
+clock time
+    Time (consumed or remaining) on the chess clock, in a tournament game.^[84]
+closed file
+    A file on which White and Black each have a pawn.^[85]
+closed game
+    A closed game has few open lines (files or diagonals). It is generally
+    characterized by interlocking pawn chains, cramped positions with few
+    opportunities to exchange, and extensive maneuvering behind lines. Such a
+    game may evolve and later become an open game.^[86] See also positional
+    play.
+Closed Game
+    A Closed Game is a particular opening that begins with the moves 1.d4 d5.
+    It is also known as a Double Queen's Pawn Opening or Double Queen's Pawn
+    Game.^[87] See also Open Game and Semi-Open Game.
+closed tournament
+    A tournament in which only invited or qualifying players may participate,
+    as opposed to an open tournament. Also called invitational tournament.
+      a b c d e f g  h
+
+
+    8                   8
+      Chessboard480.svg
+      a8 black rook
+      c8 black bishop
+      d8 black queen
+    7 e8 black king     7
+      f8 black bishop
+      g8 black knight
+      h8 black rook
+      a7 black pawn
+    6 b7 black pawn     6
+      c7 black pawn
+      d7 black pawn
+      f7 black pawn
+      g7 black pawn
+    5 h7 black pawn     5
+      e5 black pawn
+      c4 white bishop
+      d4 black knight
+      e4 white pawn
+    4 f3 white knight   4
+      a2 white pawn
+      b2 white pawn
+      c2 white pawn
+      d2 white pawn
+    3 f2 white pawn     3
+      g2 white pawn
+      h2 white pawn
+      a1 white rook
+      b1 white knight
+    2 c1 white bishop   2
+      d1 white queen
+      e1 white king
+      h1 white rook
+
+    1                   1
+
+
+      a b c d e f g  h
+    The Blackburne Shilling Gambit (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nd4?!), an example
+    of coffeehouse play
+coffeehouse
+    Adjective used to describe a move, player, or style of play characterized
+    by risky, positionally dubious play that sets traps for the opponent. The
+    name comes from the notion that one would expect to see such play in
+    skittles games played in a coffeehouse or similar setting, particularly in
+    games played for stakes or blitz chess. The Blackburne Shilling Gambit is a
+    typical example of coffeehouse play.^[88]
+color
+    Or colour. The white or black pieces, and the white or black squares. The
+    actual pieces and squares may be other colors, usually light and dark, but
+    they are referred to as white and black.^[76] See White and Black in chess.
+combination
+    A sequence of moves, including forced moves, and often involving a
+    sacrifice, to gain an advantage.^[66]
+compensation
+    That which is gained in return for a sacrifice or some other action. If
+    material is sacrificed there may be a gain in development, or if a minor
+    piece is exchanged for two or three pawns, the pawns would be the
+    compensation.^[89]
+computer move
+    A term for a move that seems likely to have been played by a computer
+    rather than a human, because the move seems counterintuitive, or seems not
+    to make immediate sense, or seems to eventually make sense, but not until
+    far into the future of the game. Computer moves seem to be what they are:
+    moves based on the brute force of millions of calculations, and not based
+    on intuition, aesthetics, or emotion. A computer move would overlook a
+    dramatic capture that might cause an opponent to resign on the spot in
+    favor of an obscure move that may eventually turn out to be only slightly
+    better. At one time the term was used disparagingly, but the definition has
+    evolved as computers have improved. It is a term that is occasionally used
+    to suggest that a player has been assisted by a computer.^[90]^[91]
+confirmation bias
+    The tendency of a chess player analyzing a position to find a candidate
+    move, and then look for variations that support that first move rather than
+    looking for superior variations.^[92]
+connected passed pawns
+    Passed pawns on adjacent files. These are considered to be unusually
+    powerful (often worth a minor piece or rook if on the sixth rank or above
+    and not properly blockaded) because they can advance together.^[66] See
+    also connected pawns.
+connected pawns
+    Refers to two or more pawns of the same color on adjacent files.^[68] Cf.
+    isolated pawns.
+connected rooks
+    Two rooks of the same color on the same rank or file with no pawns or
+    pieces between them. Connected rooks are usually desirable. Players often
+    connect rooks on their own first rank or along an open file.^[93] See also
+    doubled rooks.
+consolidation
+    The improvement of a player's position by the reposition of one or more
+    pieces to better square(s), typically after a player's attack or
+    combination has left their pieces in poor positions or uncoordinated.^[94]
+continuation
+    See variation.
+control
+    When a player’s pawn, piece or pieces guard a square, or squares, or a
+    file, or a rank in such a way that the territory can be advantageously
+    used; and the opponent is prevented from using the territory.^[95]
+control of the center
+    Having one or more pieces that attack any of the four center squares; an
+    important strategy, and one of the main aims of openings.^[96]
+cook
+    In chess problems, an unintended duplicate solution, or a refutation.^[97]
+    See also Glossary of chess problems#cook.
+corr.
+    An abbreviation for correspondence game.
+correspondence chess
+    Chess played at a long time control by long-distance correspondence.
+    Traditionally correspondence chess was played though the post; today it is
+    usually played over a correspondence chess server or by email. Typically,
+    one move is transmitted in every correspondence.^[98]
+corresponding squares
+    Corresponding squares are pairs of squares such that when a king moves to
+    one square, it forces the opponent's king to occupy the other square in
+    order to hold the position. If the opponent's king cannot move to the
+    required square it is zugzwang and a disadvantage. Corresponding squares
+    usually occur in pawn endgames. The theory of corresponding squares has
+    developed to include complex calculations based on math-like formulas.^[99]
+    Also called related squares. Cf. opposition.
+counterattack
+    An attack that responds to an attack by the opponent.^[100]
+      a b c d e f g  h
+
+
+    8                   8
+      Chessboard480.svg
+      a8 black rook
+      b8 black knight
+      c8 black bishop
+    7 d8 black queen    7
+      e8 black king
+      f8 black bishop
+      g8 black knight
+      h8 black rook
+    6 a7 black pawn     6
+      b7 black pawn
+      c7 black pawn
+      f7 black pawn
+      g7 black pawn
+    5 h7 black pawn     5
+      d5 black pawn
+      e5 black pawn
+      e4 white pawn
+      f4 white pawn
+    4 a2 white pawn     4
+      b2 white pawn
+      c2 white pawn
+      d2 white pawn
+      g2 white pawn
+    3 h2 white pawn     3
+      a1 white rook
+      b1 white knight
+      c1 white bishop
+      d1 white queen
+    2 e1 white king     2
+      f1 white bishop
+      g1 white knight
+      h1 white rook
+
+    1                   1
+
+
+      a b c d e f g  h
+    The Falkbeer Countergambit (1.e4 e5 2.f4 d5), a gambit response to the
+    King's Gambit
+countergambit
+    A gambit offered by Black, for example the Greco Counter Gambit, usually
+    called the Latvian Gambit today (1.e4 e5 2.Nf3 f5?!); the Albin
+    Countergambit (1.d4 d5 2.c4 e5); and the Falkbeer Countergambit (1.e4 e5
+    2.f4 d5). An opening need not have "countergambit" in its name to be one,
+    for instance the Benko Gambit (1.d4 Nf6 2.c4 c5 3.d5 b5); the Englund
+    Gambit (1.d4 e5?!); the Budapest Gambit (1.d4 Nf6 2.c4 e5); the Blackburne
+    Shilling Gambit (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nd4?!); and many lines of the Two
+    Knights Defense (e.g. 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 and now 4...Bc5!?
+    [the Wilkes–Barre Variation or Traxler Counterattack]; 4...Nxe4?!; 4...d5
+    5.exd5 Na5 6.Bb5+ c6 [the main line]; 4...d5 5.exd5 Nd4 [the Fritz
+    Variation]; and 4...d5 5.exd5 b5 [the Ulvestad Variation]) are all examples
+    of countergambits.^[101]
+counterplay
+    The defending side's own aggressive action.^[102]
+country move
+    A disparaging term for a move considered unsophisticated, especially an
+    unnecessary single-step advance of the rook's pawn in the opening. The term
+    was popular in London in the late 19th century.^[103]
+cover
+    To protect a piece or control a square.
+cramped
+    Having limited mobility in a position.^[104]
+critical position
+    The moment in a game or opening when the evaluation shows that things are
+    about to change, either towards an advantage for one player, or towards
+    equality; a wrong move can be disastrous.^[102]
+critical square
+    See key square.
+cross-check
+    A cross-check is a check played in reply to a check, especially when the
+    original check is blocked by a piece that itself either delivers check or
+    reveals a discovered check from another piece.^[105]
+crosstable
+    An arrangement of the results of every game in a tournament in tabular
+    form. The names of the players run down the left side of the table in
+    numbered rows. The names may be listed in order of results, alphabetically,
+    or in pairing order, but results order is most common. The columns are also
+    numbered, each one corresponding to the player in the same numbered row.
+    Each table cell records the outcome of the game between the players on the
+    intersecting row and column, using 1 for a win, 0 for a loss, and ½ for a
+    draw. (In a double round-robin tournament each cell contains two entries,
+    as each pair of players plays two games alternating White and Black.) Every
+    game is recorded twice, once from the perspective of each player. The
+    diagonal cells that correspond to the player playing himself are marked
+    with a * or × or other symbol since they are not used.^[106] For examples
+    see Hastings 1895 chess tournament, Nottingham 1936 chess tournament, and
+    AVRO tournament.
+crush
+    Slang for a quick win, especially an overwhelming attack versus poor
+    defensive play. A crushing move is a decisive one.
+
+D[edit]
+
+dark-square bishop 
+    One of the two bishops that moves only on the dark squares. In the initial
+    position, White's dark-square bishop is on c1; Black's is on f8.^[36] Often
+    shortened to dark bishop.^[69] Cf. light-square bishop.
+dark squares
+    The 32 dark-colored squares on the chessboard, such as a1 and h8. A dark
+    square is always located at a player's left-hand corner.^[36] Cf. light
+    squares.
+      a b c d e f g  h
+    8                   8
+    7                   7
+    6 Chessboard480.svg 6
+    5 e7 white bishop   5
+    4 b5 white king     4
+    3 e3 black king     3
+    2                   2
+    1                   1
+      a b c d e f g  h
+    A dead draw by means of insufficient material. King versus king and bishop
+    will not ever lead to checkmate.
+dead draw
+    A drawn position in which neither player has any realistic chance to win. A
+    dead draw may refer to a position in which it is impossible for either
+    player to win (such as insufficient material), or it may refer to a simple,
+    lifeless position that would require a major blunder before either side
+    would have a chance to win.^[107]
+decoy
+    This is a tactic used to lure a piece to a particular square.^[108]
+defense 
+    1.  A move or plan to meet the opponent's attack.^[102]
+    2.  Part of the name of openings played by Black; e.g. the Scandinavian
+    Defense, King's Indian Defence, English Defence, etc.^[102]
+deflect
+    The inverse of a decoy. Whereas a decoy involves luring an enemy piece to a
+    bad square, a deflection involves luring an enemy piece away from a good
+    square; typically, away from a square on which it defends another piece or
+    threat. Deflection is thus closely related to overloading.^[109]
+    [210px-WouterMeesRotterdam199]
+     
+    Wouter Mees at a demonstration board
+demonstration board
+    A large standing chess board used to analyze a game or show a game in
+    progress. Johann Löwenthal invented the demonstration board in 1857.^[110]
+descriptive notation
+    A system of recording chess moves, used primarily in the English and
+    Spanish speaking countries until the 1980s. Descriptive notation is based
+    on natural language descriptions of chess moves rendered in abbreviated
+    form, for example "pawn to queen's bishop's fourth" is rendered as "P-QB4".
+    Now replaced by the standard algebraic notation.^[111]
+desperado
+    A piece that seems determined to give itself up, typically to bring about
+    stalemate or perpetual check. Also a threatened piece that sacrifices
+    itself for the maximum compensation possible.^[112]
+development 
+    The movement of non-pawn pieces in the opening from their original squares
+    to squares where they can be more active. Development of one's pieces is
+    one of the objectives of the opening phase of the game.^[108]
+diagonal
+    A line of squares of the same color touching corner to corner, along which
+    a queen or bishop can move.^[113]
+discovered attack
+    An attack made by a queen, rook or bishop when another piece or pawn moves
+    out of its way.^[108]
+      a b c d e f g  h
+    8                   8
+    7 Chessboard480.svg 7
+    6 e8 black queen    6
+    5 e5 black king     5
+    4 e4 white bishop   4
+    3 e2 white rook     3
+    2 b1 white king     2
+    1                   1
+      a b c d e f g  h
+    Once the e4-bishop moves, it is discovered check by the rook.
+discovered check
+    A discovered attack to the king. This occurs when a player moves a piece,
+    resulting in another piece putting their opponent's king in check.^[114]
+domination
+    A situation that occurs in games and in endgame studies when a piece is
+    attacked and appears to have a number of destination squares, but the
+    squares are guarded and the piece cannot avoid being captured.^[115]
+double attack
+    Two attacks made with one move: these attacks may be made by the same piece
+    (in which case it is a fork); or by different pieces, for example in a
+    discovered attack when the moved piece also makes a threat.^[108]
+double check
+    A check delivered by two pieces at the same time. A double check
+    necessarily involves a discovered check. By its nature a double check
+    cannot be met by interposing a defending piece in the line of attack, or by
+    capturing an attacker; when subjected to a double check, the attacked king
+    must move, which makes the double check especially powerful as an attacking
+    tactic.^[116]
+doubled pawns
+    Two pawns of the same color on the same file; generally considered a
+    weakness due to their inability to defend each other.^[113]
+doubled rooks
+    A powerful configuration in which a player's two rooks are placed on the
+    same file or rank with no other men between them. They defend each other
+    and attack along the shared file or rank, as well as two additional ranks
+    or files. The configuration can be especially decisive in the endgame.^
+    [117]
+draw
+    A game that ends without victory for either player. Most drawn games are
+    draws by agreement. The other ways that a game can end in a draw are
+    stalemate, threefold repetition, the fifty-move rule, and insufficient
+    material. A position is said to be a draw (or a "drawn position" or
+    "theoretical draw") if either player can, through correct play, eventually
+    force the game into a position where the game must end in a draw,
+    regardless of the moves made by the other player. A draw is usually scored
+    as ½ point, although in some matches only wins are counted and draws are
+    ignored.^[108]
+draw by agreement
+    A game that is ended by both players accepting a draw.^[118] See also
+    resign.
+draw death
+    Hypothetical scenario whereby elite-level chess players, aided by modern
+    computer analysis, become so good that they never make mistakes, leading to
+    endless drawn games (since chess is widely believed to be drawn with best
+    play from both sides).^[119]
+drawing line
+    An opening variation that commonly ends in a draw.^[120] See also
+    Collection of drawing lines.
+drawing weapon
+    An opening line played with the intent of drawing the game.^[121]
+drawish
+    An adjective describing a position or game that is likely to end in a draw.
+    ^[122]
+draw odds
+    A type of chess handicap where one player (Black in an Armageddon game)
+    only has to draw in order to win the match.^[123]
+draw offer
+    A proposal by a player to the opponent that the game be drawn by agreement.
+    ^[124]
+dynamism
+    A style of play in which the activity of the pieces is favored over more
+    positional considerations, even to the point of accepting permanent
+    structural or spatial weaknesses. Dynamism stemmed from the teachings of
+    the Hypermodern school and challenged the dogma found in more classical
+    teachings, such as those put forward by Wilhelm Steinitz and Siegbert
+    Tarrasch.^[125]
+
+E[edit]
+
+eat
+    To remove the opponent's piece or pawn from the board by taking it with
+    one's own piece or pawn.^[126]^[127] See also capture.
+ECF
+    The English Chess Federation (ECF) is the governing chess organisation in
+    England and is one of the federations of the FIDE. It was known as the
+    British Chess Federation (BCF) until 2005 when it was renamed.
+ECO
+    The Encyclopaedia of Chess Openings (ECO), a standard and comprehensive
+    chess opening reference. Also a classification system (ECO code) for
+    openings that assigns an alphanumeric code from A00 to E99 to each opening.
+edge
+    An edge is a small but meaningful advantage in the position against one's
+    opponent. It is often said White has an edge in the starting position,
+    since White moves first (see First-move advantage in chess).^[128]
+Elo rating system
+    The Elo rating system is a method for calculating the relative skill levels
+    of chess players, named after Arpad Elo. Since 2012, FIDE publishes a
+    monthly international chess rating list using the Elo system.^[129]
+endgame
+    The third and last phase of the game, when there are few pieces left on the
+    board. The endgame follows the middlegame.^[129]
+endgame tablebase
+    A computerized database of endgames with a small number of pieces,
+    providing perfect play for both players, and thus completely solving those
+    endgames. By 2012, tablebases have been calculated for all positions with
+    up to seven pieces.^[130]
+      a b c d e f g  h
+
+
+    8                   8
+      Chessboard480.svg
+      a8 black rook
+      b8 black knight
+      c8 black bishop
+    7 d8 black queen    7
+      e8 black king
+      f8 black bishop
+      g8 black knight
+      h8 black rook
+    6 a7 black pawn     6
+      b7 black pawn
+      d7 black pawn
+      f7 black pawn
+      g7 black pawn
+    5 h7 black pawn     5
+      c5 black pawn
+      d5 white pawn
+      e5 black pawn
+      a2 white pawn
+    4 b2 white pawn     4
+      c2 white pawn
+      e2 white pawn
+      f2 white pawn
+      g2 white pawn
+    3 h2 white pawn     3
+      a1 white rook
+      b1 white knight
+      c1 white bishop
+      d1 white queen
+    2 e1 white king     2
+      f1 white bishop
+      g1 white knight
+      h1 white rook
+
+    1                   1
+
+
+      a b c d e f g  h
+    After 1.d4 c5 2.d5 e5, White can play 3.dxe6, capturing the e-pawn en
+    passant on the next move only. The white pawn is placed on e6, and the
+    black pawn on e5 is removed from the board.
+en passant
+    [from French, "in the act of passing"] The rule that allows a pawn that has
+    just advanced two squares to be captured by an enemy pawn that is on the
+    same rank and adjacent file. The pawn can be taken as if it had advanced
+    only one square. Capturing en passant is possible only on the next move.^
+    [131]
+      a b c d e f g  h
+
+
+    8                   8
+      Chessboard480.svg
+      a8 black rook
+      b8 black knight
+      c8 black bishop
+    7 d8 black queen    7
+      e8 black king
+      f8 black bishop
+      h8 black rook
+      a7 black pawn
+    6 b7 black pawn     6
+      c7 black pawn
+      d7 black pawn
+      e7 black pawn
+      f7 black pawn
+    5 g7 black pawn     5
+      h7 black pawn
+      f6 black knight
+      e4 white pawn
+      f3 white knight
+    4 a2 white pawn     4
+      b2 white pawn
+      c2 white pawn
+      d2 white pawn
+      f2 white pawn
+    3 g2 white pawn     3
+      h2 white pawn
+      a1 white rook
+      b1 white knight
+      c1 white bishop
+    2 d1 white queen    2
+      e1 white king
+      f1 white bishop
+      h1 white rook
+
+    1                   1
+
+
+      a b c d e f g  h
+    The pawn on e4 is en prise.
+en prise
+    [from French, "in a position to be taken",^[132]^[133] often italicized] En
+    prise describes a piece or pawn exposed to a material-winning capture by
+    the opponent. This is either a hanging piece, an undefended pawn, a piece
+    attacked by a less valuable attacker, or a piece or pawn defended
+    insufficiently. For instance, 1.e4 Nf6 2.Nf3? leaves White's e-pawn en
+    prise.^[134]
+epaulette mate
+    A checkmate position where the king is blocked on both sides by its own
+    rooks.^[135]
+EPD
+    An abbreviation for Extended Position Description.
+equalize 
+    Or equalise. To reach a position where the players have equal chances of
+    winning, referred to as equality. In the opening, because White has the
+    advantage of the first move, the immediate goal for Black is to achieve
+    equality.^[136]
+escape square
+    See flight square.
+evaluation 
+    Or simply eval. The analysis of a position. A computer or engine evaluation
+    is a means of assigning a number value to a position, based not on
+    intelligence, but on algorithms, which vary from engine to engine and
+    depend on engine strength. Engine evaluations have foibles and
+    imperfections even when functioning as designed. If an engine describes a
+    position as +2.50, the plus sign (+) indicates the position is favorable to
+    White; a minus sign (−) indicates the position is favorable to Black. The
+    number can correspond to the approximate value of pieces, although engines
+    use other factors besides material. The notation +2.50 indicates that White
+    is ahead by two and one-half pawns. The notation +M4 indicates that White
+    can force checkmate in four moves.^[137]^[138]^[139] Cf. analysis.
+exchange
+    To swap or trade pieces by capture. Usually the pieces are of equal value
+    (i.e., rook for rook, knight for knight, etc.), or of bishop for knight
+    (two pieces that are considered approximately equal in value).^[140] Also
+    called even exchange.
+exchange, the
+    The advantage of a rook over a minor piece (knight or bishop). The player
+    who captures a rook for a minor piece is said to have "won the exchange",
+    the player who has lost the rook has "lost the exchange". An exchange
+    sacrifice is giving up a rook for a minor piece.^[134]
+exchange variation
+    This is a type of opening in which there is an early, voluntary exchange of
+    pawns or pieces.^[141]
+exhibition
+    Chess games played for the public in various formats and for various
+    purposes, often to promote the game, or a particular match or player, or as
+    a fundraiser. An exhibition may pit two masters against each other, and
+    normally use chess clocks. In a simultaneous exhibition, one player takes
+    on a number opponents at once, and it is often not timed. A blindfold
+    exhibition is the same but more challenging, since the exhibitor plays
+    without seeing the boards.^[142]
+expanded center
+    The central sixteen squares of the chessboard.^[143]
+exposed king
+    A king lacking pawns to shield it from enemy attack.^[144]
+Extended Position Description
+    A Forsyth–Edwards Notation derivative format that contains the position on
+    the chessboard, but not the game. It is primarily used to test chess
+    engines.^[145] Abbr. EPD.
+
+F[edit]
+
+family fork
+    A knight fork that simultaneously attacks the enemy king (giving check),
+    queen, and possibly other pieces. Also known as a "family check".^[146]
+FAN
+    An abbreviation for figurine algebraic notation, which substitutes symbols
+    for letters to represent piece names (e.g. ♘f3 instead of Nf3).^[147]
+fast chess
+    A form of chess in which both sides are given less time to make their moves
+    than under the normal tournament time controls. See also: rapid chess,
+    blitz chess, bullet chess.
+FEN
+    An abbreviation for Forsyth–Edwards Notation.
+FGM
+    An abbreviation for the FICGS Grandmaster title.
+fianchetto
+    To develop a bishop to the board's longest diagonal on the file of the
+    adjacent knight (b2 or g2 for White; b7 or g7 for Black). The Italian word
+    ("little flank") is pronounced "fyan-ketto".^[148]
+FICGS Grandmaster
+    A correspondence chess title calculated by the FICGS (Free Internet
+    Correspondence Games Server) organization.^[149]
+FIDE
+    The World Chess Federation (Fédération Internationale des Échecs), the
+    primary international chess organizing and governing body. The abbreviated
+    name FIDE is nearly always used in place of the full name in French.^[150]
+FIDE Master
+    A chess title ranking below International Master.^[151] Abbr. FM.
+fifty-move rule
+    A draw may be claimed if no capture or pawn move has occurred in the last
+    fifty moves by either side.^[152]
+      a b c d e f g  h
+    8                   8
+
+    7                   7
+      Chessboard480.svg
+    6 f8 black circle   6
+      f7 black circle
+    5 f6 black circle   5
+      f5 black circle
+    4 f4 black circle   4
+      f3 black circle
+    3 f2 black circle   3
+      f1 black circle
+    2                   2
+
+    1                   1
+
+      a b c d e f g  h
+    The f-file
+file
+    A column of the chessboard. A specific file can be named either using its
+    position in algebraic notation, a–h, or by using its position in
+    descriptive notation. For example, "f-file" and "king bishop file" both
+    denote the squares f1–f8 (or KB1–KB8 in descriptive notation).^[150]
+fingerfehler
+    [from German, "finger mistake"] An error caused by unthinkingly touching
+    the wrong piece or releasing a piece on the wrong square, forcing the
+    player to move that piece in accordance with the touch-move rule.^[153]
+first board
+    In team chess, the player who is assigned to face the strongest opponents.
+    Also called top board and board one. Second board faces the next strongest
+    players, followed by third board, and so on. Generally board assignments
+    must be made before the competition begins and players may not switch
+    boards, although reserve players are often allowed as substitutes.
+first-move advantage
+    The slight (by most accounts) advantage that White has by virtue of moving
+    first.^[150]
+first player
+    The expression "the first player" is sometimes used to refer to White.
+first rank
+    See back rank.
+Fischer delay
+    A time control method with time delay, invented by Bobby Fischer. When it
+    becomes a player's turn to move, the delay is added to the player's
+    remaining time.^[154]
+Fischer Random Chess 
+    See Chess960.
+five-minute chess
+    See blitz chess.
+flag
+    Part of an analogue chess clock, usually red, that indicates when the
+    minute hand passes the hour. To "flag" someone means winning the game on
+    the basis of the opponent exceeding the time control.^[150]
+flank
+    The queenside a-, b-, and c-files; or the kingside f-, g-, and h-files.
+    Distinguished from the center d-file and e-file.^[155] Also called wing.
+flank opening
+    An opening played by White and typified by play on one or both flanks.^
+    [156]
+flight square
+    A square to which a piece can move, that allows it to escape attack.^[146]
+    Also called escape square. See also luft.
+FM
+    An abbreviation for the FIDE Master title.
+    [Fools_mate_animation]
+    Fool's mate
+Fool's mate
+    The shortest possible chess game ending in mate: 1.f3 e5 2.g4 Qh4# (or
+    minor variations on this).^[157]
+forced mate
+    A sequence of two or more moves culminating in checkmate that the opponent
+    cannot prevent.^[158]
+forced move
+    A move that is the only one that does not result in a serious disadvantage
+    for the moving player. Forced can also be used to describe a sequence of
+    moves for which the player has no viable alternative, for example "the
+    forced win of a piece" or "a forced checkmate". In these cases the player
+    cannot avoid the loss of a piece or checkmate, respectively.^[157]
+forced win
+    A win guaranteed by a series of forcing moves.
+forcing move
+    A move that presents a threat and limits the opponent's responses.^[159]
+forfeit
+    Refers to losing the game by breaking rules, by absence or by exceeding the
+    time control (forfeit on time).^[160]
+fork
+    A simultaneous attack by a single piece on two (or more) of the opponent's
+    pieces (or other direct target, such as a mate threat). When the attacker
+    is a knight the tactic is often specifically called a knight fork. Some
+    sources state that only a knight can give a fork and that the term double
+    attack is correct when another piece is involved, but this is by no means
+    universal usage.^[5]
+Forsyth–Edwards Notation
+    A standard notation for describing a particular board position of a chess
+    game. The purpose of FEN notation is to provide all the necessary
+    information to restart a game from a particular position.^[161]^[162] Abbr.
+    FEN.
+fortress
+    In endgame theory, a fortress is an impenetrable position which, if
+    obtained by the side with a material disadvantage, may result in a draw due
+    to the stronger side's inability to make progress.^[163]
+friendly game
+    A game that is not played as part of a match, tournament, or exhibition.
+    Often the game is not timed, but if a chess clock is used rapid time
+    controls are common. The term refers only to the circumstances in which the
+    game is played, not the relationship between the players or the intensity
+    of the competition.^[164] Also called casual game.
+
+G[edit]
+
+gambit
+    A sacrifice (usually of a pawn) used to gain an early advantage in space or
+    time in the opening.^[5]
+game clock
+    A synonym for chess clock.
+game score
+    Often shortened to score. The record of a game in some form of notation,
+    usually algebraic notation. In over-the-board tournaments, the game score
+    is recorded on a score sheet.^[165]
+gardez
+    [from French: gardez la reine!, "Protect the Queen!"] An announcement to
+    the opponent that their queen is under direct attack, similar to the
+    announcement of "check". This warning was customary until the early 20th
+    century.^[166]
+GM
+    An abbreviation for Grandmaster.^[167]
+God
+    Metaphorically, a hypothetical player who always plays perfectly.^[168]
+good bishop
+    A bishop that has greater mobility, because the player's own pawns are on
+    squares of color opposite to that of the bishop.^[169] See also bad bishop.
+Grandmaster 
+    The highest title a chess player can attain (besides World Champion).
+    Awarded by FIDE, it cannot be taken away.^[170] Abbr. GM.
+grandmaster draw
+    A game in which the players agree to a quick draw. Originally it referred
+    to such games between grandmasters, but the term can now refer to any such
+    game.^[170]
+Greek gift sacrifice
+    A typical sacrifice of a bishop by White playing Bxh7+ or by Black playing
+    ...Bxh2+ against a castled king to initiate a mating attack. Also known as
+    the classical bishop sacrifice.^[171]
+
+H[edit]
+
+half-open file
+    A file on which only one player has no pawns.^[172] Also called semi-open
+    file.
+handicap
+    See odds.
+hanging
+    Unprotected and exposed to capture. A hanging piece may also be said to be
+    en prise.^[170]
+hanging pawns
+    Two pawns of the same color on adjacent files, with no pawns of the same
+    color on the files either side of them. The term is used almost exclusively
+    for pawns on the c- and d-files, and usually for two pawns on the same rank
+    (side by side). They can be a strength, a weakness or neutral depending on
+    the position. They are typically an attacking rather than a defensive
+    asset.^[170]
+Harry
+    A nickname for the h-pawn, sometimes occurring in the expression, "Harry
+    the h-pawn".^[173]^[174]
+hauptturnier
+    German word that is freely translated as "candidates tournament". In the
+    early part of the 20th century, it was necessary for the ambitious European
+    amateur to win a succession of prizes in small tournaments, before they
+    could progress to a higher level of competition. The creation of the
+    hauptturnier enabled the process to become more formalized, and they became
+    a regular feature of the major German chess congresses. Winning such an
+    event conferred the title of 'Master of the German Chess Federation', and
+    this, in turn, could be used to gain admittance to prestigious
+    international tournaments. Some of the best players in chess history, such
+    as Emanuel Lasker and Siegbert Tarrasch, secured their Master titles and
+    advanced their chess careers in this way.^[175]
+heavy piece
+    See major piece.
+      a b c d e f g  h
+
+    8                   8
+
+      Chessboard480.svg
+    7 b8 black king     7
+      a7 black pawn
+      c7 black pawn
+    6 a6 black circle   6
+      b6 black pawn
+      c6 black circle
+    5 d4 white pawn     5
+      e4 white circle
+      f4 white pawn
+    4 c3 white pawn     4
+      d3 white circle
+      e3 white pawn
+    3 a2 white pawn     3
+      b2 white pawn
+      g2 white pawn
+    2 h2 white pawn     2
+      g1 white king
+
+    1                   1
+
+      a b c d e f g  h
+    The dots indicate holes. (Evans, 1967)
+hole
+    A square that is inside or near a player’s territory that cannot be
+    controlled by a pawn. It is a gap in a player’s pawn configuration, and
+    especially dangerous when the hole is close to the center or near the king.
+    A knight landing on a hole may be part of an attack. An example of a hole
+    is e4 in the Stonewall Attack.^[176]
+home rank
+    Rank one for White; rank eight for Black.^[177] See back rank.
+horizontal line
+    See rank.
+    Horwitz vs. Harrwitz,
+    London 1846, rd. 10, 0–1^[178]
+      a b c d e f g  h
+      Chessboard480.svg
+    8 b8 black rook     8
+      a7 black pawn
+      c7 black pawn
+    7 h7 black king     7
+      b6 black bishop
+      c6 black pawn
+    6 d6 black pawn     6
+      g6 black rook
+      d5 black bishop
+    5 e5 black pawn     5
+      d3 white pawn
+      g3 white pawn
+    4 h3 black queen    4
+      a2 white pawn
+      b2 white pawn
+    3 c2 white pawn     3
+      e2 white queen
+      g2 white knight
+    2 h2 white bishop   2
+      a1 white rook
+      f1 white rook
+    1 h1 white king     1
+
+      a b c d e f g  h
+    After 30.Qe2. Black's Horwitz bishops are aimed at White's kingside.^[179]
+Horwitz bishops
+    A player's light-square and dark-square bishops placed so that they occupy
+    adjacent diagonals, creating a potent attack. Also called raking bishops,
+    and sometimes Harrwitz bishops.^[180]^[181]
+human move
+    A move a human would make, as opposed to the kind of move that only a
+    computer would make.^[182]
+Hutton pairing
+    A pairing technique invented in 1921 by George Dickson Hutton for matching
+    teams of players in which only one game is required per player. Has been
+    used regularly for correspondence team events and for matches between many
+    teams conducted on one day.^[183] Also called jamboree pairing.
+hypermodernism
+    A school of thought that prefers controlling the center with pieces from
+    the flanks as opposed to occupying it directly with pawns. Two major
+    proponents of hypermodernism were Réti and Nimzowitsch.^[184] See also
+    classical.
+
+I[edit]
+
+ICCA
+    See International Correspondence Chess Federation.
+ICCF
+    An abbreviation for the International Correspondence Chess Federation.^
+    [185]
+ICS
+    An abbreviation for Internet chess server.
+IGM
+    An abbreviation for the older term International Grandmaster. The modern
+    usage is Grandmaster (GM).
+illegal move
+    A move that is not permitted by the rules of chess. An illegal move
+    discovered during the course of a game must be corrected.^[186]
+illegal position
+    A position in a game that is a consequence of an illegal move or an
+    incorrect starting position; a position that is impossible to reach by any
+    sequence of legal moves.^[186]
+IM
+    An abbreviation for the International Master title.^[187]
+imbalance
+    Any difference between the positions of White and Black. An imbalanced
+    position is one where White and Black both have unique advantages.
+    Conversely, a balanced position may be drawish.^[184]
+inaccuracy
+    A move that is not the best, but not as bad as a blunder.^[187]
+inactive
+    See passive.
+increment
+    Refers to the amount of time added to each player's time before each move.
+    For instance, rapid chess might be played with "25 minutes plus 10 second
+    per move increment", meaning that each player starts with 25 minutes on
+    their clock, and this increments by 10 seconds after (or before) each move,
+    usually using the Fischer Delay method.^[39] See Time control#Compensation
+    (delay methods).
+      a b c d e f g  h
+
+
+    8                   8
+      Chessboard480.svg
+      a8 black rook
+      b8 black knight
+      c8 black bishop
+    7 d8 black queen    7
+      f8 black rook
+      g8 black king
+      a7 black pawn
+      b7 black pawn
+    6 c7 black pawn     6
+      e7 black pawn
+      f7 black pawn
+      g7 black bishop
+      h7 black pawn
+    5 d6 black pawn     5
+      f6 black knight
+      g6 black pawn
+      c4 white pawn
+      d4 white pawn
+    4 f3 white knight   4
+      g3 white pawn
+      a2 white pawn
+      b2 white pawn
+      e2 white pawn
+    3 f2 white pawn     3
+      g2 white bishop
+      h2 white pawn
+      a1 white rook
+      b1 white knight
+    2 c1 white bishop   2
+      d1 white queen
+      f1 white rook
+      g1 white king
+
+    1                   1
+
+
+      a b c d e f g  h
+    In the KID Fianchetto Variation (1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 0-0 5.Bg2
+    d6 6.0-0), both sides have Indian bishops.
+Indian bishop
+    A fianchettoed bishop, characteristic of the Indian defenses, the King's
+    Indian and the Queen's Indian.^[188]
+Indian defense 
+    An opening that begins 1.d4 Nf6. Originally used to describe queen's pawn
+    defenses involving the fianchetto of one or both black bishops, it is now
+    used to describe all Black defenses after 1.d4 Nf6 that do not transpose
+    into the Queen's Gambit.^[189]
+initiative
+    The ability to make attacking moves, and force the course of play. It is an
+    aspect of time. The attacking player has the initiative, and the defending
+    player attempts to seize it.^[190]
+innovation
+    A synonym for theoretical novelty.
+insufficient material
+    An endgame scenario in which all pawns have been captured, and one side has
+    only its king remaining while the other has only its king, a king plus a
+    knight, or a king plus a bishop. A king plus bishop versus a king plus
+    bishop with the bishops on the same color is also a draw, since neither
+    side can checkmate, regardless of play. Situations where checkmate is
+    possible only if the inferior side blunders are covered by the fifty-move
+    rule.^[191] See Draw (chess)#Draws in all games.
+interference
+    The interruption of the line or diagonal between an attacked piece and its
+    defender by interposing a piece.^[190]
+intermediate move
+    See zwischenzug.
+intermezzo
+    See zwischenzug.
+International Arbiter
+    A tournament official who arbitrates disputes and performs other duties
+    such as keeping the score when players are under time pressure.
+International Correspondence Chess Federation
+    The International Correspondence Chess Federation (abbr. ICCF) was founded
+    in 1951 to replace the International Correspondence Chess Association
+    (ICCA).^[185]
+International Grandmaster
+    Abbr. IGM. The original name of the FIDE title now simply called
+    Grandmaster (GM).
+International Master
+    A chess title that ranks below Grandmaster but above FIDE Master. Abbr. IM.
+International Woman Master
+    Obsolete name for Woman International Master.
+Internet chess server
+    An external server that provides the facility to play, discuss, and view
+    chess over the Internet. Abbr. ICS.
+interpose
+    To move a piece between an attacking piece and its target, blocking the
+    line or diagonal of attack. Interposing is not possible if the attacker is
+    a knight, king, or pawn, thus only possible in case of attacking rooks,
+    bishops, or queens. Interposing a piece is one of the three possible
+    responses to a check.^[5]
+Interzonal tournament 
+    A tournament organised by the FIDE starting from the 1950s to 1993. It was
+    the second qualifying cycle of the World Chess Championship. The
+    participants were selected from the top players of the Zonal tournaments.
+    The top ranking players qualified for the Candidates Tournament. Since 1998
+    the winners of the zonal tournaments have played short matches against each
+    other over a few weeks in a knockout-style competition to determine who is
+    eligible for the Candidates Tournament.
+intuition
+    A way of thinking that looks for the winning strategy not by calculating,
+    but by a feeling or a hunch, that may be prompted subconsciously while
+    studying the position, its visual patterns and dynamics, or by one’s memory
+    of previous experience.^[192]
+IQP
+    An abbreviation for isolated queen pawn. See also isolani.
+irregular opening
+    In early 19th-century chess literature, all openings that did not begin
+    with either 1.e4 e5 or 1.d4 d5 were classified as "irregular". As opening
+    theory developed and many openings previously considered "irregular" became
+    standard (e.g. the Sicilian Defence), the term gradually became less
+    common. Opening books today are more likely to describe debuts such as 1.b4
+    (the Sokolsky Opening) as "uncommon" or "unorthodox".^[193]
+isolani
+    Refers to a d-pawn with no pawns of the same color on the adjacent c-file
+    and e-file, and is a synonym for isolated queen pawn (abbr. IQP). The term
+    was coined by Nimzowitsch, who considered the isolani as a weapon of attack
+    in the middlegame but an endgame weakness; he considered the problem of
+    hanging pawns to be related.^[194] See also Pawn structure#Queen's Gambit –
+    Isolani.
+isolated pawn
+    A pawn with no pawn of the same color on an adjacent file.^[195]
+      a b c d e f g  h
+
+
+    8                   8
+      Chessboard480.svg
+      a8 black rook
+      c8 black bishop
+      d8 black queen
+    7 e8 black king     7
+      g8 black knight
+      h8 black rook
+      a7 black pawn
+      b7 black pawn
+    6 c7 black pawn     6
+      d7 black pawn
+      f7 black pawn
+      g7 black pawn
+      h7 black pawn
+    5 c6 black knight   5
+      c5 black bishop
+      e5 black pawn
+      c4 white bishop
+      e4 white pawn
+    4 f3 white knight   4
+      a2 white pawn
+      b2 white pawn
+      c2 white pawn
+      d2 white pawn
+    3 f2 white pawn     3
+      g2 white pawn
+      h2 white pawn
+      a1 white rook
+      b1 white knight
+    2 c1 white bishop   2
+      d1 white queen
+      e1 white king
+      h1 white rook
+
+    1                   1
+
+
+      a b c d e f g  h
+    Italian bishops in the Giuoco Piano
+Italian bishop
+    A white bishop developed to c4 or a black bishop developed to c5. A bishop
+    so developed is characteristic of the Italian Game. In the Giuoco Piano
+    both players have Italian bishops. The Italian bishop stands in contrast to
+    the "Spanish" bishop on b5 characteristic of the Ruy Lopez. "Italian" may
+    be used as an adjective for an opening where one or both players have
+    Italian bishops.^[196]
+
+J[edit]
+
+j'adoube
+    (from French, "I adjust", pronounced [ʒa.dub]) See Touch-move rule. A
+    player says "j'adoube" as the international signal that he or she intends
+    to adjust the position of a piece on the board without being subject to the
+    touched piece rule. The verb adouber, literally "to dub" (raise to the
+    knighthood) is rarely used in contemporary French outside of this context.
+    A local language equivalent, e.g. "I am adjusting" is generally acceptable.
+    ^[5]
+
+K[edit]
+
+K
+    Symbol used for the king when recording chess moves in English.^[20]
+key square
+    1.  An important square.
+    2.  In pawn endings, a square whose occupation by one side's king
+    guarantees the achievement of a certain goal, such as the promotion of a
+    pawn or the win of a pawn.^[191]
+KGA
+    The King's Gambit Accepted opening.
+KGD
+    The King's Gambit Declined opening.
+KIA
+    The King's Indian Attack opening.
+kibitz
+    As a spectator, making comments on a chess game that can be heard by the
+    players. Kibitzing on a serious game while it is in progress (rather than
+    during a post-mortem) is a serious breach of chess etiquette.^[197]
+kick
+    Attacking a piece, often a knight, with a pawn, so that it will move.
+    Kicking a piece may lead to gaining a tempo, or may force the opponent to
+    concede control of key squares.^[197]
+KID
+    The King's Indian Defence opening.
+king
+    Chess king icon.png
+king bishop
+    Or king's bishop. The bishop that is on the kingside at the start of the
+    game. The terms king knight and king rook are also used. Sometimes
+    abbreviated "KB", "KN", and "KR", respectively.^[76]
+king hunt
+    A sustained attack on the enemy king that results in the king being driven
+    a far distance from its initial position, typically resulting in its
+    checkmate. Some of the most famous games featuring king hunts are Edward
+    Lasker–Thomas, Polugaevsky–Nezhmetdinov, and Kasparov–Topalov.^[198]
+king knight
+    Or king's knight. The knight that is on the kingside at the start of the
+    game. The terms king bishop and king rook are also used. Sometimes
+    abbreviated "KN", "KB", and "KR", respectively.^[76]
+king pawn
+    Or king's pawn. A pawn on the king's file, i.e. the e-file. Sometimes
+    abbreviated "KP". Also king bishop pawn (KBP), king knight pawn (KNP), and
+    king rook pawn (KRP) for a pawn on the f-, g-, or h-file, respectively.^
+    [76]
+king pawn opening
+    An opening that begins 1.e4. Also called king's pawn opening.
+king rook
+    Or king's rook. The rook that is on the kingside at the start of the game.
+    The terms king bishop and king knight are also used. Sometimes abbreviated
+    "KR", "KB", and "KN", respectively.^[76]
+kingside
+    Or king's side. The side of the board (half-board) the kings are on at the
+    start of the game (the e- through h-file), as opposed to the queenside.^
+    [33] Also called king's wing.
+king walk
+    A consecutive series of king moves designed to bring the king to a safer
+    square. For example, if a player has castled kingside but the opponent has
+    sacrificed a piece to destroy the kingside pawn cover, they may choose to
+    walk the king over to the queenside to shelter behind the queenside pawns.^
+    [199] See also King walk.
+knight
+    Chess knight icon.png
+knight pawn
+    Or knight's pawn. A pawn on the knight's file, i.e. the b-file or g-file.
+    Sometimes abbreviated "NP".^[76]
+    [Knights_tour_anim]
+     
+    Example of a knight's tour
+knight's tour
+    A puzzle that challenges a person to set a knight on an empty chessboard,
+    and make the piece move around (as it moves in a chess game), but to visit
+    every square only once. The knight’s tour is the most well known of a
+    variety of “tours” and puzzles based on chess pieces. A "closed" tour (also
+    known as a "re-entrant tour") ends on the same square on which it began and
+    needs 64 moves. An "open" tour ends on a different square and needs only 63
+    moves.^[200]
+knockout tournament
+    See Single-elimination tournament. A tournament conducted as a series of
+    matches in which the winner of each match advances to the next round and
+    the loser is eliminated. Well-known chess tournaments held in the knockout
+    format include London 1851 and the 2007 Chess World Cup. Cf. round-robin
+    tournament and Swiss tournament.
+Kotov syndrome
+    This phenomenon, described by Alexander Kotov in his 1971 book Think Like a
+    Grandmaster, can occur when a player does not find a good plan after
+    thinking long and hard on a position. The player, under time pressure, then
+    suddenly decides to make a move that he has hardly thought about at all,
+    and it may not be a good move for that reason.^[201]
+Kriegspiel
+    [from German, "war game"] Kriegspiel is a chess variant played by two
+    opponents who can only see their own board, and one monitoring umpire who
+    makes the moves of both players on a neutral board. It requires three chess
+    sets and boards. The players make their moves based on limited information
+    from the umpire. It was introduced in 1898. It is sometimes referred to as
+    blind chess, not be confused with blindfold chess.^[202]
+Kt
+    The symbol sometimes used for the knight when recording chess moves in
+    descriptive notation, mainly in older literature. An N is used instead in
+    algebraic notation and in later descriptive notation to avoid confusion
+    with K, the symbol for the king.^[20]
+
+L[edit]
+
+laws of chess
+    The rules of chess.^[203]
+lightning chess
+    A form of chess with an extremely short time limit, either blitz chess or
+    bullet chess.^[204]
+light-square bishop 
+    One of the two bishops that moves only on the light squares. In the initial
+    position, White's light-square bishop is on f1; Black's is on c8.^[191]
+    Often shortened to light bishop.^[205] Cf. dark-square bishop.
+light squares
+    The 32 light-colored squares on the chessboard, such as h1 and a8.^[206]
+    Cf. dark squares.
+line
+    1.  A sequence of moves, usually in the opening or in analyzing a position.
+    2.  An open path for a piece (queen, rook, or bishop) to move or control
+    squares.^[204]
+line piece
+    A piece whose movement is defined to be along straight lines of squares
+    (i.e. the rook, bishop, and queen).^[207]
+liquidation
+    See simplification.
+long diagonal
+    One of the two diagonals with eight squares (a1–h8 or h1–a8).^[208]
+long-range piece
+    A bishop, rook, or queen.
+loose piece
+    A piece vulnerable to opponent attacks because it is undefended and cannot
+    easily be withdrawn or supported.^[209]
+loose position
+    A position vulnerable to opponent attacks because it is overextended or its
+    pieces are uncoordinated.
+losing a tempo
+    See tempo.
+loss
+    A defeat for one of the two players, which may occur due to that player
+    being checkmated by the other player, resigning, exceeding the time control
+    , or being forfeited by the tournament director. In chess, a zero-sum game,
+    this results in a win for the other player.^[210]
+    Lucena position
+      a b c d e f g  h
+    8                   8
+    7 Chessboard480.svg 7
+    6 b8 white king     6
+    5 d8 black king     5
+    4 b7 white pawn     4
+    3 a2 black rook     3
+    2 c1 white rook     2
+    1                   1
+      a b c d e f g  h
+    White wins by 1.Rd1+ Ke7 2.Rd4! Ra1 3.Kc7 Rc1+ 4.Kb6 Rb1+ 5.Kc6 Rc1+ 6.Kb5
+    Rb1+ 7.Rb4 and the pawn queens.
+Lucena position
+    A well-known rook and pawn versus rook endgame position in which the player
+    with the extra pawn can force a win by cutting off the opponent's king and
+    placing a rook on the 4th rank in order to block the opponent's rook
+    checks, thereby allowing the pawn to queen.^[51]
+luft
+    [from German, "air"] Space made for a castled king to give it a flight
+    square to prevent a back-rank mate. Usually luft is made by moving a pawn
+    on the second rank in front of the king.^[211] See also flight square.
+
+M[edit]
+
+main line
+    The principal, most important, or most often played variation of an
+    opening.^[212]
+majority
+    A larger numbers of pawns on one flank opposed by a smaller number of the
+    opponent's; often a player with a majority on one flank has a minority on
+    the other.^[213]
+major piece
+    A queen or rook, also known as a heavy piece.^[214] The primary distinction
+    of major pieces versus minor pieces is that major pieces are capable of
+    checkmate with only their own king for support, as the enemy king is unable
+    to step across the ranks and files they control. On an otherwise empty
+    board, a major piece can move from any square to any other square in at
+    most two moves.
+man
+    A piece or a pawn, when the term piece is used as exclusive of pawns.^[215]
+      a b c d e f g  h
+      Chessboard480.svg
+    8 a8 black rook     8
+      c8 black bishop
+      d8 black queen
+      e8 black king
+    7 f8 black bishop   7
+      g8 black knight
+      h8 black rook
+      a7 black pawn
+    6 b7 black pawn     6
+      d7 black pawn
+      e7 black pawn
+      f7 black pawn
+    5 h7 black pawn     5
+      c6 black knight
+      g6 black pawn
+      c4 white pawn
+    4 d4 white knight   4
+      e4 white pawn
+      a2 white pawn
+      b2 white pawn
+    3 f2 white pawn     3
+      g2 white pawn
+      h2 white pawn
+      a1 white rook
+    2 b1 white knight   2
+      c1 white bishop
+      d1 white queen
+      e1 white king
+    1 f1 white bishop   1
+      h1 white rook
+
+      a b c d e f g  h
+    A typical Maróczy Bind position
+Maróczy Bind
+    A bind on the light squares in the center, particularly d5, obtained by
+    White by placing pawns on c4 and e4. Named for Géza Maróczy, it originally
+    referred to formations arising in some variations of the Sicilian Defence,
+    but the name is now also applied to similar setups in the English Opening
+    and the Queen's Indian Defense. It was once greatly feared by Black but
+    means of countering it have been developed since the 1980s and earlier.^
+    [216]
+master
+    Loosely, a strong chess player who would be expected to beat most amateurs.
+    It may also refer to a formal title such as International Master or
+    National Master. Standards vary, but a master will usually have an Elo
+    rating of over 2200.^[217]
+match
+    A competition between two individuals or two teams. A match may be the
+    entire competition, or it may be a round in a knockout tournament or team
+    tournament. A chess match always consists of at least two games, and often
+    many more.^[217]
+mate
+    Short for checkmate.^[218]
+material
+    All of a player's pieces and pawns on the board. The player with pieces and
+    pawns of greater value is said to have a "material advantage". When a
+    player gains a material advantage they are also said to be "winning
+    material".^[219] See Chess piece relative value.
+materialism
+    Playstyle characterised by a willingness to win material at the expense of
+    positional considerations. Chess computers are often materialistic.^[220]
+mating attack
+    An attack aimed at checkmating the enemy king.^[221]
+mating net
+    A position or series of moves that leads to forced mate.^[221]
+MCO
+    Modern Chess Openings, a popular chess opening reference. Often the edition
+    is also given, as in MCO-14, the 14th edition. Cf. ECO.
+middlegame
+    The part of a chess game that follows the opening and comes before the
+    endgame, beginning after the pieces are developed in the opening. This is
+    usually roughly moves 20 through 40.^[219]
+miniature
+    A short game (usually no more than 20 to 25 moves), for example: 1.e3 e5
+    2.Qf3 d5 3.Nc3 e4 4.Qf4?? Bd6! and White resigned in Spiel–Künzel, Europe
+    1900,^[222] because the queen is trapped. However, a significant minority
+    of authors include games up to 30 moves.^[223] Usually only decisive games
+    (not draws) are considered miniatures. Ideally, a miniature should not be
+    spoiled by an obvious blunder by the losing side. A miniature may also
+    qualify as a brilliancy. The Opera Game is a famous example. Sometimes
+    called a brevity [chiefly British].^[48] See also Glossary of chess
+    problems#miniature.
+minor exchange
+    The exchange of a bishop for a knight.^[224]
+minority attack
+    An advance of pawns on the side of the board where one has fewer pawns than
+    the opponent, usually carried out to provoke a weakness.^[219]
+minor piece
+    A bishop or knight.^[219] Unlike major pieces, minor pieces are unable to
+    contain the enemy king or block his advance alone, as he can simply pass
+    through the holes in their line of attack. Compared to major pieces, minor
+    pieces also find it difficult to navigate the entire board; a knight may
+    require four moves to reach a square two squares away, while a bishop can
+    only ever control half of all squares.
+mobile pawn center
+    Pawns on central squares able to advance without becoming weak.^[225]
+mobility
+    The ability of a piece(s) to move around the board. Having space.^[219]
+mouse slip
+    A fumble by a player in the use of a computer control tool while playing
+    chess on the Internet, that results in an unintended move.^[226]
+move
+    A full move is a turn by both players, White and Black. A turn by either
+    White or Black is a half-move, or (in computer context) one ply.^[227]
+move order
+    The sequence of moves one chooses to play an opening or execute a plan.
+    Different move orders often have different advantages and disadvantages. A
+    plan that uses certain moves, can sometimes be improved by making the
+    identical moves but in a different sequence.^[228] See also transposition.
+mysterious rook move
+    Coined by Nimzowitsch to refer to the placing of a rook on a closed file in
+    anticipation that the opponent is going to open the file. This move may
+    either achieve a position with a rook on an open file, or it may
+    alternatively hinder the opponent's intentions (prophylaxis). The meaning
+    of the word has since expanded to refer to any rook move that appears to
+    have a hidden purpose.^[229]^[230]
+
+N[edit]
+
+N
+    1.  Symbol used for the knight when recording chess moves in English.
+    2.  An abbreviation for novelty.
+NCO
+    An abbreviation sometimes used for the chess opening reference Nunn's Chess
+    Openings. Cf. ECO and MCO.
+NN
+    Traditionally used in game scores to indicate a player whose name is not
+    known. The origin is uncertain. It may be an abbreviation of the Latin
+    nomina ("names"), or it may be short for the Latin phrase nomen nescio
+    ("name unknown").^[231]
+norm
+    A standard of competitive performance that is required in order for a chess
+    player to be awarded one of several titles, such as Grandmaster,
+    International Master, or Woman Grandmaster, etc. The chess organization,
+    such as FIDE, that awards the titles, will establish specifically what a
+    norm is. For example a candidate might achieve a norm if they play in a
+    tournament and face a certain number of grandmasters, and then have a
+    certain number of wins in that tournament against players that are above a
+    certain rating, and so on. If the candidate then collects a certain number
+    of norms, three for example, they will win a grandmaster title. The details
+    that define a norm can be obtained from the chess organization, and the
+    details will change from time to time.^[232]^[233]
+notation
+    Any method of recording chess moves, allowing games to be later published,
+    replayed and analyzed. The most common notation today is algebraic notation
+    , which is used internationally. Formerly descriptive notation was standard
+    in English language publications. There are also systems of notation for
+    recording chess positions without the use of diagrams, the most common of
+    which is Forsyth–Edwards Notation (FEN).^[234]
+novelty
+    See theoretical novelty.
+
+O[edit]
+
+occupation
+    Occupation of a rank or file means a rook or queen controls it; occupation
+    of a square means a piece or pawn sits on it.^[235]^[236]
+octopus
+    A strongly positioned knight in enemy territory. A knight on e6 reaches out
+    in eight directions, like the eight tentacles of an octopus.^[237]
+odds
+    This refers to the stronger player giving the weaker player some sort of
+    advantage in order to make the game more competitive. It may be an
+    advantage in material, in extra moves, in time on the clock, or some
+    combination of those elements. Since the advent of the chess clock, time
+    odds have become more common than material odds.^[238]
+offhand game
+    See skittles.
+Olympiad
+    An international team chess tournament organized biennially by FIDE. Each
+    team represents a FIDE member country.
+O-O
+    Also 0-0. The move notation for kingside castling. (PGN format uses Os;
+    FIDE uses 0s.)^[239]
+O-O-O
+    Also 0-0-0. The move notation for queenside castling. (PGN format uses Os;
+    FIDE uses 0s.)^[239]
+open file
+    A file on which there are no pawns. A file on which only one player has
+    pawns is said to be half-open.^[5]
+open game
+    A game in which exchanges have opened files and diagonals, and there are
+    few pawns in the center, as opposed to a closed game.^[240]
+Open Game
+    Any opening that begins with the moves 1.e4 e5. Examples of Open Games
+    include the Ruy Lopez, the Giuoco Piano, the Danish Gambit, and many
+    others. The Open Game is also referred to as a Double King's Pawn Opening
+    or Double King's Pawn Game.
+opening
+    The beginning phase of the game, roughly the first dozen moves, but it can
+    extend much farther. In the opening players set up their pawn structures,
+    develop their pieces, and usually castle. The opening precedes the
+    middlegame.^[240]
+opening innovation
+    A synonym for theoretical novelty.
+opening preparation
+    Home study and analysis of openings and defenses that one expects to play,
+    or meet, in later tournament or match games. In high-level play, an
+    important part of this is the search for theoretical novelties that improve
+    upon previous play or previously published analysis.^[241]
+opening repertoire
+    The set of openings played by a particular player. The breadth of different
+    players' repertoires varies from very narrow to very broad.^[242]
+opening system
+    An opening that is defined by one player's moves and that can be played
+    generally regardless of the moves of the opponent, with the goal of
+    reaching a desired type of middlegame position. Sometimes several different
+    move orders are possible. Examples include the Colle System and
+    Hippopotamus Defence.^[243]
+open lines
+    noun. Unobstructed files and diagonals. See also open game. verb. To move
+    or exchange pawns to bring about unobstructed files and diagonals.
+open tournament
+    A tournament where anyone can enter, regardless of rating or invitation.^
+    [244] Cf. closed tournament.
+opposite-colored bishops 
+    See bishops on opposite colors.
+opposition
+    A position in which two kings stand on the same rank, file or diagonal with
+    one empty square between them. The player to move may be forced to move the
+    king to a less advantageous square. Opposition is a particularly important
+    concept in endgames.^[245] One orthogonal square separation is direct
+    opposition; one diagonal square is diagonal opposition; multiple squares
+    separation is distant opposition. Cf. corresponding squares.
+optimal play
+    See Best response. Both sides playing their best move at each turn, or one
+    of equally good alternatives. One side tries to win as quickly as possible
+    while the other side tries to delay it as long as possible, or optimal play
+    may result in a draw. Cf. Solved game#Perfect play.
+OTB
+    An abbreviation for over the board.^[246]
+outpost
+    An outpost is a square protected by a pawn that is in or near the enemy's
+    stronghold. Outposts are a favorable position from which one can launch an
+    attack, particularly using a knight.^[247]
+outside passed pawn
+    A passed pawn near the edge of the board and not in the path of threats
+    from the opponent's pawns. In the endgame, such a pawn can constitute a
+    strong advantage, because it threatens to promote, and it also diverts the
+    opponent's forces to restrain its advance.^[248]
+overextended
+    An overextended position results when a player has advanced pawns too far
+    into his opponent's side without sufficient support. The premature advance
+    can leave weaknesses in the player's camp or the advanced pawns themselves
+    may be weak ("overextended pawns").^[249]
+overloaded
+    A piece that has too many defensive duties. An overloaded piece can
+    sometimes be deflected, or required to abandon one of its defensive duties.
+    ^[250]
+overprotection
+    The strategy of protecting an important pawn or square more than is
+    apparently necessary. This serves to dissuade the opponent from attacking
+    that point, and the latent power of the "over protectors" assembled around
+    an important point, is a significant threat that can bear fruit at a small
+    tactical change in the position. Aron Nimzowitsch coined the term and was a
+    proponent of overprotection.^[251]
+over the board 
+    1.  A game played face-to-face with the opponent, as opposed to a remote
+    opponent as in online chess or correspondence chess.
+    2.  Analysis carried out during a game in real time (not necessarily a
+    face-to-face game) as opposed to during preparation. Finding accurate moves
+    over the board is harder than finding them with computer assistance in
+    one's own time. "I looked up the gambit Smith played and there's a line
+    that refutes it, but I couldn't find it over the board."^[246]
+    Abbr. OTB.
+overworked
+    A synonym for overloaded.^[252]
+
+P[edit]
+
+P
+    Symbol used for the pawn when recording chess positions in English. Also
+    used for the pawn when recording chess moves in descriptive notation.
+pairing
+    The assignment of opponents in a tournament. The most common pairing
+    methods used in chess tournaments are round-robin and the Swiss system.^
+    [253]
+      a b c d e f g  h
+    8                   8
+
+    7 Chessboard480.svg 7
+      e8 black king
+    6 b7 white pawn     6
+      f7 black pawn
+    5 f6 black knight   5
+      g6 black pawn
+    4 a5 black pawn     4
+      d5 black pawn
+    3 a4 white pawn     3
+      e4 white pawn
+    2 c3 white bishop   2
+      d2 white king
+    1                   1
+
+      a b c d e f g  h
+    White with a passed pawn on b7. Black has a passed pawn on g6.
+passed pawn
+    A pawn that has no pawn of the opposite color on its file or on any
+    adjacent files on its way to queening.^[195]
+passer
+    A passed pawn.^[254]
+passive
+    Describes a piece or pawn that is inactive and able to move to or control
+    relatively few squares, or a position without possibilities for attack. or
+    counterplay.^[251] Antonym: active.
+passive sacrifice
+    The sacrifice of a piece, by moving a different piece, leaving the
+    sacrificed piece under attack.
+pattern recognition
+    A part of chess thinking that involves remembering and recognizing certain
+    recurring aspects large and small, visual and dynamic. It is a kind of
+    thinking that gives an advantage to a player with great experience. It is
+    distinct from the intellectual activity of calculation. It uses intuitive
+    thinking that is familiar to humans, but is foreign to computers. It can be
+    developed by studying chess puzzles. It has been studied by Adriaan de
+    Groot, and other scientists, who have attempted to discover how chess
+    players think.^[255]^[256]
+patzer
+    A weak chess player (from German: patzen, "to bungle").^[257] See also
+    woodpusher.
+pawn
+    Chess pawn icon.png
+pawn and move
+    A type of odds game, common in the 18th and 19th centuries, in which the
+    superior player plays Black and begins the game with one of their pawns,
+    usually the king bishop pawn, removed from the board; plus White gets an
+    extra move at the start.^[258]
+pawn break
+    A pawn move that attacks an enemy pawn in order to open up lines and/or
+    challenge the opponent's pawn structure. See also break.
+      a b c d e f g  h                                     a b c d e f g  h
+
+
+    8                   8                                8                   8
+      Chessboard480.svg                                    Chessboard480.svg
+      a8 black rook                                        a8 black rook
+      b8 black knight                                      b8 black knight
+      c8 black bishop                                      c8 black bishop
+    7 d8 black queen    7                                7 d8 black queen    7
+      f8 black rook                                        e8 black king
+      g8 black king                                        f8 black bishop
+      a7 black pawn                                        g8 black knight
+      b7 black pawn                                        h8 black rook
+    6 c7 black pawn     6                                6 a7 black pawn     6
+      e7 black pawn                                        b7 black pawn
+      f7 black pawn                                        f7 black pawn
+      g7 black bishop                                      g7 black pawn
+      h7 black pawn                                        h7 black pawn
+    5 d6 black pawn     5                                5 e6 black pawn     5
+      f6 black knight                                      d5 black pawn
+      g6 black pawn                                        e5 white pawn
+      c4 white pawn                                        c4 black pawn
+      d4 white pawn                                        d4 white pawn
+    4 e4 white pawn     4                                4 c3 white pawn     4
+      f4 white pawn                                        a2 white pawn
+      c3 white knight                                      b2 white pawn
+      a2 white pawn                                        f2 white pawn
+      b2 white pawn                                        g2 white pawn
+    3 g2 white pawn     3                                3 h2 white pawn     3
+      h2 white pawn                                        a1 white rook
+      a1 white rook                                        b1 white knight
+      c1 white bishop                                      c1 white bishop
+      d1 white queen                                       d1 white queen
+    2 e1 white king     2                                2 e1 white king     2
+      f1 white bishop                                      f1 white bishop
+      g1 white knight                                      g1 white knight
+      h1 white rook                                        h1 white rook
+
+    1                   1                                1                   1
+
+
+      a b c d e f g  h                                     a b c d e f g  h
+    White has a large pawn center in the King's Indian   Pawn chains in the
+    Defence, Four Pawns Attack.                          French Defence
+pawn center
+    Or pawn centre. A player's pawns in the center of the board. Pawns on the
+    squares adjacent to the center may also be considered part of the pawn
+    center. Having a strong pawn center was considered absolutely essential
+    until the hypermodernist school introduced some new ideas.^[259] Often
+    shortened to center. See King's Indian Defence, Four Pawns Attack for an
+    example of an opening leading to an extended pawn center.
+pawn chain
+    Two or more pawns of the same color diagonally linked. A pawn chain’s
+    weakest point is the base, because it is not protected by another pawn.^
+    [251] See also pawn structure.
+    Lichtenhein vs. Morphy, 1857
+      a b c d e f g  h
+
+    8                   8
+      Chessboard480.svg
+      a8 black rook
+      d8 black queen
+    7 e8 black king     7
+      h8 black rook
+      a7 black pawn
+      c7 black pawn
+    6 d7 black bishop   6
+      f7 black pawn
+      g7 black pawn
+      h7 black pawn
+    5 c6 black pawn     5
+      c5 black bishop
+      d5 black pawn
+      e5 white pawn
+    4 e4 white bishop   4
+      a2 white pawn
+      b2 white pawn
+      c2 white pawn
+    3 f2 white pawn     3
+      g2 white pawn
+      h2 white pawn
+      a1 white rook
+    2 b1 white knight   2
+      c1 white bishop
+      d1 white queen
+      e1 white king
+    1 h1 white rook     1
+
+
+      a b c d e f g  h
+    Black has three pawn islands and White has two. The pawn on e5 is not
+    isolated because it is adjacent a file that has a white pawn.
+pawn island
+    A group of pawns of one color on consecutive files with no other pawns of
+    the same color on an adjacent file. A pawn island consisting of one pawn is
+    an isolated pawn.^[260]
+pawn majority
+    See majority.
+pawn race
+    A situation where both opponents are pushing a passed pawn in effort to be
+    first to promote.
+pawn roller
+    Two connected passed pawns. "Roller" refers to their ability to defend one
+    another as they advance toward promotion.
+pawn skeleton
+    See pawn structure.
+pawn storm
+    An attacking technique where a group of pawns on one wing is advanced to
+    break up the defense.^[261]
+pawn structure
+    The placement of the pawns during the course of a game. As pawns are the
+    least mobile of the pieces and the only pieces unable to move backwards,
+    the position of the pawns greatly influences the character of the game.^
+    [262] Also called pawn skeleton.
+PCA
+    An abbreviation for the Professional Chess Association.
+performance rating
+    A number reflecting the approximate rating level at which a player
+    performed in a particular tournament or match. It is often calculated by
+    adding together the player's performances in each individual game, using
+    the opponent's rating for a draw, adding 400 points to the opponent's
+    rating for a win, and subtracting 400 points from the opponent's rating for
+    a loss, then dividing by the total number of games. For example, a player
+    who beat a 2400-rated player, lost to a 2600, drew a 2500, and beat a 2300,
+    would have a performance rating of 2550 (i.e. 2800 + 2200 + 2500 + 2700,
+    divided by 4).^[263]
+perpetual check
+    When a player puts the opponent in check, and the check could be repeated
+    endlessly, the game will be declared a draw by repetition. This tactic can
+    be resorted to as a form of insurance in a losing position.^[264] Often
+    shortened to perpetual.
+PGN
+    An abbreviation for Portable Game Notation.^[265]
+Philidor position
+    Usually refers to an important chess endgame that illustrates a drawing
+    technique when the defender has a king and rook versus a king, rook, and
+    pawn. It is also known as the third rank defense, because of the importance
+    of the rook on the third rank cutting off the opposing king. It was
+    analyzed by Philidor in 1777.^[266] See also Rook and pawn versus rook
+    endgame.
+piece
+    1.  One of the chessmen or figures used to play the game—king, queen, rook,
+    bishop, knight or pawn. Each piece type has its own rules of movement on
+    the board. This is the definition used in the context of the rules of chess
+    , for example the touched piece rule.
+    2.  When annotating or discussing chess games, the term "piece" usually
+    excludes pawns. It may be used collectively for all "non-pawns", for
+    example "White's pieces are well posted". In some contexts, it may refer
+    specifically to a minor piece, for example "I hung a piece" or "I
+    sacrificed a piece for two pawns".^[267]
+pin
+    When a piece is attacked but cannot legally move, because doing so would
+    expose the player's own king to the attack; or when a piece is attacked and
+    can legally move out of the line of attack, but such a move would expose a
+    more valuable piece (or an unprotected piece) to capture.^[227] See
+    absolute pin and relative pin, respectively.
+plan
+    A strategy employed in a specific position to optimize a player's
+    advantages while minimizing the impact of positional disadvantages.
+playable
+    Said of an opening, a position, or move that gives the person playing it a
+    tenable position.^[268]
+play by hand
+    To make a move intuitively and without analyzing the move.^[269]
+ply
+    Term mainly used in computer chess to denote one play of either White or
+    Black. Thus equal to half a move.
+      a b c d e f g  h
+
+    8 Chessboard480.svg 8
+      a8 black rook
+      b8 black knight
+      c8 black bishop
+    7 e8 black king     7
+      f8 black bishop
+      h8 black rook
+      b7 black pawn
+    6 f7 black pawn     6
+      g7 black pawn
+      h7 black pawn
+      a6 black pawn
+    5 d6 black pawn     5
+      e6 black pawn
+      f6 black knight
+      g5 white bishop
+    4 d4 white knight   4
+      e4 white pawn
+      f4 white pawn
+      c3 white knight
+    3 a2 white pawn     3
+      b2 black queen
+      c2 white pawn
+      d2 white queen
+    2 g2 white pawn     2
+      h2 white pawn
+      a1 white rook
+      e1 white king
+    1 f1 white bishop   1
+      h1 white rook
+
+      a b c d e f g  h
+    Black has accepted the "poisoned" b2-pawn with 8...Qxb2 in the Sicilian
+    Defence, Najdorf Variation.
+poisoned pawn
+    An unprotected pawn that, if captured, causes positional problems or
+    material loss.^[260]
+Poisoned Pawn Variation
+    Any of several opening variations, the best-known of these being in the
+    Najdorf Variation of the Sicilian Defence, in which there is a poisoned
+    pawn.^[270]
+Portable Game Notation
+    This is a popular computer-processible ASCII format for recording chess
+    games (both the moves and related data).^[265] Abbr. PGN.
+positional play
+    Play based on strategy, on gaining and exploiting small advantages, and on
+    analyzing the larger position, rather than calculating the more immediate
+    tactics.^[260]
+positional player
+    A player who specializes in positional play, as distinguished from a
+    tactician.
+positional sacrifice
+    A sacrifice in which the lost material is not regained via a combination,
+    but instead gains positional compensation. These typically require deep
+    positional understanding and are often overlooked by computers. Also known
+    as a true sacrifice, as opposed to a pseudo sacrifice or sham sacrifice.
+post mortem
+    Analysis of a game after it has concluded, typically by one or both players
+    and sometimes with spectators (kibitzers) contributing as well. A player
+    who has just lost the game thanks to a dubious move has the chance to win
+    the post-mortem by finding a better one.^[260]
+preparation
+    See opening preparation.
+prepared variation
+    A well-analyzed novelty in the opening that is not published but first used
+    against an opponent in competitive play.^[271]
+Principle of two weaknesses
+    A technique of increasing one's advantage by causing the opponent, who has
+    one weakness, to have a second weakness. Even if both weaknesses are minor,
+    the fact of having two, in practice, becomes a major weakness.^[272]
+priyome
+    A Russian term for particular tactics that depend on pawn structure.^[273]
+problem-like
+    An elegant and counterintuitive tactical shot, of the type generally found
+    in chess problems rather than in actual play, can be termed problem-like.
+promotion
+    Advancing a pawn to the eighth rank, converting it to a queen, rook, bishop
+    or knight. Promotion to a piece other than a queen is called underpromotion
+    .^[227]
+prophylaxis
+    A strategy that frustrates and protects against an opponent's plan or
+    tactic for fear of the consequences.^[260] See also blockade,
+    overprotection, and mysterious rook move.
+protected passed pawn
+    A passed pawn that is supported by another pawn.^[274]
+pseudo sacrifice
+    See sham sacrifice.
+push
+    To move a pawn forward (v.), or a pawn move forward (n.).
+
+Q[edit]
+
+Q
+    Symbol used for the queen when recording chess moves in English.^[20]
+QGA
+    The Queen's Gambit Accepted opening.^[275]
+QGD
+    The Queen's Gambit Declined opening.^[276]
+QID
+    The Queen's Indian Defense opening.^[277]
+quad
+    A round-robin style tournament between four players, where each participant
+    plays every other participant once.
+queen
+    1.  Chess queen icon.png
+    2.  verb. The act of promoting a pawn to a queen.^[76]
+queen bishop
+    Or queen's bishop. The bishop that is on the queenside at the start of the
+    game. It is abbreviated "QB".^[278]
+queening
+    Promotion to a queen. Also called promotion. Rarely used to indicate
+    promotion to a knight, rook, or bishop (i.e. underpromotion) as well.^[195]
+queen knight
+    Or queen's knight. The knight that is on the queenside at the start of the
+    game. The terms queen bishop and queen rook are also used. Sometimes
+    abbreviated "QN", "QB", and "QR", respectively.^[76]
+queen pawn
+    Or queen's pawn. A pawn on the queen's file, i.e. the d-file. Sometimes
+    abbreviated "QP". Also queen rook pawn (QRP), queen knight pawn (QNP), and
+    queen bishop pawn (QBP) for a pawn on the a-, b-, or c-file, respectively.^
+    [76]
+queen pawn opening
+    An opening that begins 1.d4. Also called queen's pawn opening.
+queen rook
+    Or queen's rook. The rook that is on the queenside at the start of the
+    game. The terms queen bishop and queen knight are also used. Sometimes
+    abbreviated "QR", "QB", and "QN", respectively.^[76]
+queenside
+    The side of the board (board-half) the queens are on at the start of the
+    game (the a- through d-file), as opposed to the kingside.^[33] Also called
+    queen's side or queen's wing.
+quickplay finish
+    The same as sudden death.^[279]
+quiet move
+    A move that does not attack or capture an enemy piece.^[280]
+
+R[edit]
+
+R
+    Symbol used for the rook when recording chess moves in English.^[20]
+Rabar Classification
+    A system of opening classification codes introduced by Braslav Rabar for
+    Chess Informant. The system was used by Informant publications from 1966 to
+    1981 but has since been replaced by ECO codes.^[281]
+raking bishops
+    Another term for Horwitz bishops.^[282]
+randomized chess
+    "A form of unorthodox chess designed to discount knowledge of the openings.
+    The pawns are placed as in the array and behind them the pieces are placed
+    in unorthodox fashion."^[283] See also Chess960.
+      a b c d e f g  h
+
+    8                   8
+
+      Chessboard480.svg
+      a8 eight
+    7 d8 black queen    7
+      e8 black king
+      h8 one
+      a7 seven
+    6 d7 black pawn     6
+      e7 black pawn
+      h7 two
+      a6 six
+    5 h6 three          5
+      a5 five
+      h5 four
+      a4 four
+    4 h4 five           4
+      a3 three
+      h3 six
+      a2 two
+    3 d2 white pawn     3
+      e2 white pawn
+      h2 seven
+      a1 one
+    2 d1 white queen    2
+      e1 white king
+      h1 eight
+
+    1                   1
+
+
+      a b c d e f g  h
+    White ranks are indicated at the left (a-file); Black ranks are indicated
+    at the right (h-file).
+rank
+    A row of the chessboard. In algebraic notation, ranks are numbered 1–8
+    starting from White's side of the board; however, players customarily refer
+    to ranks from their own perspectives. For example: White's king and other
+    pieces start on his or her first (or "back") rank, whereas Black calls the
+    same rank the eighth rank; White's seventh rank is Black's second; and so
+    on. If neither perspective is given, White's view is assumed. This relative
+    reference to ranks was formalized in the older descriptive notation.^[284]
+rapid chess
+    A form of chess with reduced time limit, usually 30 minutes per player.
+recapture
+    The capture of an opponent's piece that previously made a capture, and
+    usually played immediately following the opponent's capture move. The
+    capture and recapture occur on the same square, and usually the pieces
+    captured and recaptured have the same value.
+refute
+    To demonstrate that a strategy, move, or opening is not as good as
+    previously thought (often, that it leads to a loss), or that previously
+    published analysis is unsound. A refutation is sometimes colloquially
+    referred to as a bust. A refutation in the context of chess problems or
+    endgame studies is often called a cook.^[285]
+related squares
+    See corresponding squares.
+relative pin
+    A pin where it is legal to move the pinned piece out of the line of attack.
+    Contrast with absolute pin where the pinned piece is not permitted to move
+    because it would expose the king to check.
+remis
+    (French) a draw. It literally means "reset" and is somewhat archaic (the
+    usual word for a draw in modern French is nulle) but is internationally
+    understood and may be used between players without a common language.
+repertoire
+    See opening repertoire.
+reserve tempo
+    A move a player has available. Such a move may not be crucial to the
+    position on the board, but being able to force the opponent to move by
+    making a reserve move can on occasion result in a significant advantage.^
+    [286]
+resign 
+    To concede loss of the game. A resignation is usually indicated by stopping
+    the clocks, sometimes by offering a handshake, or by saying "I resign". A
+    traditional way to resign was by tipping over one's king, but this is not
+    done nowadays. It is common for a game to be resigned, rather than for it
+    to end with checkmate, because experienced players can foresee the
+    checkmate.^[287]^[288]
+resign on time
+    A player who in a hopeless position intentionally runs out of time to avoid
+    having to resign can be said to have resigned on time. This is usually
+    performed in a more subtle manner than that of Curt von Bardeleben walking
+    out of the tournament hall against Wilhelm Steinitz. A player low on time
+    and in a losing position may simply "forget" to pay any attention to the
+    clock.
+Romantic chess
+    Romantic chess was the style of chess prevalent in the 19th century. It is
+    characterized by bold attacks and sacrifices.^[289]
+rook
+    Chess rook icon.png
+rook lift
+    A maneuver that places a rook in front of its own pawns, often on the third
+    or fourth rank. This can allow the rook to treat a half-open file as if it
+    were an open file, or a closed file as if it were half-open.^[290]
+rook pawn
+    Or rook's pawn. A pawn on the rook's file, i.e. the a-file or h-file.
+    Sometimes abbreviated "RP".^[76]
+round-robin tournament
+    This is a tournament in which each participant plays every other
+    participant an equal number of times. In a double round-robin tournament
+    the participants play each other exactly twice, once with white and once
+    with black. A round robin tournament is commonly used if the number of
+    participants is relatively small.^[291] See also Swiss tournament.
+royal fork
+    A fork threatening the king and queen.^[292]
+royal piece
+    A king or queen.^[76] In chess variants, the term refers to any piece that
+    must be protected from capture; under this definition, only the king is
+    royal in orthodox chess.
+
+S[edit]
+
+S
+    [from German: Springer, "jumper"] Alternate notation for the knight. Used
+    rather than K, which means king.
+sac
+    Short for sacrifice, usually used to describe a sacrifice for a mating
+    attack.^[291]
+sacrifice
+    A move or capture that voluntarily gives up material in return for an
+    advantage such as space, development, or an attack. A sacrifice in the
+    opening is called a gambit, especially when applied to a pawn.^[287]
+SAN
+    An abbreviation for standard (or short) algebraic notation (e.g. 1.Nf3), as
+    opposed to long algebraic notation (e.g. 1.Ng1-f3).
+sans voir
+    [from French] See blindfold chess.
+    [Scholars_mate_animation]
+    Scholar's mate
+Scholar's mate
+    A four-move checkmate (common among novices) in which White plays 1.e4,
+    follows with Qh5 (or Qf3) and Bc4, and finishes with 4.Qxf7#.^[157]
+score
+    See game score.
+    [210px-Planilha_Eisenberg_e_C]
+     
+    A score sheet
+score sheet 
+    The sheet of paper used to record a game in progress. During formal games,
+    it is usual for both players to record the game using a score sheet. A
+    completed score sheet contains the game score.^[165]
+sealed move
+    Lengthy OTB games can be adjourned. To prevent unfair advantage, the
+    players can agree on the next move being secretly recorded in a sealed
+    envelope. Upon resumption, the arbiter makes the sealed move and the game
+    continues. See also Adjournment (games).
+second
+    An assistant hired to help a player in preparation for and during a major
+    match or tournament. The second assists in areas such as opening
+    preparation. The second assisted with adjournment analysis, before the
+    practice of adjournments was abandoned in the 1990s.^[293]
+second player
+    The expression "the second player" is sometimes used to refer to Black.
+seesaw
+    See windmill.
+Semi-Closed Game
+    An opening that begins with White playing 1.d4 and Black replying with a
+    move other than 1...d5.^[294] Also called half-closed game.^[295] See also
+    Open Game and Closed Game.
+semi-open file
+    See half-open file.
+Semi-Open Game
+    An opening that begins with White playing 1.e4 and Black replying with a
+    move other than 1...e5.^[294] Also called half-open game.^[295] See also
+    Open Game and Closed Game.
+sham sacrifice
+    An offer of material that is made at no risk, as acceptance would lead to
+    the gain of equal or greater material or checkmate. This is in contrast to
+    a true sacrifice in which the compensation is less tangible. Also called
+    pseudo sacrifice.^[296]
+sharp
+    Risky, double-edged, highly tactical. Sharp can be used to describe moves,
+    maneuvers, positions, and styles of play.^[297]
+shot
+    Slang for an unexpected or sharp move that typically makes a tactical
+    threat or technical challenge for the opponent.
+silent move
+    A move that has a dynamic tactical effect on a position, but that does not
+    capture or attack an enemy piece.^[298]^[299] See also quiet move.
+simplification
+    A strategy of exchanging pieces, often with one of the following goals: as
+    a defensive measure to reduce the size of an attacking force, when having
+    the advantage to reduce the opponent's counterplay, to try to obtain a draw
+    , or as an attempt to gain an advantage by players who are strong in
+    endgame play with simplified positions.^[300] Also called liquidation.
+    [210px-Maksimenko_in_simultan]
+     
+    A simultaneous exhibition
+simultaneous chess
+    A form of chess in which one player plays against several players
+    simultaneously. It is usually an exhibition.^[301]
+sitzfleisch
+    [from German, "sitting flesh"] The ability to sit still.^[302]
+skewer
+    An attack on a valuable piece, compelling it to move to avoid capture and
+    thus expose a less valuable piece which can then be taken.^[303] See also
+    X-ray.
+skittles
+    A casual or "pickup" game, usually played without a chess clock. At chess
+    tournaments, a skittles room is where one goes to play for fun while
+    waiting for the next formal game.^[301]
+smothered mate
+    A checkmate delivered by a knight in which the mated king is unable to
+    escape because it is surrounded (or smothered) by its own pieces.^[304]
+Sofia rules
+    In the tournament played by Sofia rules, players are not allowed to draw by
+    agreement. They could have draws by stalemate, threefold repetition,
+    fifty-move rule, or insufficient material. Other draws are allowed only if
+    the arbiter declares the game reached a drawn position.^[305]
+solid
+    An adjective used to describe a move, opening, or manner of play that is
+    characterized by minimal risk-taking and emphasis on quiet positional play
+    rather than wild tactics.
+sortie
+    A queen development in front of its own pawns, often early in the opening,
+    usually for the purpose of exploiting an advantage in space or punishing an
+    error by the opponent. So called because the queen is usually developed
+    behind its own pawns for its protection.
+sound
+    A correct move or plan. A sound sacrifice has sufficient compensation, a
+    sound opening or variation has no known refutation, and a sound puzzle or
+    composition has no known cooks.^[287] Antonym: unsound.
+space
+    The squares controlled by a player. A player controlling more squares than
+    the other is said to have a spatial advantage.^[287]
+      a b c d e f g  h
+
+
+    8                   8
+      Chessboard480.svg
+      a8 black rook
+      c8 black bishop
+      d8 black queen
+    7 e8 black king     7
+      f8 black bishop
+      g8 black knight
+      h8 black rook
+      a7 black pawn
+    6 b7 black pawn     6
+      c7 black pawn
+      d7 black pawn
+      f7 black pawn
+      g7 black pawn
+    5 h7 black pawn     5
+      c6 black knight
+      b5 white bishop
+      e5 black pawn
+      e4 white pawn
+    4 f3 white knight   4
+      a2 white pawn
+      b2 white pawn
+      c2 white pawn
+      d2 white pawn
+    3 f2 white pawn     3
+      g2 white pawn
+      h2 white pawn
+      a1 white rook
+      b1 white knight
+    2 c1 white bishop   2
+      d1 white queen
+      e1 white king
+      h1 white rook
+
+    1                   1
+
+
+      a b c d e f g  h
+    The Spanish bishop on b5 in the Ruy Lopez.
+Spanish bishop
+    A white king bishop developed to b5. This is characteristic of the Ruy
+    Lopez, also known as the Spanish Opening.
+speed chess
+    See blitz chess.
+spite check
+    A harmless check given by a player who is about to lose the game, that
+    serves no purpose other than to momentarily delay the defeat.^[306]
+squeeze
+    Making pawn moves that limit mobility, freedom and options for the
+    opponent, typically causing a zugzwang.^[307]
+stalemate
+    A position in which the player whose turn it is to move has no legal move
+    and their king is not in check. A stalemate results in an immediate draw.^
+    [72]
+starting square
+    A piece's starting square is the square it occupies at the beginning of the
+    game.
+    [210px-JaquesCookStaunton]
+     
+    Staunton chessmen
+Staunton chess set
+    The standard design of chess pieces, required for use in competition.^[308]
+stem game
+    A stem game is the chess game featuring the first use of a particular
+    opening variation. Sometimes, the player or the venue of the stem game is
+    then used to refer to that opening.
+strategic crush
+    Win characterised by gradual accumulation of advantages and complete
+    prevention of counterplay.
+strategy
+    The basis of a player's moves. The evaluation of positions and ways to
+    achieve goals. Strategy is often contrasted with tactics, which are the
+    calculations of more immediate plans and combinations.^[309]
+strong
+    A forceful or good move, a position having good winning chances, a highly
+    rated player or one successful in tournaments, or a tournament having a
+    sizable number of strong players competing, such as grandmasters. A "strong
+    showing" refers to a player's high win ratio in a tournament. Antonym: weak
+    , e.g. a weak square.
+stronger side
+    The side with a material or positional advantage.^[310]
+strongpoint
+    1.  A "strongpoint defense" means an opening that defends and retains a
+    central pawn (White: e4 or d4; Black: e5 or d5), as opposed to exchanging
+    the pawn and relinquishing occupation of that central square.
+    2.  More generically, a strongpoint can be any square heavily defended.
+strong square
+    A square on a player's 4th or greater rank on which the player can post a
+    piece that cannot or will not be driven away by enemy pawns.^[311] Cf. weak
+    square.
+sudden death
+    The most straightforward time control for a chess game: each player has a
+    fixed amount of time available to make all moves. See also fast chess.
+support point
+    A square that cannot be attacked by a pawn, and that can be occupied as a
+    home base for a piece, usually a knight.^[309]
+swap
+    See exchange.
+swindle
+    A ruse or trick played from a position that is inferior.^[309]
+Swiss tournament
+    A system used in tournaments to determine pairings. In every round each
+    player is paired with an opponent with the same or similar score.^[312] See
+    also round-robin tournament.
+    Example of symmetry
+      a b c d e f g  h
+
+    8                   8
+
+      Chessboard480.svg
+      e8 black rook
+    7 g8 black king     7
+      a7 black pawn
+      b7 black pawn
+      c7 black queen
+    6 d7 black knight   6
+      f7 black pawn
+      g7 black pawn
+      c6 black pawn
+    5 f6 black knight   5
+      g6 black pawn
+      d5 black pawn
+      d4 white pawn
+    4 c3 white pawn     4
+      f3 white knight
+      g3 white pawn
+      a2 white pawn
+    3 b2 white pawn     3
+      c2 white queen
+      d2 white knight
+      f2 white pawn
+    2 g2 white pawn     2
+      e1 white rook
+      g1 white king
+
+    1                   1
+
+
+      a b c d e f g  h
+    1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bd6 5.Nf3 Nf6 6.0-0 0-0 7.Bg5 Bg4 8.Re1
+    Nbd7 9.Nbd2 c6 10.c3 Qc7 11.Qc2 Rfe8 12.Bh4 Bh5 13.Bg3 Bxg3 14.hxg3 Bg6
+    15.Rxe8+ Rxe8 16.Bxg6 hxg6 17.Re1 (diagram). Capablanca–Maróczy, 1926.^
+    [313] The game continued 17...Rxe1+ 18.Nxe1 Ne8 19.Nd3 Nd6 20.Qb3 a6 21.Kf1
+    ½–½
+symmetry
+    A symmetrical position on the chessboard means the positions of one's
+    pieces are exactly mirrored by the opponent's pieces. This most often
+    occurs when Black mimics White's opening moves. Black is said to break
+    symmetry when they make a move no longer imitating White's move.^[309]
+system
+    See opening system.
+
+T[edit]
+
+tabia
+    [from Arabic: طبيعة ṭabīʕa, "essence"] Also tabiya. In chess openings a
+    tabia is a key point. It may be a well-known "point of departure" where
+    variations branch off, it may be a position that is reached so often that
+    the real game begins after this initial series of book moves.^[314]^[315]
+tablebase
+    See endgame tablebase.
+tactician
+    A player who specializes in tactical play, as distinguished from a
+    positional player.
+tactics
+    Combinations, traps, and threats. Play characterized by short-term attacks,
+    requiring calculation by the players, as distinguished from positional play
+    .^[309]
+takeback
+    Used in casual games whereby both players agree to undo one or more moves.
+Tarrasch rule
+    The general principle that rooks usually should be placed behind passed
+    pawns, either one's own or one's opponent's. Named after Siegbert Tarrasch.
+    ^[316]
+TD
+    An abbreviation for tournament director.^[312]
+technique
+    The manner in which a player converts an advantageous position into a win.
+tempo
+    A unit of time considered as one move. A player may gain a tempo in the
+    opening when the opponent moves the same piece twice. In the endgame, one
+    may wish to lose a tempo by triangulation in order to gain the opposition.^
+    [309] Plural: tempos or tempi.
+      a b c d e f g  h
+      Chessboard480.svg
+    8 a8 black rook     8
+      c8 black bishop
+      d8 black queen
+      e8 black king
+    7 f8 black bishop   7
+      h8 black rook
+      a7 black pawn
+      b7 black pawn
+    6 c7 black pawn     6
+      d7 black pawn
+      f7 black pawn
+      g7 black pawn
+    5 h7 black pawn     5
+      c6 black knight
+      f6 black knight
+      d4 white knight
+    4 e4 white pawn     4
+      c3 white knight
+      a2 white pawn
+      b2 white pawn
+    3 c2 white pawn     3
+      f2 white pawn
+      g2 white pawn
+      h2 white pawn
+    2 a1 white rook     2
+      c1 white bishop
+      d1 white queen
+      e1 white king
+    1 f1 white bishop   1
+      h1 white rook
+
+      a b c d e f g  h
+    This Scotch Opening position contains tension due to the knights on c6 and
+    d4. Both knights are currently adequately defended, so neither player is
+    forced to release the tension.
+tension
+    A position in which there are one or more exchanges possible, such as a
+    pair of pawns facing each other on a diagonal where either can capture the
+    other, is said to contain tension. Such a situation differs from a threat
+    in that it does not need to be immediately resolved – for example, if both
+    pawns are defended. The consequences of resolving the tension must be
+    constantly considered by both players, in case there is a possibility of
+    winning or losing material. This makes calculating the best move more
+    complicated, and so there is a natural temptation to release the tension by
+    making a like-for-like exchange (see simplification) or by moving the
+    attacked piece. To keep the tension is to avoid resolving it, which is
+    sometimes good advice depending on the position.
+text move
+    This term is used in written analysis of chess games to refer to a move
+    actually played in the game as opposed to other possible moves. Often
+    shortened to text, for example "The text is inferior as it allows ...f5."
+    Text moves are usually in bold whereas analysis moves are not.
+thematic
+    Suited to the demands of the position. The term "thematic move" is often
+    applied to the key move of a thematic plan.^[317]
+theme tournament
+    A chess tournament in which every game must begin with a particular opening
+    specified by the organizers, for example the Budapest Gambit (1.d4 Nf6 2.c4
+    e5).
+theoretical draw
+    See book draw.
+theoretical novelty 
+    A move in the opening that has not been played before.^[318] Abbr. TN or N.
+threat
+    A plan or move that carries an intention to damage the opponent's position.
+    A threat is a tactical weapon that must be defended against.^[319]
+threefold repetition
+    A draw may be claimed if the same position occurs three times with the same
+    player to move; and with each player having the choice of the same set of
+    moves each time, including the right to capture en passant and the right to
+    castle.^[320]
+tiebreaks
+    See Tie-breaking in Swiss-system tournaments. This refers to a number of
+    different systems that are used to break ties, and thus designate a single
+    winner, where multiple players or teams tie for the same place in a Swiss
+    system chess tournament.
+time
+    1.  In chess "time" refers to the amount of time each player has to think
+    and calculate as measured by a chess clock.
+    2.  The number of moves to complete an objective; for example, if a king is
+    racing to stop a pawn from queening, and the king has too few moves, that
+    may be referred to as "not enough time".^[309] See also tempo.
+time control
+    The allowed time to play a game, usually measured by a chess clock. A time
+    control can require either a certain number of moves be made per time
+    period (e.g. 40 moves in 2½ hours) or it can limit the length of the entire
+    game (e.g. 5 minutes per game for blitz). Hybrid schemes are used, and time
+    delay controls have become popular since the widespread use of digital
+    clocks.^[81]
+time delay
+    A time control that makes it possible for a player to avoid having an
+    ever-decreasing amount of time remaining (as is the case with sudden death
+    ). The most important time delays in chess are Bronstein delay and Fischer
+    delay.
+time pressure
+    Also called time trouble. Having very little time on one's clock
+    (especially less than five minutes) to complete one's remaining moves. See
+    time control.
+TN
+    An abbreviation for theoretical novelty.
+top board
+    See first board.
+touched piece rule
+    Also called touch-move rule. The rule that requires a player who touches a
+    piece to move that piece unless the piece has no legal moves. If a player
+    moves a piece to a particular square and takes their hand off it, the move
+    must be to that square if it is a legal move. Castling must be initiated by
+    moving the king first, so a player who touches their rook may be required
+    to move the rook, without castling. The rule also requires a player who
+    touches an opponent's piece to capture it if possible. In order to adjust
+    the position of a piece within its square without being required to move
+    it, the player should say "J'adoube" or "I adjust".^[319]
+    [260px-TataSteelChess2013TournamentHa]
+     
+    Tata Steel Tournament 2013
+tournament
+    A competition involving more than two players or teams, generally played at
+    a single venue (or series of venues) in a relatively short period of time.
+    A tournament is divided into rounds, with each round consisting either of
+    individual games or matches in the case of knockout tournaments and team
+    tournaments. The assignment of opponents is called pairing, with the most
+    popular systems being round-robin and Swiss. Tournaments are usually
+    referred to by combining the city in which they were played with the year,
+    as in "London 1851", although there are well-known exceptions, such as "
+    AVRO 1938".
+tournament book
+    A book recording the scores of all the games in a tournament, usually with
+    analysis of the best or most important games and some background on the
+    event and its participants. One well-known example is Bronstein's Zurich
+    International Chess Tournament 1953. The less comprehensive tournament
+    bulletin is usually issued between the rounds of a prestigious event,
+    giving the players and world media an instant record of the games of the
+    previous round. Individual copies may be bundled together at the conclusion
+    of the event to provide an inexpensive alternative to the tournament book.^
+    [321]
+tournament director 
+    Organizer and arbiter of a tournament, responsible for enforcing the
+    tournament rules and the laws of chess. Abbr. TD. Also tournament
+    controller [chiefly British].
+trade
+    See exchange.
+transposition 
+    Arriving at a position using a different sequence of moves.^[148]
+      a b c d e f g  h
+
+
+    8                   8
+      Chessboard480.svg
+      a8 black rook
+      c8 black bishop
+      d8 black queen
+    7 e8 black king     7
+      f8 black bishop
+      h8 black rook
+      a7 black pawn
+      b7 black pawn
+    6 c7 black pawn     6
+      d7 black knight
+      f7 black pawn
+      g7 black pawn
+      h7 black pawn
+    5 e6 black pawn     5
+      f6 black knight
+      d5 black pawn
+      g5 white bishop
+      c4 white pawn
+    4 d4 white pawn     4
+      c3 white knight
+      a2 white pawn
+      b2 white pawn
+      e2 white pawn
+    3 f2 white pawn     3
+      g2 white pawn
+      h2 white pawn
+      a1 white rook
+      d1 white queen
+    2 e1 white king     2
+      f1 white bishop
+      g1 white knight
+      h1 white rook
+
+    1                   1
+
+
+      a b c d e f g  h
+    With 4...Nbd7 Black sets a trap in the QGD (1.d4 d5 2.c4 e6 3.Nc3 Nf6
+    4.Bg5). White cannot win the pawn on d5 due to the Elephant Trap.
+trap
+    A move that may tempt the opponent to play a losing move.^[322] See also
+    swindle and List of chess traps.
+      a b c d e f g  h
+    8                   8
+    7 Chessboard480.svg 7
+    6 e5 black pawn     6
+    5 f5 white king     5
+    4 d4 black king     4
+    3 e4 white pawn     3
+    2                   2
+    1                   1
+      a b c d e f g  h
+    Trébuchet, whoever has the move loses. 1.Kg4 Kxe4 2.Kg3 Ke3 3.Kg2 Ke2 4.Kg3
+    e4 5.Kf4 e3 6.Ke4 Kf2 and the black pawn will queen.
+trébuchet
+    A theoretical position of mutual zugzwang in which either player would lose
+    if it were their turn to move.^[323] [from French, a type of siege engine]
+triangulation
+    A technique used in king and pawn endgames (less commonly seen with other
+    pieces) to lose a tempo and gain the opposition.^[324]
+tripled pawns
+    Three pawns of the same color on the same file; considered a weakness due
+    to their inability to defend each other.^[325]
+Troitsky line
+    Also Troitzky line. Endgame analysis by Alexey Troitsky of two knights
+    versus a pawn found certain pawn positions that result in win, draw or
+    loss. The resulting pawn positions on each file form what is known as the
+    Troitsky line or Troitsky position.^[326]
+two bishops
+    A synonym for bishop pair.^[327] Also called the two bishops.
+
+U[edit]
+
+undermining
+    A tactic (also known as removal of the guard) in which a defensive piece is
+    captured, leaving one of the opponent's pieces undefended or underdefended.
+    ^[328]
+      a b c d e f g  h
+    8 Chessboard480.svg 8
+    7 c7 white pawn     7
+    6 d7 white king     6
+    5 a5 black king     5
+    4 a4 black pawn     4
+    3 a3 white pawn     3
+    2 b1 white rook     2
+    1                   1
+      a b c d e f g  h
+    White to move should underpromote the c7-pawn to a rook; promoting to a
+    queen gives stalemate.
+underpromotion
+    Promoting a pawn to a rook, bishop, or knight instead of a queen. Rarely
+    seen unless the knight can deliver a crucial check, or when promotion to a
+    rook or a bishop instead of a queen is necessary to avoid stalemate.^[227]
+United States Chess Federation
+    This is a nonprofit organization, the governing chess organization within
+    the United States, and one of the federations of the FIDE. Abbr. USCF.
+unorthodox opening
+    See irregular opening.
+unpinning
+    The act of breaking a pin by interposing a second piece between the
+    attacker and the target. This allows the piece that was formerly pinned to
+    move.
+unsound
+    Antonym of sound.
+USCF
+    An abbreviation for the United States Chess Federation.
+
+V[edit]
+
+vacating sacrifice
+    A sacrifice made for the purpose of clearing a square for a different piece
+    of the same color.
+valve
+    A move that opens one line and closes another.
+vanished center
+    Or vanished centre. A position with no white or black center pawns.^[329]
+variant
+    See chess variant.
+variation
+    1.  A sequence of moves or an alternative line of play, often applied to
+    the opening. A variation does not have to have been played in a game, it
+    may also be a possibility that occurs only in analysis.^[322] Also called
+    continuation.
+    2.  The word Variation is also used to name specific sequences of moves
+    within an opening. For an example, the Dragon Variation is part of the
+    Sicilian Defence.^[77]
+vertical line
+    See file.
+
+W[edit]
+
+waiting move
+    A move that makes no threats except that it puts the obligation to move on
+    the opponent. A waiting move is effective when the opponent has nothing but
+    bad moves available (i.e. is in zugzwang).^[330]
+WCC
+    An abbreviation for the World Chess Championship.^[331]
+weakness
+    A pawn or square that can be attacked and is hard to defend.^[332]
+weak square
+    A square that cannot be easily defended from attack by an opponent. Often a
+    weak square is unable to be defended by pawns (a hole) and can be
+    theoretically occupied by a piece. Exchange or loss of a bishop may make
+    all squares of that bishop's color weak resulting in a "weak square
+    complex" on the light squares or the dark squares.^[333]
+WFM
+    An abbreviation for the Woman FIDE Master title.^[334]
+WGM
+    An abbreviation for the Woman Grandmaster title.^[334]
+white
+    The light-colored squares on the chessboard are often referred to as "the
+    white squares" even though they often are some other light color.
+    Similarly, "the white pieces" are sometimes actually some other (usually
+    light) color.^[35] See also black.
+White
+    The designation for the player who moves first, even though the
+    corresponding pieces, referred to as "the white pieces", are sometimes
+    actually some other (usually light) color. See also Black and first-move
+    advantage.
+WIM
+    An abbreviation for the Woman International Master title.^[335]
+win
+    A victory for one of the two players in a game, which may occur due to
+    checkmate, resignation by the other player, the other player exceeding the
+    time control, or the other player being forfeited by the tournament
+    director. Chess being a zero-sum game, this results in a loss for the other
+    player. In a tournament a bye may be scored as a win.^[336] See winning
+    position.
+windmill
+    A combination in which two pieces work together to deliver an alternating
+    series of checks and discovered checks in such a way that the opposing king
+    is required to move on each turn. It is a potent technique, since, on every
+    other move, the discovered check may allow the non-checking piece to
+    capture an enemy piece without losing a tempo. The most famous example is
+    Torre–Lasker, Moscow 1925.^[337] Also called seesaw.
+wing
+    The queenside a-, b-, and c-files; or the kingside f-, g-, and h-files.^
+    [338] Also called flank.
+Wing Gambit
+    The name given to variations of several openings in which one player
+    gambits a wing pawn, usually the b-pawn.^[339]
+winning percentage
+    A number calculated by adding together the number of games won and half of
+    the number of games drawn, (ignoring the losses) then dividing that total
+    by the total number of games that were played. Another way of calculating
+    the winning percentage is by taking the percentage of games won by a player
+    plus half the percentage of drawn games. Thus, if out of 100 games a player
+    wins 40 percent, draws 32 percent, and loses 28 percent, the winning
+    percentage is 40 plus half of 32, i.e. 56 percent.^[340]
+winning position
+    A position is said to be a winning if one specified side, with correct
+    play, can eventually force a checkmate against any defense (i.e. perfect
+    defense).^[341] Also called won game.
+Woman FIDE Master
+    A women-only chess title ranking below Woman International Master.^[334]
+    Abbr. WFM.
+Woman Grandmaster
+    The highest ranking gender-restricted chess title except for Women's World
+    Champion.^[334] Abbr. WGM.
+Woman International Master
+    A women-only chess title ranking below Woman Grandmaster and above Woman
+    FIDE Master.^[334] Abbr. WIM.
+won game
+    See winning position.
+wood
+    Slang for pieces. "A lot of wood came off the board" conveys that several
+    piece exchanges occurred.^[80]
+woodpusher
+    A weak chess player, also referred to as a patzer or duffer. Colloquial,
+    typically derogatory.^[342]
+World Champion
+    A winner of the World Chess Championship.^[331]
+wrong-colored bishop
+    See wrong rook pawn.^[343]
+wrong rook pawn
+    With a bishop, a rook pawn may be the wrong rook pawn, depending on whether
+    or not the bishop controls its promotion square.^[344]
+      a b c d e f g  h
+    8                   8
+    7 Chessboard480.svg 7
+    6 b8 black king     6
+    5 a6 white king     5
+    4 a5 white pawn     4
+    3 d4 white bishop   3
+    2                   2
+    1                   1
+      a b c d e f g  h
+    A wrong rook pawn at a5 with a wrong-colored bishop. In this position,
+    White cannot force promotion and Black can force a draw.
+
+X[edit]
+
+      a b c d e f g  h
+    8                   8
+      Chessboard480.svg
+    7 d8 white queen    7
+      g8 black king
+    6 f7 black pawn     6
+      g7 black pawn
+    5 h7 black pawn     5
+      d5 black rook
+    4 a2 black queen    4
+      f2 white pawn
+    3 g2 white pawn     3
+      h2 white pawn
+    2 d1 white rook     2
+      f1 white king
+    1                   1
+
+      a b c d e f g  h
+    An example of an X-ray defense: The white queen has just put the king in
+    check, and the white rook provides an X-ray defense of the white queen.
+X-ray
+    When the power of a piece, either to attack or to defend, seems to pass
+    through an intervening enemy piece. The X-ray attack, also known as a
+    skewer, involves two pieces of the same color both caught in the same line
+    of attack along a diagonal, rank, or file. The attacking piece forces the
+    first and more valuable piece to move out of the way, which allows the
+    second piece to be captured. As a defensive tactic the X-ray occurs when
+    one piece is defended by another piece, through an attacking enemy piece
+    standing between the two.^[345]
+
+Z[edit]
+
+zeitnot
+    [from German, "time crisis"] Having very little time on the clock to
+    complete the remaining moves of a timed game.^[346] Synonyms: time pressure
+    and time trouble.
+Zonal tournaments 
+    Tournaments organised by FIDE, the first qualifying cycle of the World
+    Chess Championship. Each zonal tournament features top players of a certain
+    geographical zone. Up until 1993 the winners went on to Interzonal
+    tournaments. This was replaced by a system where the winners now play each
+    other in knockout-style competitions to determine who goes on to the
+    Candidates Tournament.^[347]
+      a b c d e f g  h
+    8                   8
+    7 Chessboard480.svg 7
+    6 d5 black pawn     6
+    5 e5 white king     5
+    4 c4 black king     4
+    3 d4 white pawn     3
+    2                   2
+    1                   1
+      a b c d e f g  h
+    A position of mutual zugzwang (which is also called Trébuchet). Either
+    White or Black to move will lead to their pawn being captured.
+zugzwang
+    [from German, "compulsion to move"] When a player is put at a disadvantage
+    by having to make a move; where any legal move weakens the position.
+    Zugzwang usually occurs in the endgame, and rarely in the middlegame.^[348]
+zwischenschach
+    [from German, "in-between check"] Playing a surprising check that your
+    opponent didn’t consider when he was plotting a sequence of moves; a
+    zwischenzug that is a check.^[349]
+zwischenzug
+    [from German, "in-between move"] An "inbetween" move, or an intermezzo,
+    played before an expected reply. Often, but not always, this involves
+    responding to a threat by posing an even greater threat, forcing the
+    opponent to respond to the threat first.^[350]
+
+Notes[edit]
+
+ 1. ^ Wilkinson 2008, p. 128
+ 2. ^ Jump up to: ^a ^b ^c ^d Seirawan & Silman 1994, p. 237
+ 3. ^ United States Chess Federation, p. 72
+ 4. ^ United States Chess Federation 2003, pp. 84, 282
+ 5. ^ Jump up to: ^a ^b ^c ^d ^e ^f Staunton 2014, p. 59
+ 6. ^ Pandolfini 1996, pp. 22–23
+ 7. ^ van de Oudeweetering 2014, p. 25
+ 8. ^ Hochberg 2005, p. 14
+ 9. ^ Jump up to: ^a ^b Brace 1977, p. 17
+10. ^ Jump up to: ^a ^b Hooper & Whyld 1996, p. 13
+11. ^ Pandolfini 1996, p. 28
+12. ^ Brace 1977, p. 22
+13. ^ Hooper & Whyld 1996, p. 18
+14. ^ Hoffman 1996, p. 12
+15. ^ Renaud & Kahn 1962, p. 182
+16. ^ "Chess grandmasters on track for possible 'Armageddon' at world
+    championship" Payne, Marissa. Washington Post. 26 November 2016.
+17. ^ Kaufmann 2014, p. 151
+18. ^ Jump up to: ^a ^b ^c ^d ^e ^f Seirawan & Silman 1994, p. 238
+19. ^ Pandolfini 1996, p. 34
+20. ^ Jump up to: ^a ^b ^c ^d ^e Staunton 2009, p. 57
+21. ^ Jump up to: ^a ^b ^c Fischer, Margulies, & Mosenfelder 1982, p. 103
+22. ^ Silman 1998, p. 236
+23. ^ Grooten 2017, p. 199
+24. ^ Pritchard 2012, p. 75
+25. ^ "CHESS Magazine: Basque Chess – does it work for you?!". ChessBase. 29
+    February 2012.
+26. ^ Horton 1959, pp. 12–13; Brace 1977, p. 29; Hooper & Whyld 1996, p. 32
+27. ^ Harding 2015, p. 424
+28. ^ Hilbert 2013, p. 104
+29. ^ Pandolfini 1989, p. 233
+30. ^ Roycroft, 1981, p. 346
+31. ^ Soltis 2012, p. 11
+32. ^ Pandolfini 2013, p. 42
+33. ^ Jump up to: ^a ^b ^c Staunton 2009, p. 3
+34. ^ Pandolfini 1996, p. 46
+35. ^ Jump up to: ^a ^b Staunton 2009, p. 1
+36. ^ Jump up to: ^a ^b ^c Pandolfini 1996, p. 47
+37. ^ Hooper & Whyld 1996, p. 45
+38. ^ MacEnulty 2004, p. 129
+39. ^ Jump up to: ^a ^b Schiller 2003, p. 398
+40. ^ Nimzowitsch 1980, p. 5
+41. ^ Pandolfini 2013, p. 47
+42. ^ Seirawan & Silman 1994, p. 100
+43. ^ Schiller 2003, p. 299
+44. ^ Haworth, G. M. (2005) 6-man chess solved. ICGA Journal, 28 (3). p. 153.
+    ISSN 1389-6911
+45. ^ Silman 1999, p. 428
+46. ^ Hooper & Whyld 1996, p. 53
+47. ^ Jump up to: ^a ^b Silman 1999, p. 429
+48. ^ Jump up to: ^a ^b Pandolfini 1996, p. 55
+49. ^ Kasparov 2017, pp. 52–54
+50. ^ Pandolfini 1996, p. 56
+51. ^ Jump up to: ^a ^b Pandolfini 1992, p. 154
+52. ^ Pandolfini 2005, p. 162
+53. ^ de Firmian 1999, p. 3
+54. ^ Jump up to: ^a ^b Pandolfini 1996, p. 57
+55. ^ Judovitz & Duchamp 2010, p. 137
+56. ^ Johnson 2010, p. 12
+57. ^ Olafsson 2014, p. 32
+58. ^ Higgins, Andrew. "Masters of Chess, Not Self-Promotion". The New York
+    Times. 30 March 2016
+59. ^ Souleidis 2017, p. 176
+60. ^ Staunton 1875, p. 384
+61. ^ Keene 1989, p. 178
+62. ^ Jump up to: ^a ^b ^c Staunton 2014, p. 55
+63. ^ http://www.chesscorner.com/tutorial/basic/castling/castle.html
+64. ^ Pandolfini 1989, p. 64
+65. ^ Hooper & Whyld 1996, p. 426
+66. ^ Jump up to: ^a ^b ^c ^d Seirawan & Silman 1994, p. 239
+67. ^ Hooper & Whyld 1996, p. 72
+68. ^ Jump up to: ^a ^b Silman 1999, p. 430
+69. ^ Jump up to: ^a ^b Hooper & Whyld 1996, p. 102
+70. ^ Snyder 2007, p. 22
+71. ^ Staunton 2014, p. 48
+72. ^ Jump up to: ^a ^b Staunton 2014, p. 53
+73. ^ Hooper & Whyld 1996, p. 210
+74. ^ Staunton 2014, p. 30
+75. ^ Pandolfini 1996, p. 66
+76. ^ Jump up to: ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l ^m Staunton 2009, pp. 2–7
+77. ^ Jump up to: ^a ^b Hochberg 2005, p. 13
+78. ^ FIDE Chess 960 rules
+79. ^ Gligorić 2002, p. 40
+80. ^ Jump up to: ^a ^b Shibut 2012, p. 68
+81. ^ Jump up to: ^a ^b United States Chess Federation 2003, p. 8
+82. ^ Hertan 2014, p. 373
+83. ^ Lawson 1992, pp. 25–26
+84. ^ Pandolfini 1992, p. 181
+85. ^ Seirawan & Silman 1994, p. 42
+86. ^ Pandolfini 1996, p. 70
+87. ^ de Firmian 1999, p. 389
+88. ^ Avni 2014, pp. 35–37
+89. ^ Pandolfini 1996, p. 72
+90. ^ Rasskin-Gutman 2009, p. 99
+91. ^ Hertan 2014, p. 7
+92. ^ Soltis 2019, p. 16
+93. ^ Pandolfini 1989, p. 223
+94. ^ Pandolfini 1996, p. 76
+95. ^ Borders 2007, p. 102
+96. ^ Seirawan & Silman 1994, pp. 44, 149
+97. ^ Hochberg 2005, p. 20
+98. ^ Dunne 1991, p. 1
+99. ^ Dvoretsky 2006, p. 15
+100. ^ Pandolfini 2005, p. 125
+101. ^ Pandolfini 1996, p. 78
+102. ^ Jump up to: ^a ^b ^c ^d Silman 1999, p. 431
+103. ^ Hooper & Whyld 1996, p. 96
+104. ^ Pandolfini 1996, p. 79
+105. ^ Pandolfini 1996, p. 81
+106. ^ Lawson 1992, pp. 31–32, 53
+107. ^ Webb 2006, p. 49
+108. ^ Jump up to: ^a ^b ^c ^d ^e Seirawan & Silman 1994, p. 240
+109. ^ Pandolfini 1988, p. 274
+110. ^ Pandolfini 2005, p. 64
+111. ^ Wilson 1994, p. 60
+112. ^ Pandolfini 1996, p. 89
+113. ^ Jump up to: ^a ^b Staunton 2014, p. 56
+114. ^ Staunton 2014, p. 50
+115. ^ Soltis 2013, p. 10
+116. ^ Staunton 2014, p. 51
+117. ^ Pandolfini 2013, p. 75
+118. ^ Pandolfini 1996, p. 96
+119. ^ Grooten 2017, p. 289
+120. ^ Soltis 2002, p. 146
+121. ^ Desjarlais 2011, p. 99
+122. ^ Edwards 2007, p. 258
+123. ^ Capablanca 2002, p. 79
+124. ^ Schiller 2003, p. 376
+125. ^ Suba 2014, p. 104
+126. ^ Nimzowitsch 2016, p. 281
+127. ^ Silman 1998, p. 10
+128. ^ Pandolfini 2009, p. 301
+129. ^ Jump up to: ^a ^b Seirawan & Silman 1994, p. 241
+130. ^ Moore & Mertens 2011, p. 14
+131. ^ Alburt & Parr 2003, pp. 22–23
+132. ^ Brace 1977
+133. ^ New Oxford American Dictionary
+134. ^ Jump up to: ^a ^b Staunton 2014, p. 57
+135. ^ Pandolfini 1996, p. 102
+136. ^ Wilson 1994, p. 55
+137. ^ David 2016, pp. 88–96
+138. ^ ChessMN16. "How to Read Engine Evaluations". Chess.com. April 29, 2015
+139. ^ Newborn 2013, pp. 1–14
+140. ^ Golombek 1977, p. 113, and Silman 1999, p. 432, define an exchange to
+    always be of equal value, but most writers do not: Horton 1952, p. 63;
+    Brace 1977, p. 97; Hooper & Whyld 1996, p. 130; Seirawan & Silman 1994, p.
+    188.
+141. ^ Schiller 2003, p. 113
+142. ^ Soltis 2002, p. 102
+143. ^ Lawrence & Alburt 2010, p. 88
+144. ^ Pandolfini 1992, pp. 56, 94, 118
+145. ^ Pawlak, Robert. "Your Computer as Opponent, Coach, and Training
+    Assistant". Chess Life, Vol. 56, issue 11. November 2001. pp. 22–25.
+146. ^ Jump up to: ^a ^b Pandolfini 1989, p. 225
+147. ^ Soltis 2002, p. 71
+148. ^ Jump up to: ^a ^b Silman 1999, p. 433
+149. ^ FICGS correspondence chess titles
+150. ^ Jump up to: ^a ^b ^c ^d Pandolfini 1996, p. 108
+151. ^ Ashley 2007, p. 232
+152. ^ Pandolfini 1988, p. 16
+153. ^ Byrne, Robert. "Pastimes; Chess". The New York Times. 4 November 1990
+154. ^ Olafsson 2014, p. 80
+155. ^ Seirawan & Silman 1994, p. 189
+156. ^ Pandolfini 1992, p. 234
+157. ^ Jump up to: ^a ^b ^c Staunton 2014, p. 58
+158. ^ Pandolfini 1988, p. 47
+159. ^ Hendriks 2014, pp. 161–62
+160. ^ United States Chess Federation 2003, pp. xxvii, 29, 34, 64, 69
+161. ^ Brown 2012, p. 241
+162. ^ Moore 2015, p. 77
+163. ^ Soltis 2014, p. 31
+164. ^ Hooper & Whyld 1996, p. 145
+165. ^ Jump up to: ^a ^b Pandolfini 1996, p. 134
+166. ^ Murray 2012, pp. 390–91
+167. ^ Ashley 2007, p. 233
+168. ^ Kvanvig 2008, p. 229
+169. ^ Schiller 2003, p. 165
+170. ^ Jump up to: ^a ^b ^c ^d Silman 1999, p. 434
+171. ^ Clarke 1963, p. 1
+172. ^ Seirawan & Silman 1994, p. 242
+173. ^ Barden 2017
+174. ^ Cranston 2017, p. 1
+175. ^ Lombardy & Daniels 1977, pp. 10, 11
+176. ^ Znosko-Borovsky 2012, p. 39
+177. ^ Pandolfini 2005, p. 69
+178. ^ "London m4 Games". 365Chess.com.
+179. ^ Hertan 2013, p. 109
+180. ^ Nimzowitsch 2016, p. 466
+181. ^ Timman 2014, p. 71
+182. ^ Lee 2016, p. 158
+183. ^ Hooper & Whyld 1996, p. 178
+184. ^ Jump up to: ^a ^b Silman 1999, p. 435
+185. ^ Jump up to: ^a ^b Dunne 1991, p. 99
+186. ^ Jump up to: ^a ^b Pandolfini 1996, p. 124
+187. ^ Jump up to: ^a ^b Pandolfini 1996, p. 125
+188. ^ Lemos 2014, pp. 30–32
+189. ^ Pandolfini 1996, p. 126
+190. ^ Jump up to: ^a ^b Pandolfini 1996, p. 128
+191. ^ Jump up to: ^a ^b ^c Pandolfini 2009, p. 302
+192. ^ Pandolfini 2005, p. 150
+193. ^ Schiller 2003, p. 91
+194. ^ Pandolfini 1989, p. 227
+195. ^ Jump up to: ^a ^b ^c Staunton 2014, p. 61
+196. ^ Hooper & Whyld 1996, p. 183
+197. ^ Jump up to: ^a ^b Pandolfini 1996, p. 136
+198. ^ "Kasparov vs. Topalov, Wijk aan Zee 1999". Chessgames.com.
+199. ^ van de Oudeweetering 2014, p. 220
+200. ^ Petković 1997, pp. 50–55
+201. ^ Kotov 2012, p. 12
+202. ^ Hochberg 2005, p. 73
+203. ^ Staunton 2009, p. 35
+204. ^ Jump up to: ^a ^b Pandolfini 1996, p. 146
+205. ^ Hooper & Whyld 1996, p. 226
+206. ^ Staunton 2009, p. 46
+207. ^ Pandolfini 1996, p. 147
+208. ^ Pandolfini 1996, p. 148
+209. ^ Euwe & Meiden 2013, p. 19
+210. ^ Pandolfini 1996, p. 150
+211. ^ Seirawan & Silman 1994, p. 243
+212. ^ Pandolfini 1996, p. 152
+213. ^ Pandolfini 1992, p. 109
+214. ^ Pandolfini 2009, p. 303
+215. ^ Hooper & Whyld 1996, p. 244, man
+216. ^ Kmoch 2013, p. 143
+217. ^ Jump up to: ^a ^b Ashley 2007, p. 234
+218. ^ Pandolfini 2008, p. 351
+219. ^ Jump up to: ^a ^b ^c ^d ^e Silman 1999, p. 436
+220. ^ Hartston 1997, p. 118
+221. ^ Jump up to: ^a ^b Waitzkin & Waitzkin 1995, p. 187
+222. ^ "Chandler Cornered · 200 Miniatures Games part 2". Chess Edinburgh and
+    Lothians.
+223. ^ Nunn 1999, p. 6
+224. ^ Pandolfini 1992, p. 63
+225. ^ Keene 1989, p. 73
+226. ^ [1] Klein, Mike. "Five Crowned In ChessKid.com National Championship".
+    The United States Chess Federation website.9 June 2015 "The rules specify
+    that mouse-slips stand, so Perkins' win drew him even with Vaidya at 3.0/
+    4."
+227. ^ Jump up to: ^a ^b ^c ^d Hochberg 2005, p. 12
+228. ^ Pandolfini 2005, p. 185
+229. ^ Nimzowitsch 2014, p. 182
+230. ^ Hallman, 2013, p. 154
+231. ^ Hooper & Whyld 1996, p. 274
+232. ^ FIDE Handbook
+233. ^ Agdestein 2013, p. 141
+234. ^ Wilson 1994, p. 4
+235. ^ Znosko-Borovsky 2012, pp. 118–19
+236. ^ Komarov & Djuric 2016, p.10
+237. ^ van de Oudeweetering 2014, p. 13
+238. ^ Keene 1989, p. 182
+239. ^ Jump up to: ^a ^b United States Chess Federation 2003, p. 158
+240. ^ Jump up to: ^a ^b Silman 1999, p. 437
+241. ^ Schiller 2003, p. 19
+242. ^ Pandolfini 1996, p. 166
+243. ^ Hooper & Whyld 1996, p. 405. system.
+244. ^ Pandolfini 1996, p. 167
+245. ^ Staunton 2014, p. 60
+246. ^ Jump up to: ^a ^b Webb 2006, p. 72
+247. ^ Pandolfini 1992, p. 113
+248. ^ Pandolfini 2009, p. 305
+249. ^ Seirwan & Silman 2005, p. 246; Horton 1959, p. 147
+250. ^ Pandolfini 1992, p. 237
+251. ^ Jump up to: ^a ^b ^c Silman 1999, p. 438
+252. ^ Seirawan & Silman 1994, p. 246; Brace 1977, p. 208; Horton 1959, p. 147
+253. ^ Pandolfini 1996, p. 172
+254. ^ Kmoch 2013, p. 18
+255. ^ de Groot 2008, pp. 189–203
+256. ^ van de Oudeweetering 2014, p. 7
+257. ^ Kaan 2016, p. 19
+258. ^ Staunton 1875, p. 41
+259. ^ Keene 1989, p. 183
+260. ^ Jump up to: ^a ^b ^c ^d ^e Silman 1999, p. 439
+261. ^ Waitzkin & Waitzkin 1995, p. 83
+262. ^ Pandolfini 1992, p. 238
+263. ^ United States Chess Federation 2003, p. 202
+264. ^ Seirawan & Silman 1994, p. 245
+265. ^ Jump up to: ^a ^b Hurst 2007, p. 365
+266. ^ Fine 1976, p. 4
+267. ^ Hochberg 2005, p. 11
+268. ^ Kaan 2016, p. 16
+269. ^ Kavalek, Lubomir. "Chess". The Washington Post. 16 July 2007
+270. ^ Watson & Watson 1998, p. 18
+271. ^ Pandolfini 1996, p. 188
+272. ^ Dvoretsky 2006, p. 53
+273. ^ Soltis 2013, p. 1
+274. ^ Silman 1999, p. 440
+275. ^ Staunton 2009, p. 355
+276. ^ Staunton 2009, p. 360
+277. ^ Kaan 2016, pp. 161–62
+278. ^ Pandolfini 2009, p. 306
+279. ^ United States Chess Federation 2003, p. 337
+280. ^ Hertan 2014, p. 193
+281. ^ Hooper & Whyld 1996, p. 330
+282. ^ Alburt & Parr 2003, p. 113
+283. ^ Hooper & Whyld 1996, p. 331
+284. ^ Hooper & Whyld 1996, pp. 331–32
+285. ^ Soltis 2013, p. 210
+286. ^ Pandolfini 2009, p. 96
+287. ^ Jump up to: ^a ^b ^c ^d Silman 1999, p. 441
+288. ^ Burgess 2000, p. 481
+289. ^ Grooten 2017, p. 51
+290. ^ Pandolfini 1992, p. 102
+291. ^ Jump up to: ^a ^b Ashley 2007, p. 238
+292. ^ Seirawan & Silman 1994, p. 247
+293. ^ All The King’s Men Archived 24 October 2009 at the Wayback Machine,
+    Outlook Business, 31 October 2009
+294. ^ Jump up to: ^a ^b Hooper & Whyld 1996, p. 365
+295. ^ Jump up to: ^a ^b Hooper & Whyld 1996, p. 165
+296. ^ Brace 1977, p. 257
+297. ^ Kaan 2016, p. 244
+298. ^ Rasskin-Gutman 2009, p. 136
+299. ^ Timman 2014, p. 166
+300. ^ Hooper & Whyld 1996, p. 373; Silman 1999, p. 441
+301. ^ Jump up to: ^a ^b Ashley 2007, p. 239
+302. ^ Fine 2015, p. 87
+303. ^ Pandolfini 1988, p. 267
+304. ^ Staunton 2009, p. 25
+305. ^ Giddins 2017, pp. 169–70
+306. ^ Reinfeld 2016, p. 151
+307. ^ Pandolfini 1988, p. 78
+308. ^ Stamp, Jimmy (3 April 2013). "How the Chess Set Got Its Look and Feel".
+    Smithsonian.com.
+309. ^ Jump up to: ^a ^b ^c ^d ^e ^f ^g Silman 1999, p. 442
+310. ^ Averbakh, Yuri. Comprehensive Chess Endings. Pergamon Press. p. viii.
+311. ^ Hooper & Whyld 1996, p. 400
+312. ^ Jump up to: ^a ^b Ashley 2007, p. 240
+313. ^ "Capablanca vs. Maróczy, Lake Hopatcong 1926". Chessgames.com.
+314. ^ Steingass 1884, p. 752
+315. ^ van de Oudeweetering 2014, p. 193
+316. ^ Kotov 2012, p. 42
+317. ^ Pandolfini 1996, p. 241
+318. ^ Hooper & Whyld 1996, p. 418
+319. ^ Jump up to: ^a ^b Pandolfini 1992, p. 240
+320. ^ Pandolfini 2009, p. 307
+321. ^ Bronstein 2013, p. vii
+322. ^ Jump up to: ^a ^b Silman 1999, p. 443
+323. ^ Soltis 2013, p. 33
+324. ^ Soltis 2013, p. 5
+325. ^ Pandolfini 1996, pp. 249–50
+326. ^ de la Villa 2014, p. 246
+327. ^ Pandolfini 2009, p. 310
+328. ^ Pandolfini 1992, p. 241
+329. ^ Hooper & Whyld 1996, p. 439
+330. ^ Tarrasch 2012, p. 5
+331. ^ Jump up to: ^a ^b Schiller 2009, pp. 1–10
+332. ^ Seirawan & Silman 1994, p. 127
+333. ^ Seirawan & Silman 1994, p. 250
+334. ^ Jump up to: ^a ^b ^c ^d ^e Goichberg, Jarecki & Riddle 2010, p. 329
+335. ^ Evans, Silman & Roberts 1991, p. 91
+336. ^ Hertan 2016, p. 43
+337. ^ Schiller 2003, p. 287
+338. ^ Young & Howell 1894, p. 46
+339. ^ Reinfeld 2016, p. 585
+340. ^ Silver 2012, p. 270
+341. ^ Capablanca 2002, p. 116
+342. ^ Evans 2009, p. 92
+343. ^ Soltis 2002, p. 87
+344. ^ Benjamin 2015, pp. 215–16
+345. ^ Pandolfini 1993, p. 46
+346. ^ Galperin 2012, p. 64
+347. ^ Williams 1997, p. 120
+348. ^ Pandolfini 1992, p. 76
+349. ^ Wilson & Alberston 2012, p. 10
+350. ^ Waitzkin & Waitzkin 1995, p. 159
+
+References[edit]
+
+  • Agdestein, Simen (2013), How Magnus Carlsen Became the Youngest Chess
+    Grandmaster in the World: The Story and the Games, New In Chess, ISBN 
+    9789056914424
+  • Alburt, Lev; Parr, Larry (2003), The Secrets of the Russian Chess Masters:
+    Fundamentals of the Game, W. W. Norton & Company, ISBN 9780393324525
+  • Ashley, Maurice (2007), Chess for Success: Using an Old Game to Build New
+    Strengths in Children and Teens, ISBN 9780307418883
+  • Avni, Amatzia (2014), Devious Chess: How to Bend the Rules and Win,
+    Pavilion Books, ISBN 9781849941822
+  • Barden, Leonard (20 January 2017). "Wesley So at top of Wijk standings
+    going into weekend rounds". The Guardian.
+  • Benjamin, Joel (2015), Liquidation on the Chess Board: Mastering the
+    Transition into the Pawn Ending, New In Chess, ISBN 9789056915544
+  • Borders, Mark (2007), The Self-Improvement of Chess, Lulu, ISBN 
+    9781430327646
+  • Brace, Edward R. (1977), An Illustrated Dictionary of Chess, Hamlyn
+    Publishing Group, ISBN 0-600-32920-8 (1989 reprint by Chartwell Books, ISBN
+     978-1555213947)
+  • Bronstein, David (2013), Zurich International Chess Tournament, 1953,
+    Courier Corporation, ISBN 9780486319063
+  • Brown, Isaac M. (2012), The British Chess Magazine, Volume 15, Nabu Press,
+    ISBN 9781276679046
+  • Burgess, Graham (2000), The Mammoth Book of Chess, Carroll & Graf
+    Publishers, ISBN 0-7867-0725-9
+  • Capablanca, Jose R. (2002), A Primer of Chess, Houghton Mifflin Harcourt,
+    ISBN 9780156028073
+  • Clarke, P. H. (1963), 100 Soviet Chess Miniatures, Courier Corporation,
+    ISBN 9780486408446
+  • Cranston, Adam. (2017). "Heatwave Chess". Hammersmith Chess Club
+    Newsletter.
+  • David, Omid E.; Netanyahu, Nathan S.; Wolf, Lior (2016), DeepChess:
+    End-to-End Deep Neural Network for Automatic Learning in Chess.
+    International Conference on Artificial Neural Networks (ICANN) Vol. 9887,
+    Springer, ISBN 9783319447810
+  • de Firmian, Nick (1999), Modern Chess Openings: MCO-14, Random House
+    Puzzles & Games, ISBN 0-8129-3084-3
+  • de Groot, Adriaan D. (2008), Thought and Choice in Chess, Amsterdam
+    University Press, ISBN 9789053569986
+  • de la Villa, Jesús (2014), 100 Endgames You Must Know: Vital Lessons for
+    Every Chess Player Improved and Expanded, New In Chess, ISBN 9789056914547
+  • Desjarlais, Robert R. (2011), Counterplay: An Anthropologist at the
+    Chessboard, University of California Press, ISBN 9780520948204
+  • Dunne, Alex (1991), Complete Guide to Correspondence Chess, Thinkers'
+    Press, ISBN 9780938650522
+  • Dvoretsky, Mark (2006), Dvoretsky's Endgame Manual (second ed.), Russell
+    Enterprises, ISBN 1-888690-28-3
+  • Edwards, Jon (2007), Teach Yourself VISUALLY Chess, John Wiley & Sons, ISBN
+     9780470121320
+  • Euwe, Max; Meiden, Walter (2013), Chess Master vs. Chess Amateur, Courier
+    Corporation, ISBN 9780486319896
+  • Evans, Larry (1967), New Ideas in Chess, Cornerstone Library (1984 Dover
+    edition), ISBN 0-486-28305-4
+  • Evans, Larry; Silman, Jeremy; Roberts, Betty (1991), How to Get Better at
+    Chess: Chess Masters on Their Art, Summit, ISBN 9780945806059
+  • Evans, Larry (2009), This Crazy World of Chess, Cardoza, ISBN 9781580422376
+  • Evans, Larry (2011), 10 Most Common Chess Mistakes, Cardoza Publishing,
+    ISBN 978-1580422895
+  • Fine, Gary Alan (2015), Players and Pawns: How Chess Builds Community and
+    Culture, University of Chicago Press, ISBN 9780226265032
+  • Fine, Reuben (1976), The World's Great Chess Games, Courier Corporation,
+    ISBN 9780486245126
+  • Fischer, Bobby; Margulies, Stuart; Mosenfelder, Donn (1982), Bobby Fischer
+    Teaches Chess, Random House Publishing Group, ISBN 9780553263152
+  • Galperin, Misha (2012), Reimagining Leadership in Jewish Organizations: Ten
+    Practical Lessons to Help You Implement Change and Achieve Your Goals,
+    Jewish Lights Publishing, ISBN 9781580234924
+  • Giddins, Steve (2017), The New In Chess Book of Chess Improvement: Lessons
+    From the Best Players in the World's Leading Chess Magazine, New In Chess,
+    ISBN 9789056916954
+  • Golombek, Harry, ed. (1977), Golombek's Encyclopedia of Chess, Batsford,
+    ISBN 0-517-53146-1
+  • Gligorić, Svetozar (2002), Shall We Play Fischerandom Chess?, B.T. Batsford
+    Ltd, ISBN 0-7134-8764-X
+  • Goichberg, Bill; Jarecki, Carol; Riddle, Ira Lee (1993), U.S. Chess
+    Federation's Official Rules of Chess, David McKay Chess Library, ISBN 
+    9780812922172
+  • Grooten, Herman (2017), Chess Strategy for Club Players: The Road to
+    Positional Advantage, Siles Press, ISBN 9789056916947
+  • Hallman, J.C. (2013), The Chess Artist: Genius, Obsession, and the World's
+    Oldest Game, Macmillan, ISBN 9781466852235
+  • Harding, Tim (2015), Joseph Henry Blackburne: A Chess Biography, McFarland,
+    ISBN 9781476620282
+  • Hartston, William (1997), Teach Yourself Better Chess, Hodder & Stoughton,
+    ISBN 9780844239330
+  • Hendriks, Willy (2014), Move First, Think Later: Sense and Nonsense in
+    Improving Your Chess, New In Chess, ISBN 9789056915407
+  • Hertan, Charles (2013), Power Chess for Kids: Learn How to Think Ahead and
+    Become One of the Best Players in Your School, New In Chess, ISBN 
+    9789056914448
+  • Hertan, Charles (2014), Forcing Chess Moves: The Key to Better Calculation,
+    New In Chess, ISBN 9789056914653
+  • Hertan, Charles (2016), Start Playing Chess!: Learn the Rules of the Royal
+    Game, New In Chess, ISBN 9789056916879
+  • Hilbert, John S. (2013), Emil Kemeny: A Life in Chess, McFarland, ISBN 
+    9780786473595
+  • Hochberg, Burt (2005), Outrageous Chess Problems, Sterling Publishing
+    Company, ISBN 9781402719097
+  • Hoffman, Asa (1996), Chess Gladiator, International Chess Enterprises, ISBN
+     9781879479319
+  • Hooper, David; Whyld, Kenneth (1996) [first pub. 1992], The Oxford
+    Companion to Chess (second ed.), Oxford: Oxford University Press, ISBN 
+    0-19-280049-3
+  • Horton, Byrne Joseph (1959), Dictionary of modern chess, Owen, ISBN 
+    0-8022-0746-4
+  • Hurst, John (2007), Professional SlickEdit, John Wiley & Sons, ISBN 
+    9780470251706
+  • Johnson, Joel (2010), Formation Attacks, Lulu, ISBN 9780557522699
+  • Judovitz, Dalia; Duchamp, Marcel (2010), Drawing on Art: Duchamp and
+    Company, University of Minnesota Press, ISBN 9780816665297
+  • Kaan, Jef (2016), Better Chess Openings, Lulu, ISBN 9781326180775
+  • Kasparov, Garry (2017), Deep Thinking: Where Machine Intelligence Ends and
+    Human Creativity Begins, PublicAffairs, ISBN 9781610397872
+  • Kaufman, Larry (2014), Sabotage the Grunfeld!: A Cutting-edge Repertoire
+    for White based on 3.f3, New In Chess, ISBN 9789056915391
+  • Keene, Raymond (1989), The Simon & Schuster Pocket Book of Chess, Simon and
+    Schuster, ISBN 9780671679248
+  • Kmoch, Hans (2013), Pawn Power in Chess, Courier Corporation, ISBN 
+    9780486319698
+  • Komarov, Dimitri; Djuric, Stefan (2016), Chess Opening Essentials: 1.d4 d5
+    / 1.d4 Various / Queen's Gambits, Microsoft Press, ISBN 9789056917289
+  • Kotov, A. A. (2012), Think Like a Grandmaster, Pavilion Books, ISBN 
+    9781849940535
+  • Kvanvig, Jonathan (2008), Oxford Studies in Philosophy of Religion, Volume
+    1 =Oxford University Press, ISBN 9780191562204
+  • Lawrence, Al; Alburt, Lev (2010), Knack Chess for Everyone: A Step-by-Step
+    Guide to Rules, Moves & Winning Strategies, Rowman & Littlefield, ISBN 
+    9780762762712
+  • Lawson, Kristan (1992), The Rules of Speed Chess, Jolly Roger Press, ISBN 
+    9780963420572
+  • Lee, Newton (2016), Google It: Total Information Awareness, Springer, ISBN 
+    9781493964154
+  • Lemos, Damien (2014), Opening Repertoire: The Fianchetto System, Everyman
+    Chess, ISBN 9781781941621
+  • Levitt, Gerald M. (2006), Turk, Chess Automation, McFarland & Company, ISBN
+     978-0786429035
+  • Lombardy, William; Daniels, David (1977). Chess Panorama. Stein & Day. ISBN
+     0-8019-6078-9.
+  • MacEnulty, David (2004), The Chess Kid's Book of Checkmate, Random House
+    Puzzles & Games, ISBN 9780812935943
+  • Moore, Cristopher; Mertens, Stephan (2011), The Nature of Computation,
+    Oxford University Press, ISBN 9780199233212
+  • Moore, Ethan (2015), How To Beat Anyone At Chess: The Best Chess Tips,
+    Moves, and Tactics, Simon and Schuster, ISBN 9781440592157
+  • Murray, Harold James Ruthven (2012), A History of Chess, Skyhorse
+    Publishing, ISBN 978-1620870624
+  • Newborn, Monty (2013), Deep Blue: An Artificial Intelligence Milestone,
+    Springer Science & Business Media, ISBN 9780387217901
+  • Nimzowitsch, Aron (1980), Blockade, Chess Enterprises, ISBN 9781476739700
+  • Nimzowitsch, Aron (2014), Aron Nimzowitsch 1928-1935: Annotated Games &
+    Essays, New In Chess, ISBN 9789056915162
+  • Nimzowitsch, Aron (2016), My System & Chess Praxis: His Landmark Classics
+    in One Edition, New In Chess, ISBN 9789056916602
+  • Nunn, John (1999). 101 Brilliant Chess Miniatures. Gambit Publications.
+    ISBN 1-901983-16-1.
+  • Ólafsson, Helgi (2014), Bobby Fischer Comes Home: The Final Years in
+    Iceland, a Saga of Friendship and Lost Illusions, New In Chess, ISBN 
+    9789056914363
+  • Pandolfini, Bruce (1988), Pandolfini's Endgame Course: Basic Endgame
+    Concepts Explained, Simon and Schuster, ISBN 9780671656881
+  • Pandolfini, Bruce (1989), Chess Openings: Traps And Zaps, Touchstone, ISBN 
+    978-0671656904
+  • Pandolfini, Bruce (1992), Pandolfini's Chess Complete: The Most
+    Comprehensive Guide to the Game, from History to Strategy, Simon and
+    Schuster, ISBN 9780671701864
+  • Pandolfini, Bruce (1993), Beginning Chess: Over 300 Elementary Problems for
+    Players New to the Game, Simon and Schuster, ISBN 9780671795016
+  • Pandolfini, Bruce (1996), Chess Thinking: The Visual Dictionary of Chess
+    Moves, Rules, Strategies and Concepts (Fireside Chess Library), Everyman
+    Chess, ISBN 1-85744-480-9
+  • Pandolfini, Bruce (2005), The Q&A Way in Chess, Random House, ISBN 
+    9780812936582
+  • Pandolfini, Bruce (2008), Pandolfini's Ultimate Guide to Chess, Simon and
+    Schuster, ISBN 9780743260985
+  • Pandolfini, Bruce (2009), Pandolfini's Endgame Course, Simon and Schuster,
+    ISBN 9780671656881
+  • Pandolfini, Bruce (2013), Weapons of Chess: An Omnibus of Chess Strategies,
+    Simon and Schuster, ISBN 9781476739700
+  • Petković, Miodrag (1997), Mathematics and Chess: 110 Entertaining Problems
+    and Solutions, Courier Corporation, ISBN 9780486294322
+  • Pritchard, David (2012), The Right Way to Play Chess, Little, Brown Book
+    Group, ISBN 9780716023326
+  • Rasskin-Gutman, Diego (2009), Chess Metaphors: Artificial Intelligence and
+    the Human Mind, MIT Press, ISBN 9780262182676
+  • Reinfeld, Fred (2016), The Complete Chess Course, Russell Enterprises, ISBN
+     9781941270240
+  • Renaud, Georges; Kahn, Victor (2015), The Art of Checkmate, Batsford, ISBN 
+    978-1849942706
+  • Roycroft, A. J. (1981), The Chess Endgame Study: A Comprehensive
+    Introduction, Courier Dover Publications, ISBN 9780486241869
+  • Schiller, Eric (2003), Encyclopedia of Chess Wisdom, Simon and Schuster,
+    ISBN 9781580420884
+  • Schiller, Eric (2009), World Champion Openings, Cardoza Publishing, ISBN 
+    9781580425612
+  • Seirawan, Yasser; Silman, Jeremy (1994), Winning Chess Strategies: Proven
+    Principles from One of the U.S.A.'s Top Chess Players, Microsoft Press,
+    ISBN 9781556156632
+  • Shibut, Macon (2012), Paul Morphy and the Evolution of Chess Theory,
+    Courier Corporation, ISBN 9780486149875
+  • Silman, Jeremy (1998), The Complete Book of Chess Strategy: Grandmaster
+    Techniques from A to Z, Siles Press, ISBN 9781890085018
+  • Silman, Jeremy (1999), The Amateur's Mind: Turning Chess Misconceptions
+    Into Chess Mastery, Siles Press, ISBN 978-1890085025
+  • Silver, Nate (2012), The Signal and the Noise: Why So Many Predictions
+    Fail-but Some Don't, Penguin, ISBN 9781101595954
+  • Snyder, Robert M. (2007), Winning Chess Traps: Opening Tactics for the
+    Advanced Beginner and Intermediate Player, iUniverse, ISBN 9780595453450^[
+    self-published source]
+  • Soltis, Andrew (2002), Chess Lists, 2d ed., McFarland, ISBN 9780786412969
+  • Soltis, Andrew (2012), What It Takes to Become a Chess Master, Pavilion
+    Books, ISBN 9781849940887
+  • Soltis, Andrew (2013), The Wisest Things Ever Said About Chess, Pavilion
+    Books, ISBN 9781849941020
+  • Soltis, Andrew (2013), 100 Chess Master Trade Secrets: From Sacrifices to
+    Endgames, Pavilion Books, ISBN 9781849941556
+  • Soltis, Andrew (2014), New Art of Defence in Chess: chess defence tactics
+    classic, Batsford, ISBN 978-1849941600
+  • Soltis, Andy (2019), "Out on a limb; What level of certainty do you need to
+    confidently play a move?", Chess Life, United States Chess Federation
+  • Souleidis, Georgios (2017), Winning with the Slow (but Venomous!) Italian:
+    An Easy-to-Grasp Chess Opening for White, New In Chess, ISBN 9789056916756
+  • Standage, Tom (2004), Mechanical Turk: The True Story of the Chess Playing
+    Machine That Fooled the World, Penguin USA, ISBN 978-0140299199
+  • Staunton, Howard (1875), The Chess-Player's Companion: comprising a new
+    Treatise on Odds, and a Collection of Games, George Bell and Sons
+  • Staunton, Howard (2009), Staunton's Chess-Player's Handbook, Siles Press,
+    ISBN 9784871878210
+  • Staunton, Howard (2014), Chess: theory & practice; containing the laws &
+    history of the game, together with an analysis of the openings, & a
+    treatise of end games, Nabu Press, ISBN 978-1294776635
+  • Steingass, Francis Joseph (1884), The Student's Arabic–English Dictionary,
+    Crosby Lockwood and Son
+  • Suba, Mihai (2014), Dynamic Chess Strategy: Extended & Updated Edition, New
+    In Chess, ISBN 9789056914592
+  • Tarrasch, Siegbert (2012), The Game of Chess, Courier Corporation, ISBN 
+    9780486144559
+  • Timman, Jan (2014), On The Attack: The Art of Attacking Chess According to
+    the Modern Masters, MIT Press, ISBN 9789056914905
+  • United States Chess Federation (2003), United States Chess Federation's
+    Official Rules of Chess, Fifth Edition, Random House Puzzles & Games, ISBN 
+    9780812935592
+  • van de Oudeweetering, Arthur (2014), Improve Your Chess Pattern
+    Recognition: Key Moves and Motifs in the Middlegame, New In Chess, ISBN 
+    9789056915421
+  • van de Oudeweetering, Arthur (2016), Train Your Chess Pattern Recognition:
+    More Key Moves & Motives in the Middlegame, New In Chess, ISBN 
+    9789056916145
+  • Waitzkin, Josh; Waitzkin, Fred (1995), Attacking Chess: Aggressive
+    Strategies and Inside Moves from the U.S. Junior Chess Champion, Simon and
+    Schuster, ISBN 9780684802503
+  • Watson, John L. (1998), Secrets of Modern Chess Strategy: Advances Since
+    Nimzowitsch, Gambit, ISBN 9781901983074
+  • Webb, Simon (2006), Chess for Tigers, Batsford, ISBN 978-0713489880
+  • Williams, Gareth (1997), Introduction to Chess: Learn to Play the World's
+    Most Popular Game of Skill, Barnes & Noble Books, ISBN 9780760705339
+  • Wilkinson, Sinclair L. (2008), Chess!: A Fun Game to Learn and Play,
+    Xlibris Corporation, ISBN 9781453550397^[self-published source]
+  • Wilson, Fred (1994), 101 Questions on How to Play Chess, Dover
+    Publications, ISBN 9780486282732
+  • Wilson, Fred; Alberston, Bruce (2012), 303 Tricky Chess Puzzles, Cardoza
+    Publishing, ISBN 9781580425247
+  • Young, Franklin Knowles; Howell, Edwin C. (1894), The Minor Tactics of
+    Chess: A Treatise on the Deployment of the Forces in Obedience to the
+    Strategic Principle, Roberts brothers
+  • Zelepukhin, N. P. (1982), Dictionary of Chess, French & European Pubns,
+    ISBN 0-8288-2350-2
+  • Znosko-Borovsky, Eugene A. (2012), How Not to Play Chess, Courier
+    Corporation, ISBN 9780486158372
+  • Znosko-Borovsky, Eugene A. (2012), How to Play the Chess Openings, Courier
+    Corporation, ISBN 9780486158396
+
+                             hide
+
+                               • v
+                               • t
+                               • e
+
+                             Chess
+              • Chess theory
+              • Chess titles
+                  □ Grandmaster
+                  □ list of Grandmasters
+              • Computer chess
+                  □ glossary
+                  □ matches
+                  □ engines
+                  □ software
+              • Correspondence chess
+  Outline     • FIDE
+              • Glossary
+              • History
+                  □ timeline
+                  □ notable games
+              • Rating system
+                  □ world rankings
+                  □ norms
+              • Variants
+                  □ List
+              • World records
+
+              • Chess set
+                  □ chessboard
+                  □ pieces
+                  □ King
+                  □ Queen
+                  □ Rook
+ Equipment        □ Bishop
+                  □ Knight
+                  □ Pawn
+              • Chess box
+              • Chess clock
+              • Chess table
+              • score sheets
+
+              • Castling
+              • Check
+              • Checkmate
+              • Draw
+                  □ by agreement
+                  □ Fifty-move rule
+                  □ Perpetual check
+   Rules          □ Stalemate
+                  □ Threefold repetition
+              • En passant
+              • Pawn promotion
+              • Time control
+                  □ Fast chess
+              • Touch-move rule
+
+              • Blunder
+              • Chess notation
+                  □ algebraic
+                  □ descriptive
+                  □ PGN
+                  □ annotation symbols
+                  □ symbols in Unicode
+              • Fianchetto
+              • Gambit
+              • Key square
+              • King walk
+              • Pawns
+                  □ backward
+                  □ connected
+   Terms          □ doubled
+                  □ isolated
+                  □ Maróczy Bind
+                  □ passed
+              • Open file
+                  □ Half-open file
+              • Outpost
+              • School
+                  □ romantic
+                  □ hypermodern
+              • Swindle
+              • Tempo
+              • Transposition
+              • Trap
+
+              • Battery
+                  □ Alekhine's gun
+              • Block
+              • Checkmate patterns
+              • Combination
+              • Decoy
+              • Deflection
+              • Desperado
+              • Discovered attack
+              • Double check
+  Tactics     • Fork
+              • Interference
+              • Overloading
+              • Pin
+              • Sacrifice
+              • Skewer
+              • Undermining
+              • Windmill
+              • X-ray
+              • Zwischenzug
+
+              • Artificial castling
+              • Compensation
+              • Exchange
+                  □ the exchange
+              • Initiative
+ Strategy         □ first-move advantage
+              • Middlegame
+              • Pawn storm
+              • Pawn structure
+              • Piece values
+              • Prophylaxis
+
+                                • English Opening
+                                • Zukertort Opening
+                                    □ Réti Opening
+                                    □ King's Indian Attack
+              Flank opening     • Larsen's Opening
+                                • Bird's Opening
+                                • Grob's Attack
+                                • Dunst Opening
+                                • Benko Opening
+
+                                • Alekhine's Defense
+                                • Caro–Kann Defense
+                                • French Defense
+                                • Modern Defense
+                                • Nimzowitsch Defense
+                                • Open Game
+                                    □ Italian Game
+                                    □ Semi-Italian Opening
+                                    □ Giuoco Piano
+                                    □ King's Gambit
+                                    □ Petrov's Defense
+            King's Pawn Game        □ Philidor Defense
+                                    □ Ruy Lopez
+                                    □ Scotch Game
+                                • Owen's Defense
+                                • Pirc Defense
+                                • Scandinavian Defense
+                                    □ Tennison Gambit
+                                • Sicilian Defence
+ Openings                           □ Alapin
+                                    □ Dragon/Accelerated Dragon
+                                    □ Najdorf
+                                    □ Scheveningen
+
+                                • Dutch Defense
+                                • Indian Defense
+                                    □ Benoni Defense
+                                    □ Modern Benoni
+                                    □ Bogo-Indian Defense
+                                    □ Grünfeld Defense
+                                    □ King's Indian Defense
+                                    □ Nimzo-Indian Defense
+            Queen's Pawn Game       □ Queen's Indian Defense
+                                • Trompowsky Attack
+                                • London System
+                                • Queen's Gambit
+                                    □ Accepted
+                                    □ Declined
+                                    □ Slav Defense
+                                    □ Catalan Opening
+
+                                • List of openings
+                                    □ theory table
+                                • List of chess gambits
+                  Other         • Irregular
+                                • Quick checkmates
+                                    □ Fool's mate
+                                    □ Scholar's mate
+
+              • Bishop and knight checkmate
+              • King and pawn vs king
+              • Opposite-colored bishops
+              • Pawnless endgame
+              • Queen and pawn vs queen
+              • Queen vs pawn
+              • Rook and bishop vs rook
+              • Rook and pawn vs rook
+                  □ Lucena position
+                  □ Philidor position
+ Endgames     • Strategy
+                  □ fortress
+                  □ opposition
+                  □ Tarrasch rule
+                  □ triangulation
+                  □ Zugzwang
+              • Study
+              • Tablebase
+              • Two knights endgame
+              • Wrong bishop
+              • Wrong rook pawn
+
+              • List of strong chess tournaments
+              • Chess Olympiad
+                  □ Women
+              • World Chess Championship
+                  □ List
+                  □ Candidates Tournament
+                  □ Chess World Cup
+                  □ FIDE Grand Prix
+              • Other world championships
+                  □ Women
+                  □ Team
+Tournaments       □ Rapid
+                  □ Blitz
+                  □ Junior
+                  □ Youth
+                  □ Senior
+                  □ Amateur
+                  □ Chess composition
+                  □ Solving
+                  □ Computer chess
+                  □ Computer speed chess
+                  □ Chess engine
+
+              • Cheating in chess
+              • Chess aesthetics
+              • Chess in the arts
+                  □ in early literature
+              • Chess books
+                  □ opening books
+                  □ endgame literature
+              • Chess boxing
+              • Chess club
+              • Chess composer
+              • Chess in Europe
+                  □ Göttingen manuscript
+              • Chess libraries
+              • Chess museums
+  Related     • Chess newspaper columns
+              • Chess periodicals
+              • Chess problem
+                  □ glossary
+                  □ joke chess
+              • Chess prodigy
+              • Gökyay Association Chess Museum
+              • Deep Blue
+              • Dubrovnik chess set
+              • Mutilated chessboard problem
+              • PRO Chess League
+              • Simultaneous exhibition
+              • Solving chess
+              • Staunton chess set
+              • Top player comparison
+
+                   show
+
+                     • v
+                     • t
+                     • e
+
+           Glossaries of sports
+  • Sports terms named after people
+
+  • American football
+  • Archery
+  • Association football
+  • Athletics
+  • Australian rules football
+  • Baseball
+      □ derived idioms
+  • Basketball
+  • Board games
+  • Bowling
+  • Bowls
+  • Canadian football
+  • Chess
+      □ chess problems
+      □ computer chess
+  • Climbing
+  • Contract bridge
+  • Cricket
+  • Cue sports
+  • Curling
+  • Cycling
+      □ parts
+  • Darts
+  • Equestrian
+      □ Australian and New Zealand punting
+      □ North American horse racing
+  • Fencing
+  • Figure skating
+  • Gaelic games
+  • Golf
+  • Gymnastics
+  • Ice hockey
+  • Motorsport
+  • Poker
+  • Professional wrestling
+  • Rowing
+  • Rugby league
+  • Rugby union
+  • Sumo
+  • Surfing
+  • Table tennis
+  • Tennis
+  • Trampolining
+  • Underwater diving
+  • Volleyball
+  • Water polo
+  • Wing Chun
+
+  • Category
+
+*
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Glossary_of_chess&
+oldid=912670427"
+Categories:
+
+  • Chess terminology
+  • Glossaries of chess
+  • Wikipedia glossaries
+
+Hidden categories:
+
+  • Webarchive template wayback links
+  • Articles containing German-language text
+  • Articles containing French-language text
+  • All articles with self-published sources
+  • Articles with self-published sources from December 2017
+
+Navigation menu
+
+Personal tools
+
+  • Not logged in
+  • Talk
+  • Contributions
+  • Create account
+  • Log in
+
+Namespaces
+
+  • Article
+  • Talk
+
+[ ]
+
+Variants
+
+Views
+
+  • Read
+  • Edit
+  • View history
+
+[ ]
+
+More
+
+Search
+
+[                    ][Go]
+ 
+
+Navigation
+
+  • Main page
+  • Contents
+  • Featured content
+  • Current events
+  • Random article
+  • Donate to Wikipedia
+  • Wikipedia store
+
+Interaction
+
+  • Help
+  • About Wikipedia
+  • Community portal
+  • Recent changes
+  • Contact page
+
+Tools
+
+  • What links here
+  • Related changes
+  • Upload file
+  • Special pages
+  • Permanent link
+  • Page information
+  • Wikidata item
+  • Cite this page
+
+Print/export
+
+  • Create a book
+  • Download as PDF
+  • Printable version
+
+Languages
+
+  • العربية
+  • Català
+  • Español
+  • Français
+  • Galego
+  • 한국어
+  • Bahasa Indonesia
+  • Italiano
+  • Norsk
+  • Norsk nynorsk
+  • Português
+  • Русский
+  • Simple English
+  • Slovenščina
+  • Suomi
+  • Svenska
+  • Українська 8 more
+
+Edit links
+
+  • This page was last edited on 27 August 2019, at 03:24 (UTC).
+  • Text is available under the Creative Commons Attribution-ShareAlike License
+     ; additional terms may apply. By using this site, you agree to the Terms
+    of Use and Privacy Policy. Wikipedia® is a registered trademark of the
+    Wikimedia Foundation, Inc., a non-profit organization.
+
+  • Privacy policy
+  • About Wikipedia
+  • Disclaimers
+  • Contact Wikipedia
+  • Developers
+  • Cookie statement
+  • Mobile view
+  • Enable previews
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+ 
