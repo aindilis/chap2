@@ -27,7 +27,7 @@ Currently, to load a position, you can do:
 
 In order to run the analysis mode, which currently is very limited, run:
 
-?- analysis:analyze_position(pos(7)).
+?- a.
 
 Then, to display the results, run:
 
@@ -63,11 +63,10 @@ You will then hopefully see this:
 Analysis:
 
 true 
-.
-
-?-
-
 ```
+Enter ;, then you will see:
+
+    pin(on(piece(black,bishop),square(g,4)),on(piece(white,knight),square(f,3)),on(piece(white,queen),square(d,1)),pos(7)) 
 
 You will note that it has highlighted the pin.
 
