@@ -35,7 +35,8 @@ Then, to display the results, run:
 
 You will then hopefully see this:
 
-````
+```
+
 ?- d.
 
   +----+----+----+----+----+----+----+----+
@@ -63,7 +64,9 @@ You will then hopefully see this:
 Analysis:
 
 true 
+
 ```
+
 Enter ;, then you will see:
 
     pin(on(piece(black,bishop),square(g,4)),on(piece(white,knight),square(f,3)),on(piece(white,queen),square(d,1)),pos(7)) 
