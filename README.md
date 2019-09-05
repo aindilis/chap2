@@ -65,11 +65,16 @@ Analysis:
 
     pin(on(piece(black,bishop),square(g,4)),on(piece(white,knight),square(f,3)),on(piece(white,queen),square(d,1)),pos(7)) 
 
+
+true.
+
+?-
+
 ```
 
 You will note that it has highlighted the pin.
 
-To make moves, simply run:
+To make moves, simply use this notation:
 
 ?- m(d2d4).
 

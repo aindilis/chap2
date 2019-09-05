@@ -18,7 +18,7 @@ analyze_position(Pos) :-
 	assert(analyzed(Pos)).
 
 a :-
-	nl,write('Analysis:'),nl,nl.
+	nl,write('Analysis:'),nl,nl,fail.
 a :-
 	chess:current_pos(Pos),
 	findall(Fact,holds(Fact,Pos),Facts),
